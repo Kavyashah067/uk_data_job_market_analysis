@@ -53,6 +53,22 @@ uk_data_job_market_analysis/
 ### Top 10 Highest Paying Skills (min 20 jobs)
 ![Top Paying Skills](screenshots/top_paying_skills.png)
 
+### UK Data Job Salary Distribution
+![UK Data Job Salary Distribution](screenshots/salary_distribution.png)
+
+### UK Data Job Salary Boxplot
+![UK Data Job Salary Boxplot](screenshots/salary_boxplot.png)
+
+### Top 15 UK Locations by Average Salary
+![Top 15 UK Locations by Average Salary](screenshots/salary_by_location.png)
+
+### Remote vs Non-Remote Salary Comparison
+![Remote vs Non-Remote Salary Comparison](screenshots/remote_vs_nonremote.png)
+
+### Top Paying Data Skills in the UK (min 30 jobs)
+![Top Paying Data Skills in the UK](screenshots/skills_vs_salary.png)
+
+
 ## Output
 - Cleaned dataset with engineered features:
   - `days_since_posted`

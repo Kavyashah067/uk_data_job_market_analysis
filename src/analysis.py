@@ -1,4 +1,5 @@
 import pandas as pd
+import seaborn as sns
 import matplotlib.pyplot as plt
 
 
@@ -227,6 +228,175 @@ def save_cleaned_dataset(df: pd.DataFrame) -> None:
 
 
 # -------------------------------------------------
+# HISTOGRAM + KDE
+# -------------------------------------------------
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+def plot_salary_distribution(
+    df,
+    salary_column='salary_avg',
+    bins=30,
+    figsize=(10,6),
+    title="UK Data Job Salary Distribution"
+):
+    sns.set_style("whitegrid")
+    plt.figure(figsize=figsize)
+
+    sns.histplot(
+        df[salary_column].dropna(),
+        bins=bins,
+        kde=True
+    )
+
+    plt.title(title, fontsize=14)
+    plt.xlabel("Salary (£)")
+    plt.ylabel("Job Count")
+    plt.tight_layout()
+
+    plt.savefig("screenshots/salary_distribution.png", dpi=300)
+
+    plt.show()
+
+
+# -------------------------------------------------
+# BOX PLOT
+# -------------------------------------------------
+def plot_salary_boxplot(
+    df,
+    salary_column='salary_avg',
+    figsize=(8,5),
+    title="UK Data Job Salary Boxplot"
+):
+    sns.set_style("whitegrid")
+    plt.figure(figsize=figsize)
+
+    sns.boxplot(
+        x=df[salary_column].dropna()
+    )
+
+    plt.title(title, fontsize=14)
+    plt.xlabel("Salary (£)")
+    plt.tight_layout()
+
+    plt.savefig("screenshots/salary_boxplot.png", dpi=300)
+
+    plt.show()
+
+
+# -------------------------------------------------
+# SALARY BY LOCATION PLOT
+# -------------------------------------------------
+def plot_salary_by_location(
+    df,
+    location_column='Location',
+    salary_column='salary_avg',
+    top_n=10,
+    figsize=(10,6),
+    title="Top 15 UK Locations by Average Salary"
+):
+    sns.set_style("whitegrid")
+
+    top_locations = (
+        df.groupby(location_column)[salary_column]
+        .mean()
+        .sort_values(ascending=False)
+        .head(top_n)
+    )
+
+    plt.figure(figsize=figsize)
+
+    sns.barplot(
+        x=top_locations.values,
+        y=top_locations.index
+    )
+
+    plt.title(title, fontsize=14)
+    plt.xlabel("Average Salary (£)")
+    plt.ylabel("Location")
+    plt.tight_layout()
+
+    plt.savefig("screenshots/salary_by_location.png", dpi=300)
+
+    plt.show()
+
+
+# -------------------------------------------------
+# REMOTE VS NON REMOTE
+# -------------------------------------------------
+def feature_engineering(df):
+    df['is_remote'] = df['Location'].str.contains(
+        'Remote',
+        case=False,
+        na=False
+    )
+    return df
+
+def plot_remote_salary_comparison(
+    df,
+    remote_column='is_remote',
+    salary_column='salary_avg',
+    figsize=(8,5),
+    title="Remote vs Non-Remote Salary Comparison"
+):
+    sns.set_style("whitegrid")
+    plt.figure(figsize=figsize)
+
+    sns.boxplot(
+        x=df[remote_column],
+        y=df[salary_column]
+    )
+
+    plt.title(title, fontsize=14)
+    plt.xlabel("Remote Role")
+    plt.ylabel("Salary (£)")
+    plt.tight_layout()
+
+    plt.savefig("screenshots/remote_vs_nonremote.png", dpi=300)
+
+    plt.show()
+
+
+# -------------------------------------------------
+# SKILL VS SALARY
+# -------------------------------------------------
+def plot_skill_salary_correlation(
+    skills_df,
+    skill_column='Skills',
+    salary_column='salary_avg',
+    min_jobs=30,
+    top_n=10,
+    figsize=(10,6),
+    title="Top Paying Data Skills in the UK"
+):
+    sns.set_style("whitegrid")
+
+    skill_stats = (
+        skills_df.groupby(skill_column)[salary_column]
+        .agg(['count', 'mean'])
+        .query(f"count >= {min_jobs}")
+        .sort_values('mean', ascending=False)
+        .head(top_n)
+    )
+
+    plt.figure(figsize=figsize)
+
+    sns.barplot(
+        x=skill_stats['mean'],
+        y=skill_stats.index
+    )
+
+    plt.title(title, fontsize=14)
+    plt.xlabel("Average Salary (£)")
+    plt.ylabel("Skill")
+    plt.tight_layout()
+
+    plt.savefig("screenshots/skills_vs_salary.png", dpi=300)
+
+    plt.show()
+
+
+# -------------------------------------------------
 # MAIN PIPELINE
 # -------------------------------------------------
 def main():
@@ -243,7 +413,15 @@ def main():
 
     plot_top_skills(skill_counts)
     plot_top_paying_skills(skills_exploded) 
-    
+    plot_salary_distribution(df)
+    plot_salary_boxplot(df)
+    plot_salary_by_location(df)
+
+    df = feature_engineering(df)
+    plot_remote_salary_comparison(df)
+
+    plot_skill_salary_correlation(skills_exploded)
+
     save_cleaned_dataset(df)
 
 
