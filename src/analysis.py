@@ -92,6 +92,7 @@ def clean_salary_column(df: pd.DataFrame) -> pd.DataFrame:
 
     df["salary_max"] = df["salary_max"].fillna(df["salary_min"])
     df["salary_avg"] = (df["salary_min"] + df["salary_max"]) / 2
+    df = df[(df["salary_avg"] >= 20000) & (df["salary_avg"] <= 200000)]
 
     print("\nSalary cleaning completed")
     print("Overall average salary:", df["salary_avg"].mean())
@@ -394,37 +395,4 @@ def plot_skill_salary_correlation(
     plt.savefig("screenshots/skills_vs_salary.png", dpi=300)
 
     plt.show()
-
-
-# -------------------------------------------------
-# MAIN PIPELINE
-# -------------------------------------------------
-def main():
-    df = load_data(DATA_PATH)
-    basic_eda(df)
-
-    df = clean_date_column(df)
-    df = clean_salary_column(df)
-
-    analyze_jobs_and_locations(df)
-
-    skills_exploded = extract_skills(df)
-    skill_counts = analyze_skills(skills_exploded)
-
-    plot_top_skills(skill_counts)
-    plot_top_paying_skills(skills_exploded) 
-    plot_salary_distribution(df)
-    plot_salary_boxplot(df)
-    plot_salary_by_location(df)
-
-    df = feature_engineering(df)
-    plot_remote_salary_comparison(df)
-
-    plot_skill_salary_correlation(skills_exploded)
-
-    save_cleaned_dataset(df)
-
-
-if __name__ == "__main__":
-    main()
 
