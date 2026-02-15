@@ -68,8 +68,8 @@ uk_data_job_market_analysis/
 ### Top Paying Data Skills in the UK (min 30 jobs)
 ![Top Paying Data Skills in the UK](screenshots/skills_vs_salary.png)
 
-## Top 10 Most In-Demand Skills (SQL)
-![Top 10 Most In-Demand Skills (SQL)](images/top_skills_sql.png)
+## Top In-Demand Skills SQL
+![Top In-Demand Skills SQL](images/top_skills_sql.png)
 
 ## Output
 - Cleaned dataset with engineered features:

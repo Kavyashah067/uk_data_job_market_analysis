@@ -93,7 +93,7 @@ def plot_top_skills():
     plt.barh(df["skill"], df["demand_count"])
     plt.xlabel("Demand Count")
     plt.ylabel("Skill")
-    plt.title("Top 10 Most In-Demand Skills (SQL)")
+    plt.title("Top In-Demand Skills SQL")
     plt.gca().invert_yaxis()
     plt.tight_layout()
     plt.savefig("screenshots/top_skills_sql.png", dpi=300)
