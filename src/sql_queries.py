@@ -96,5 +96,5 @@ def plot_top_skills():
     plt.title("Top 10 Most In-Demand Skills (SQL)")
     plt.gca().invert_yaxis()
     plt.tight_layout()
-    plt.savefig("screenshots/top_skills_sql.png")
+    plt.savefig("screenshots/top_skills_sql.png", dpi=300)
     plt.show()
