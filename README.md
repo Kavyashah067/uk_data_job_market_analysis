@@ -124,5 +124,5 @@ The final Power BI dashboard integrates cleaned and structured data to visualize
 ![Top In-Demand Skills SQL](screenshots/top_skills_sql.png)
 
 ### PowerBI Dashboard
-![powerbi_dashboard](screenshots/powerbi_dashboard.png)
+![powerbi_dashboard](screenshots/Power_BI_Dashboard.png)
 
