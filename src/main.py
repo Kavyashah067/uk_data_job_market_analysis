@@ -17,7 +17,7 @@ from analysis import (
     save_cleaned_dataset
 )
 
-from sql_setup import create_database
+from sql_setup import create_database, export_tables_to_csv
 from sql_queries import (
     avg_salary_per_skill,
     remote_salary_comparison,
@@ -65,7 +65,13 @@ def run_sql_setup():
     df = clean_salary_column(df)
     df = feature_engineering(df)
 
+    # Create unique job_id
+    df = df.reset_index(drop=True)
+    df["job_id"] = df.index + 1
+
     create_database(df)
+    export_tables_to_csv()
+
 
 def run_sql_analysis():
     print("\nSQL Analysis Options:")

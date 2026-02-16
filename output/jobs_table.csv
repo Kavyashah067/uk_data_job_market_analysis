@@ -1,0 +1,626 @@
+Company,Company Score,job_title,Location,Date,Salary,days_since_posted,salary_cleaned,salary_type,salary_min,salary_max,salary_avg,is_remote,job_id
+Razorpoint,3.4,Junior Data Scientist,"Manchester, England",3d,£35K (Employer est.),3.0,35K,yearly,35000.0,35000.0,35000.0,0,1
+TW,4.0,Data Scientist,"Nottingham, England",30d+,£50K - £65K (Employer est.),30.0,50K - 65K,yearly,50000.0,65000.0,57500.0,0,2
+NatWest Group,4.6,Data Scientist,"Edinburgh, Scotland",2d,£41K - £54K (Glassdoor est.),2.0,41K - 54K,yearly,41000.0,54000.0,47500.0,0,3
+iwoca,3.9,Data Scientist - Ops,"London, England",7d,£60K - £90K (Employer est.),7.0,60K - 90K,yearly,60000.0,90000.0,75000.0,0,4
+Spotify,3.8,"Data Scientist, Programming & Editorial","London, England",30d+,£124K (Employer est.),30.0,124K,yearly,124000.0,124000.0,124000.0,0,5
+LSEG (London Stock Exchange Group),4.1,Data Scientist,"London, England",20d,£80K (Glassdoor est.),20.0,80K,yearly,80000.0,80000.0,80000.0,0,6
+CRED,4.1,Data Scientist,Remote,26d,£35K - £37K (Employer est.),26.0,35K - 37K,yearly,35000.0,37000.0,36000.0,1,7
+MLN Security,3.2,Junior Data Scientist,"Barking, East of England, England",30d+,£49K - £70K (Glassdoor est.),30.0,49K - 70K,yearly,49000.0,70000.0,59500.0,0,8
+PlayStation Global,4.0,Data Scientist,"London, England",11d,£34K (Employer est.),11.0,34K,yearly,34000.0,34000.0,34000.0,0,9
+SAVA,4.1,Data Scientist I/II,"London, England",5d,£41K - £54K (Glassdoor est.),5.0,41K - 54K,yearly,41000.0,54000.0,47500.0,0,10
+Volcore,3.9,Graduate Software Engineer / Data Scientist: Forecasting for Electricity Trading,"Manchester, England",3d,£48K (Employer est.),3.0,48K,yearly,48000.0,48000.0,48000.0,0,11
+NatWest,3.9,Data Scientist,"Edinburgh, Scotland",3d,£87K - £101K (Glassdoor est.),3.0,87K - 101K,yearly,87000.0,101000.0,94000.0,0,12
+University of Oxford,3.7,Data Scientist - IDDO,"Oxford, England",24h,£56K - £65K (Glassdoor est.),,56K - 65K,yearly,56000.0,65000.0,60500.0,0,13
+Similarweb,3.3,Data Scientist,"London, England",6d,£43K - £53K (Employer est.),6.0,43K - 53K,yearly,43000.0,53000.0,48000.0,0,14
+Spotify,3.7,"Data Scientist, Payments Fraud","London, England",21d,£51K - £73K (Glassdoor est.),21.0,51K - 73K,yearly,51000.0,73000.0,62000.0,0,15
+Future Workforce,3.6,Data Scientist,"Macclesfield, England",24h,£45K - £96K (Glassdoor est.),,45K - 96K,yearly,45000.0,96000.0,70500.0,0,16
+Tesco,4.0,Data Scientist - Forecasting,"Welwyn Garden City, England",18d,£55K - £71K (Glassdoor est.),18.0,55K - 71K,yearly,55000.0,71000.0,63000.0,0,17
+C3 AI,3.4,Data Scientist / Senior Data Scientist,"London, England",16d,£40K (Employer est.),16.0,40K,yearly,40000.0,40000.0,40000.0,0,18
+Sky,2.8,Network Data Scientist,"London, England",6d,£50K - £55K (Employer est.),6.0,50K - 55K,yearly,50000.0,55000.0,52500.0,0,19
+QA Apprenticeships,3.3,Data Scientist Apprentice,"London, England",6d,£32K (Employer est.),6.0,32K,yearly,32000.0,32000.0,32000.0,0,20
+Meta,4.3,"Data Scientist, Product Analytics",Remote,30d+,£40K - £49K (Glassdoor est.),30.0,40K - 49K,yearly,40000.0,49000.0,44500.0,1,21
+Deliveroo,3.5,Data Scientist,"London, England",13d,£48K (Employer est.),13.0,48K,yearly,48000.0,48000.0,48000.0,0,22
+HSS Hire Group,4.2,Data Scientist (retail/ecom),Remote,30d+,£56K (Employer est.),30.0,56K,yearly,56000.0,56000.0,56000.0,1,23
+ICAS,3.0,Data Scientist,"Edinburgh, Scotland",5d,£28K - £61K (Glassdoor est.),5.0,28K - 61K,yearly,28000.0,61000.0,44500.0,0,24
+ION,3.4,Internship - Data Science,"London, England",30d+,£31K - £41K (Glassdoor est.),30.0,31K - 41K,yearly,31000.0,41000.0,36000.0,0,25
+British Trust for Ornithology,3.5,Data Scientist,"Thetford, England",5d,£66K - £87K (Glassdoor est.),5.0,66K - 87K,yearly,66000.0,87000.0,76500.0,0,26
+Edwards Ltd,3.8,Data Scientist,"Burgess Hill, England",28d,£44K - £50K (Employer est.),28.0,44K - 50K,yearly,44000.0,50000.0,47000.0,0,27
+Yorkshire Building Society,3.7,Data Scientist,"Leeds, England",7d,£44K - £58K (Glassdoor est.),7.0,44K - 58K,yearly,44000.0,58000.0,51000.0,0,28
+HMGCC,5.0,Data Scientist,"Milton Keynes, England",14d,£55K - £69K (Glassdoor est.),14.0,55K - 69K,yearly,55000.0,69000.0,62000.0,0,29
+Admiral,3.8,Data Scientist,"Cardiff, Wales",17d,£50K - £66K (Glassdoor est.),17.0,50K - 66K,yearly,50000.0,66000.0,58000.0,0,30
+Intellium AI,4.2,Data Scientist - Intern,"Bristol, England",30d+,£41K - £53K (Glassdoor est.),30.0,41K - 53K,yearly,41000.0,53000.0,47000.0,0,31
+Diaceutics,3.8,Data Scientist,"Belfast, Northern Ireland",4d,£32K - £45K (Glassdoor est.),4.0,32K - 45K,yearly,32000.0,45000.0,38500.0,0,32
+Oracle,4.1,Senior Data Scientist,"Reading, England",30d+,£118K - £128K (Glassdoor est.),30.0,118K - 128K,yearly,118000.0,128000.0,123000.0,0,33
+NHS Midlands and Lancashire Commissioning Support Unit,4.3,Data Scientist,"Birmingham, England",20d,£56K - £65K (Glassdoor est.),20.0,56K - 65K,yearly,56000.0,65000.0,60500.0,0,34
+Hadrian,3.7,Commercial Data Analyst - Internship,"London, England",2d,£44K - £67K (Glassdoor est.),2.0,44K - 67K,yearly,44000.0,67000.0,55500.0,0,35
+Peak AI,4.0,Data Scientist,"Manchester, England",6d,£24K - £43K (Glassdoor est.),6.0,24K - 43K,yearly,24000.0,43000.0,33500.0,0,36
+Mastercard,3.9,Senior Data Scientist - Financial Crime,"London, England",30d+,£31K - £37K (Glassdoor est.),30.0,31K - 37K,yearly,31000.0,37000.0,34000.0,0,37
+Monzo,3.3,"Senior Data Scientist, Payments","London, England",13d,£31K - £36K (Employer est.),13.0,31K - 36K,yearly,31000.0,36000.0,33500.0,0,38
+PGSM Consulting,4.1,Data Scientist,"Reading, England",30d+,£40K - £60K (Employer est.),30.0,40K - 60K,yearly,40000.0,60000.0,50000.0,0,39
+easyJet,4.6,Senior Data Scientist,"Luton, East of England, England",4d,£33K (Employer est.),4.0,33K,yearly,33000.0,33000.0,33000.0,0,40
+Medialab Group,1.7,DATA SCIENTIST,"London, England",26d,£31K - £48K (Glassdoor est.),26.0,31K - 48K,yearly,31000.0,48000.0,39500.0,0,41
+Castleton Commodities International,4.2,Data Science Machine Learning Internship (Summer 2025),"London, England",27d,£47K - £70K (Glassdoor est.),27.0,47K - 70K,yearly,47000.0,70000.0,58500.0,0,42
+Windranger Labs,4.8,Data Analyst,Remote,10d,£60K - £80K (Employer est.),10.0,60K - 80K,yearly,60000.0,80000.0,70000.0,1,43
+Spotify,4.0,"Senior Data Scientist, Learning","London, England",4d,£90K - £130K (Glassdoor est.),4.0,90K - 130K,yearly,90000.0,130000.0,110000.0,0,44
+UserTesting,3.8,Data Scientist,"Edinburgh, Scotland",30d+,£31K (Employer est.),30.0,31K,yearly,31000.0,31000.0,31000.0,0,45
+Cromwell Group,4.2,Data Scientist,"Leicester, England",30d+,£43K - £46K (Employer est.),30.0,43K - 46K,yearly,43000.0,46000.0,44500.0,0,46
+Climate X,4.0,Data Scientist,"London, England",27d,£47K - £66K (Glassdoor est.),27.0,47K - 66K,yearly,47000.0,66000.0,56500.0,0,47
+Animoca Brands Limited,3.6,Tokenomics Data Analyst/Scientist,Remote,30d+,£35K - £60K (Glassdoor est.),30.0,35K - 60K,yearly,35000.0,60000.0,47500.0,1,48
+AlphaAnalytics Limited,4.3,Data Scientist/Engineer,"Chelmsford, England",26d,£50K - £80K (Employer est.),26.0,50K - 80K,yearly,50000.0,80000.0,65000.0,0,49
+American Express Global Business Travel,2.8,Senior Data Scientist,Remote,30d+,£50K - £62K (Glassdoor est.),30.0,50K - 62K,yearly,50000.0,62000.0,56000.0,1,50
+JNCTION,4.2,Data Scientist / AI Consultant,"Farringdon, England",26d,£29K - £51K (Glassdoor est.),26.0,29K - 51K,yearly,29000.0,51000.0,40000.0,0,51
+Moneyhub,4.2,Data Scientist,Remote,5d,£29K - £33K (Glassdoor est.),5.0,29K - 33K,yearly,29000.0,33000.0,31000.0,1,52
+Cox Automotive,5.0,Data Scientist,"Manchester, England",30d,£44K - £61K (Glassdoor est.),30.0,44K - 61K,yearly,44000.0,61000.0,52500.0,0,53
+Medialab,3.9,DATA SCIENTIST,"London, England",27d,£40K - £95K (Glassdoor est.),27.0,40K - 95K,yearly,40000.0,95000.0,67500.0,0,54
+Harris Computer,4.1,Data Scientist,"Gateshead, England",30d+,£32K - £39K (Employer est.),30.0,32K - 39K,yearly,32000.0,39000.0,35500.0,0,55
+Meta,3.8,Marketing Data Scientist,"London, England",19d,£58K - £91K (Glassdoor est.),19.0,58K - 91K,yearly,58000.0,91000.0,74500.0,0,56
+Nationwide,4.2,"Associate Data Scientist, Advanced Analytics","Swindon, Wiltshire, South West England, England",19d,£41K - £54K (Glassdoor est.),19.0,41K - 54K,yearly,41000.0,54000.0,47500.0,0,57
+Defence Equipment & Support,4.4,Data Scientist,"Bristol, England",24h,£25K - £30K (Employer est.),,25K - 30K,yearly,25000.0,30000.0,27500.0,0,58
+FalconSmartIT,4.0,Data Scientist,"London, England",30d+,£60K - £76K (Glassdoor est.),30.0,60K - 76K,yearly,60000.0,76000.0,68000.0,0,59
+ManyPets,3.5,Lead Data Scientist,"London, England",14d,£32K (Employer est.),14.0,32K,yearly,32000.0,32000.0,32000.0,0,60
+Robin AI,4.3,Junior Applied Scientist,"London, England",18d,£34K - £65K (Glassdoor est.),18.0,34K - 65K,yearly,34000.0,65000.0,49500.0,0,61
+Capgemini Invent,4.3,Consultant - Data & AI Strategy - Data Strategy,"London, England",24h,£55K - £80K (Glassdoor est.),,55K - 80K,yearly,55000.0,80000.0,67500.0,0,62
+Informed Solutions,4.5,Data Scientist,"Manchester, England",30d+,£25K - £30K (Glassdoor est.),30.0,25K - 30K,yearly,25000.0,30000.0,27500.0,0,63
+Finz Limited,4.3,AI Intern,"London, England",18d,£60K - £80K (Glassdoor est.),18.0,60K - 80K,yearly,60000.0,80000.0,70000.0,0,64
+Talenting,4.2,Contract Data Scientist,"Oxford, England",30d+,£46K - £66K (Glassdoor est.),30.0,46K - 66K,yearly,46000.0,66000.0,56000.0,0,65
+Creditsafe,3.2,Data Analyst,"Cardiff, Wales",4d,£67K (Glassdoor est.),4.0,67K,yearly,67000.0,67000.0,67000.0,0,66
+SKM Group,4.1,Senior Data Scientist,Remote,24h,£68K - £73K (Glassdoor est.),,68K - 73K,yearly,68000.0,73000.0,70500.0,1,67
+The Voleon Group,5.0,Data Scientist (London),"London, England",30d+,£34K - £45K (Glassdoor est.),30.0,34K - 45K,yearly,34000.0,45000.0,39500.0,0,68
+COLLAB. Recruitment Ltd,3.2,Data Scientist,"London, England",30d+,£60K - £80K (Employer est.),30.0,60K - 80K,yearly,60000.0,80000.0,70000.0,0,69
+Government Office for Science,4.2,Data Scientist,"London, England",24h,£54K (Employer est.),,54K,yearly,54000.0,54000.0,54000.0,0,70
+Whatnot,3.0,"Data Scientist, Go-To-Market (UK)","London, England",30d+,£55K (Employer est.),30.0,55K,yearly,55000.0,55000.0,55000.0,0,71
+NatWest Group,4.1,Senior Data Scientist,"Edinburgh, Scotland",30d+,£47K - £69K (Glassdoor est.),30.0,47K - 69K,yearly,47000.0,69000.0,58000.0,0,72
+Information Tech Consultants,3.4,Junior Big Data Engineer,"London, England",5d,£39K - £42K (Employer est.),5.0,39K - 42K,yearly,39000.0,42000.0,40500.0,0,73
+Octopus Energy Group,3.2,Data Scientist - Kraken Field Platform,"London, England",19d,£40K - £50K (Glassdoor est.),19.0,40K - 50K,yearly,40000.0,50000.0,45000.0,0,74
+British Trust for Ornithology (BTO),4.4,Data Scientist,"Thetford, England",5d,£35K - £63K (Glassdoor est.),5.0,35K - 63K,yearly,35000.0,63000.0,49000.0,0,75
+Apollo,3.9,Data Science Apprentice,"London, England",13d,£40K (Employer est.),13.0,40K,yearly,40000.0,40000.0,40000.0,0,76
+Netstratum,4.0,Data Engineer,"Middlesbrough, England",5d,£56K (Employer est.),5.0,56K,yearly,56000.0,56000.0,56000.0,0,77
+Faculty,3.5,Data Scientist - Radar Systems,"London, England",30d+,£73K - £95K (Glassdoor est.),30.0,73K - 95K,yearly,73000.0,95000.0,84000.0,0,78
+JD Sports,3.2,Data Scientist,"Bury, North West England, England",3d,£47K - £69K (Glassdoor est.),3.0,47K - 69K,yearly,47000.0,69000.0,58000.0,0,79
+Thomson Reuters,3.9,"Data Scientist, Reuters","London, England",2d,£58K - £76K (Glassdoor est.),2.0,58K - 76K,yearly,58000.0,76000.0,67000.0,0,80
+Aimpoint Digital,3.5,"Senior Decision Scientist, UK 2024","London, England",3d,£46K - £74K (Glassdoor est.),3.0,46K - 74K,yearly,46000.0,74000.0,60000.0,0,81
+Gousto,3.7,Data Scientist - Optimisation,"London, England",30d+,£54K - £84K (Glassdoor est.),30.0,54K - 84K,yearly,54000.0,84000.0,69000.0,0,82
+Corsearch,4.3,Data Scientist,"London, England",13d,£84K (Employer est.),13.0,84K,yearly,84000.0,84000.0,84000.0,0,83
+Cievert,3.8,Data Scientist,"Gateshead, England",30d+,£40K - £60K (Employer est.),30.0,40K - 60K,yearly,40000.0,60000.0,50000.0,0,84
+Capita,3.1,Pensions Data Scientist,Remote,30d+,£24K - £25K (Glassdoor est.),30.0,24K - 25K,yearly,24000.0,25000.0,24500.0,1,85
+Propel Together,3.5,Data Scientist – NLP,"Glasgow, Scotland",30d+,£38K - £87K (Glassdoor est.),30.0,38K - 87K,yearly,38000.0,87000.0,62500.0,0,86
+City & Guilds Group,4.5,R Shiny Application Developer (Data Scientist),"Wakefield, England",3d,£55K (Employer est.),3.0,55K,yearly,55000.0,55000.0,55000.0,0,87
+Halfords,3.5,Data Scientist,"Redditch, England",30d+,£43K (Employer est.),30.0,43K,yearly,43000.0,43000.0,43000.0,0,88
+VIOOH,4.0,Data Scientist (DSM),"London, England",30d+,£68K - £76K (Employer est.),30.0,68K - 76K,yearly,68000.0,76000.0,72000.0,0,89
+University of Hertfordshire,3.5,Natural Language Processing (NLP) Data Scientist (KTP Associate),"Hatfield, East of England, England",14d,£39K - £60K (Glassdoor est.),14.0,39K - 60K,yearly,39000.0,60000.0,49500.0,0,90
+Evonetix Ltd,3.6,Software Engineer – Data Scientist / Bioinformatics,"Cambridge, East of England, England",21d,£34K - £47K (Glassdoor est.),21.0,34K - 47K,yearly,34000.0,47000.0,40500.0,0,91
+MPB,3.6,Data Scientist,"Brighton, England",30d+,£90K - £127K (Glassdoor est.),30.0,90K - 127K,yearly,90000.0,127000.0,108500.0,0,92
+Machine Medicine Technologies,3.9,Data Scientist,"London, England",30d+,£57K - £75K (Glassdoor est.),30.0,57K - 75K,yearly,57000.0,75000.0,66000.0,0,93
+PHASTAR,3.1,Senior Data Scientist,Remote,18d,£28K - £47K (Glassdoor est.),18.0,28K - 47K,yearly,28000.0,47000.0,37500.0,1,94
+HMGCC (His Majesty’s Government Communications Centre),3.3,Data Scientist,"Hanslope, England",14d,£71K - £95K (Glassdoor est.),14.0,71K - 95K,yearly,71000.0,95000.0,83000.0,0,95
+LogicMonitor,3.5,Data Scientist,"London, England",25d,£33K - £42K (Glassdoor est.),25.0,33K - 42K,yearly,33000.0,42000.0,37500.0,0,96
+JaJa Finance Ltd,3.8,Senior Data Scientist,"London, England",30d+,£67K (Glassdoor est.),30.0,67K,yearly,67000.0,67000.0,67000.0,0,97
+Octopus Energy Group,3.7,Product Data Scientist,"London, England",25d,£45K - £78K (Glassdoor est.),25.0,45K - 78K,yearly,45000.0,78000.0,61500.0,0,98
+Oxa,4.2,Machine Learning Data Scientist,"Oxford, England",30d+,£41K - £53K (Glassdoor est.),30.0,41K - 53K,yearly,41000.0,53000.0,47000.0,0,99
+ValMIND,4.0,Data Scientist AI/ML,"Cambridge, East of England, England",30d+,£40K - £80K (Glassdoor est.),30.0,40K - 80K,yearly,40000.0,80000.0,60000.0,0,100
+Financial Ombudsman Service,3.4,Data Scientist,"London, England",19d,£49K - £67K (Glassdoor est.),19.0,49K - 67K,yearly,49000.0,67000.0,58000.0,0,101
+Connex One,4.1,Data Scientist (ASR),"Manchester, England",30d+,£55K - £79K (Glassdoor est.),30.0,55K - 79K,yearly,55000.0,79000.0,67000.0,0,102
+Seopa,4.2,Associate Data Scientist,"Belfast, Northern Ireland",30d+,£36K - £64K (Glassdoor est.),30.0,36K - 64K,yearly,36000.0,64000.0,50000.0,0,103
+Samsung Electronics,3.5,Data Scientist - 6 Month Contract,United Kingdom,30d+,£45K - £54K (Glassdoor est.),30.0,45K - 54K,yearly,45000.0,54000.0,49500.0,0,104
+Habitat Energy,3.9,Data Engineer/Machine Learning Ops,"Oxford, England",11d,£33K - £35K (Employer est.),11.0,33K - 35K,yearly,33000.0,35000.0,34000.0,0,105
+Intellium AI,2.7,Data Scientist,"Bristol, England",30d+,£65K - £83K (Glassdoor est.),30.0,65K - 83K,yearly,65000.0,83000.0,74000.0,0,106
+B&Q,3.6,Data Scientist,"Eastleigh, England",30d+,£46K - £66K (Glassdoor est.),30.0,46K - 66K,yearly,46000.0,66000.0,56000.0,0,107
+Medicines and Healthcare products Regulatory Agency,2.8,CPRD FTC Data Scientist (OR),"London, England",7d,£36K - £60K (Glassdoor est.),7.0,36K - 60K,yearly,36000.0,60000.0,48000.0,0,108
+Lloyds Banking Group,4.2,Data Scientist,"Bristol, England",16d,£45K - £95K (Employer est.),16.0,45K - 95K,yearly,45000.0,95000.0,70000.0,0,109
+Bicycle Therapeutics,5.0,Senior Translational Data Scientist,"Cambridge, East of England, England",30d+,£60K - £80K (Glassdoor est.),30.0,60K - 80K,yearly,60000.0,80000.0,70000.0,0,110
+e.surv,4.1,Data Scientist,"Kettering, England",30d+,£35K - £43K (Glassdoor est.),30.0,35K - 43K,yearly,35000.0,43000.0,39000.0,0,111
+Bumble Inc.,2.9,"Senior Data Scientist, Product Analytics","London, England",30d+,£30K - £41K (Employer est.),30.0,30K - 41K,yearly,30000.0,41000.0,35500.0,0,112
+Specsavers,3.8,Senior Data Scientist,United Kingdom,3d,£30K - £40K (Glassdoor est.),3.0,30K - 40K,yearly,30000.0,40000.0,35000.0,0,113
+Sentium,4.2,Senior Data Scientist,Remote,30d+,£71K - £95K (Glassdoor est.),30.0,71K - 95K,yearly,71000.0,95000.0,83000.0,1,114
+Walker Fraser Steele,4.5,Data Scientist,"Kettering, England",30d+,£30K - £44K (Glassdoor est.),30.0,30K - 44K,yearly,30000.0,44000.0,37000.0,0,115
+Vitol,3.1,Data Scientist,"London, England",30d+,£55K - £72K (Glassdoor est.),30.0,55K - 72K,yearly,55000.0,72000.0,63500.0,0,116
+RAC,3.7,Operations Data Scientist,"Walsall, England",30d+,£50K - £78K (Glassdoor est.),30.0,50K - 78K,yearly,50000.0,78000.0,64000.0,0,117
+Brit Group Services,3.5,Senior Data Scientist,"London, England",14d,£41K - £66K (Glassdoor est.),14.0,41K - 66K,yearly,41000.0,66000.0,53500.0,0,118
+DataSpartan Consulting,3.7,DATA SCIENTIST,"London, England",30d+,£60K - £80K (Employer est.),30.0,60K - 80K,yearly,60000.0,80000.0,70000.0,0,119
+Lockheed Martin Corporation,4.2,Data Scientist,"Gloucester, England",30d+,£38K - £41K (Glassdoor est.),30.0,38K - 41K,yearly,38000.0,41000.0,39500.0,0,120
+Peel Hunt,4.4,Senior Data Scientist,"London, England",3d,£50K - £61K (Glassdoor est.),3.0,50K - 61K,yearly,50000.0,61000.0,55500.0,0,121
+Convatec,4.0,Data Scientist,"London, England",30d+,£37K - £61K (Glassdoor est.),30.0,37K - 61K,yearly,37000.0,61000.0,49000.0,0,122
+Spotify,3.4,"Senior Data Scientist, Parental leave cover (12 months)","London, England",11d,£75K - £100K (Employer est.),11.0,75K - 100K,yearly,75000.0,100000.0,87500.0,0,123
+Recruitment Room,4.1,Data Scientist,"London, England",30d+,£25K - £38K (Glassdoor est.),30.0,25K - 38K,yearly,25000.0,38000.0,31500.0,0,124
+MarketCast UK Ltd,3.4,Data Scientist I,"Reading, England",30d+,£43K - £68K (Glassdoor est.),30.0,43K - 68K,yearly,43000.0,68000.0,55500.0,0,125
+KANTAR,4.4,Data Scientist,"London, England",30d+,£39K - £52K (Glassdoor est.),30.0,39K - 52K,yearly,39000.0,52000.0,45500.0,0,126
+Bannatyne,3.9,Data Analyst,"Darlington, North East England, England",11d,£39K - £61K (Glassdoor est.),11.0,39K - 61K,yearly,39000.0,61000.0,50000.0,0,127
+Bloom & Wild,4.1,Data Scientist,"London, England",30d+,£51K - £65K (Glassdoor est.),30.0,51K - 65K,yearly,51000.0,65000.0,58000.0,0,128
+Webtures,4.5,Senior Data Scientist,"London, England",12d,£67K - £79K (Glassdoor est.),12.0,67K - 79K,yearly,67000.0,79000.0,73000.0,0,129
+Global 4 Communications Limited,3.8,Data Analyst,"Horsham, England",30d+,£80K - £83K (Employer est.),30.0,80K - 83K,yearly,80000.0,83000.0,81500.0,0,130
+Datasource,2.8,Data Scientist,"Bristol, England",30d+,£55K - £80K (Glassdoor est.),30.0,55K - 80K,yearly,55000.0,80000.0,67500.0,0,131
+Expedia Partner Solutions,3.8,"Data Scientist II, Product Analytics","London, England",30d+,£51K - £65K (Glassdoor est.),30.0,51K - 65K,yearly,51000.0,65000.0,58000.0,0,132
+Google,3.5,"Senior Data Scientist, Generative AI, Google Cloud","London, England",3d,£52K - £58K (Employer est.),3.0,52K - 58K,yearly,52000.0,58000.0,55000.0,0,133
+Cooper Parry,3.5,Head of Data & Analytics,"Derby, England",4d,£92K - £112K (Glassdoor est.),4.0,92K - 112K,yearly,92000.0,112000.0,102000.0,0,134
+Gamingtec,4.1,Senior Data Scientist,Remote,30d+,£83K - £88K (Glassdoor est.),30.0,83K - 88K,yearly,83000.0,88000.0,85500.0,1,135
+LSL Property Services,3.7,Data Scientist,"Kettering, England",30d+,£45K - £93K (Glassdoor est.),30.0,45K - 93K,yearly,45000.0,93000.0,69000.0,0,136
+UK Health Security Agency,3.3,Data Scientist,"London, England",12d,£45K - £90K (Glassdoor est.),12.0,45K - 90K,yearly,45000.0,90000.0,67500.0,0,137
+Capgemini Engineering,3.5,Experienced Data Scientist/ Software Developer,"Ashby de la Zouch, England",9d,£30K - £57K (Glassdoor est.),9.0,30K - 57K,yearly,30000.0,57000.0,43500.0,0,138
+Founding Teams,4.4,Lead AI / ML / Data Science Engineer - UK,Remote,10d,£40K - £65K (Employer est.),10.0,40K - 65K,yearly,40000.0,65000.0,52500.0,1,139
+Vitol,4.0,Desk Data Scientist (Crude),"London, England",30d+,£69K - £85K (Glassdoor est.),30.0,69K - 85K,yearly,69000.0,85000.0,77000.0,0,140
+HEOR,4.1,Data Scientist,"Cardiff, Wales",30d+,£74K (Employer est.),30.0,74K,yearly,74000.0,74000.0,74000.0,0,141
+Lane Clark & Peacock,3.3,Energy Data Scientist,"London, England",30d+,£67K - £93K (Employer est.),30.0,67K - 93K,yearly,67000.0,93000.0,80000.0,0,142
+NatWest,4.1,Senior Data Scientist,"London, England",30d+,£55K - £65K (Glassdoor est.),30.0,55K - 65K,yearly,55000.0,65000.0,60000.0,0,143
+Direct Line Group,3.8,Counter Fraud Data Scientist,"Leeds, England",30d+,£55K - £65K (Glassdoor est.),30.0,55K - 65K,yearly,55000.0,65000.0,60000.0,0,144
+Intec Select,4.0,SENIOR DATA SCIENTIST,"London, England",30d+,£55K - £69K (Glassdoor est.),30.0,55K - 69K,yearly,55000.0,69000.0,62000.0,0,145
+Diamond Light Source,3.8,Data Analyst Scientist - Diamond Light Source and Fragment-Screen,"Didcot, England",8d,£55K (Employer est.),8.0,55K,yearly,55000.0,55000.0,55000.0,0,146
+Geomiq,4.0,Senior Data Scientist,"London, England",30d+,£55K - £71K (Glassdoor est.),30.0,55K - 71K,yearly,55000.0,71000.0,63000.0,0,147
+BAE Systems,2.6,Data Scientist - Gloucester - National Security,"Gloucester, England",2d,£83K - £88K (Glassdoor est.),2.0,83K - 88K,yearly,83000.0,88000.0,85500.0,0,148
+Futurice GmbH,3.8,Data & AI Specialist,"London, England",13d,£55K - £80K (Glassdoor est.),13.0,55K - 80K,yearly,55000.0,80000.0,67500.0,0,149
+Innovative Technology Ltd,4.2,Data Scientist,"Oldham, England",30d+,£34K - £83K (Glassdoor est.),30.0,34K - 83K,yearly,34000.0,83000.0,58500.0,0,150
+managementsolutions,4.2,DATA SCIENCE CONSULTANT LONDON,"London, England",30d+,£65K - £77K (Glassdoor est.),30.0,65K - 77K,yearly,65000.0,77000.0,71000.0,0,151
+OneAdvanced,3.7,Data Scientist,"Birmingham, England",30d+,£37K - £61K (Glassdoor est.),30.0,37K - 61K,yearly,37000.0,61000.0,49000.0,0,152
+Global Dimensions,4.1,Data Scientist,"Molesworth, England",30d+,£28K - £49K (Glassdoor est.),30.0,28K - 49K,yearly,28000.0,49000.0,38500.0,0,153
+Chubb,4.2,"Data Scientist, Consumer Lines- Insurance","London, England",30d+,£45K - £65K (Employer est.),30.0,45K - 65K,yearly,45000.0,65000.0,55000.0,0,154
+Insilico Medicine,4.5,Senior Data Scientist (UAE),Remote,30d+,£48K - £52K (Glassdoor est.),30.0,48K - 52K,yearly,48000.0,52000.0,50000.0,1,155
+Booking.com,3.8,Machine Learning Scientist II,"Manchester, England",13d,£60K - £95K (Employer est.),13.0,60K - 95K,yearly,60000.0,95000.0,77500.0,0,156
+TW,3.3,Lead Data Analyst,"Birmingham, England",30d+,£74K - £120K (Glassdoor est.),30.0,74K - 120K,yearly,74000.0,120000.0,97000.0,0,157
+DataCamp,3.9,Data Science Content Developer,"London, England",30d+,£43K - £55K (Glassdoor est.),30.0,43K - 55K,yearly,43000.0,55000.0,49000.0,0,158
+Chubb,3.8,Data Scientist,"London, England",30d+,£24K - £45K (Glassdoor est.),30.0,24K - 45K,yearly,24000.0,45000.0,34500.0,0,159
+Public Health Wales,2.9,Principal Public Health Data Scientist,"Cardiff, Wales",17d,£130K - £144K (Glassdoor est.),17.0,130K - 144K,yearly,130000.0,144000.0,137000.0,0,160
+Meta,3.2,"Data Engineer, Analytics","London, England",30d+,£51K - £67K (Glassdoor est.),30.0,51K - 67K,yearly,51000.0,67000.0,59000.0,0,161
+C3 AI,4.1,Data Scientist/Senior Data Scientist - Generative AI,"London, England",3d,£69K - £78K (Glassdoor est.),3.0,69K - 78K,yearly,69000.0,78000.0,73500.0,0,162
+Bloomberg,3.8,BloombergNEF Quant Modeling Data Scientist,"London, England",6d,£94K - £115K (Glassdoor est.),6.0,94K - 115K,yearly,94000.0,115000.0,104500.0,0,163
+PGSM Consulting,3.2,AI Scientist - Machine Learning,"Reading, England",30d+,£92K - £112K (Glassdoor est.),30.0,92K - 112K,yearly,92000.0,112000.0,102000.0,0,164
+Sensor Tower,3.7,Senior Data Scientist - Ad Intelligence,"London, England",30d+,£45K - £78K (Glassdoor est.),30.0,45K - 78K,yearly,45000.0,78000.0,61500.0,0,165
+VIVID Housing,4.0,Senior Data Scientist,"Basingstoke, England",9d,£30K - £35K (Employer est.),9.0,30K - 35K,yearly,30000.0,35000.0,32500.0,0,166
+Coventry Building Society,2.8,Principal Data Scientist,"Coventry, England",30d+,£34K (Employer est.),30.0,34K,yearly,34000.0,34000.0,34000.0,0,167
+Sotheby's,4.2,Senior Data Scientist,"London, England",30d+,£61K - £73K (Glassdoor est.),30.0,61K - 73K,yearly,61000.0,73000.0,67000.0,0,168
+Choreograph,4.0,Data Scientist,"London, England",30d+,£67K - £79K (Glassdoor est.),30.0,67K - 79K,yearly,67000.0,79000.0,73000.0,0,169
+Mastercard,3.4,"Director, Applied Data Science","London, England",30d+,£67K (Employer est.),30.0,67K,yearly,67000.0,67000.0,67000.0,0,170
+Yorkshire Building Society,4.3,"Data Intelligence Partner - AI, ML and Analytics","Leeds, England",24h,£26K - £34K (Employer est.),,26K - 34K,yearly,26000.0,34000.0,30000.0,0,171
+Sky,4.2,Senior Data Scientist,"London, England",26d,£66K - £119K (Glassdoor est.),26.0,66K - 119K,yearly,66000.0,119000.0,92500.0,0,172
+Pythia Sports,3.7,Data Scientist - Bayesian,"London, England",30d+,£65K - £87K (Glassdoor est.),30.0,65K - 87K,yearly,65000.0,87000.0,76000.0,0,173
+Faculty,4.5,Data Scientist - Sonar Systems,"London, England",30d+,£101K - £120K (Glassdoor est.),30.0,101K - 120K,yearly,101000.0,120000.0,110500.0,0,174
+Hudson River Trading,3.0,Data Production Engineer,"London, England",30d+,£55K - £67K (Glassdoor est.),30.0,55K - 67K,yearly,55000.0,67000.0,61000.0,0,175
+Expedia Group,3.4,Machine Learning Scientist III (Meta bidding),"London, England",2d,£57K - £70K (Glassdoor est.),2.0,57K - 70K,yearly,57000.0,70000.0,63500.0,0,176
+InPost UK,3.8,Big Data Analyst,"London, England",9d,£51K - £90K (Glassdoor est.),9.0,51K - 90K,yearly,51000.0,90000.0,70500.0,0,177
+BAE Systems,4.2,Data Scientist – Gloucester – National Security,"Gloucester, England",30d+,£70K - £100K (Employer est.),30.0,70K - 100K,yearly,70000.0,100000.0,85000.0,0,178
+CGI,3.4,Data Scientist (DV Security Clearance),"Gloucester, England",11d,£57K - £82K (Glassdoor est.),11.0,57K - 82K,yearly,57000.0,82000.0,69500.0,0,179
+Datasource,4.1,Data Science Consultant,"Manchester, England",30d+,£44K - £65K (Glassdoor est.),30.0,44K - 65K,yearly,44000.0,65000.0,54500.0,0,180
+Causeway Technologies,3.9,Lead Data and AI Scientist,"Middlesbrough, England",30d+,£46K - £66K (Glassdoor est.),30.0,46K - 66K,yearly,46000.0,66000.0,56000.0,0,181
+The Rank Group,3.9,Senior Data Scientist,"London, England",30d+,£87K - £102K (Employer est.),30.0,87K - 102K,yearly,87000.0,102000.0,94500.0,0,182
+Propel Together,3.8,Senior Data Scientist – NLP & MLOps,"London, England",30d+,£35K - £46K (Glassdoor est.),30.0,35K - 46K,yearly,35000.0,46000.0,40500.0,0,183
+Monzo,4.1,"Senior Data Scientist, CRM","London, England",30d+,£35K - £61K (Glassdoor est.),30.0,35K - 61K,yearly,35000.0,61000.0,48000.0,0,184
+FM Conway,3.8,Health and Safety Data Analyst,"Sevenoaks, England",30d+,£64K - £85K (Glassdoor est.),30.0,64K - 85K,yearly,64000.0,85000.0,74500.0,0,185
+Sidetrade,4.5,Data Scientist,"Birmingham, England",30d+,£69K - £97K (Glassdoor est.),30.0,69K - 97K,yearly,69000.0,97000.0,83000.0,0,186
+Coinbase,3.6,Data Scientist,"London, England",30d+,£55K - £65K (Glassdoor est.),30.0,55K - 65K,yearly,55000.0,65000.0,60000.0,0,187
+Hiscox,3.1,Claims Data Scientist,"London, England",30d+,£35K - £70K (Glassdoor est.),30.0,35K - 70K,yearly,35000.0,70000.0,52500.0,0,188
+BlockDox,4.0,Machine Learning Engineer,Remote,8d,£110K - £140K (Employer est.),8.0,110K - 140K,yearly,110000.0,140000.0,125000.0,1,189
+Complexio,4.0,Senior Data Scientist,Remote,30d+,£55K - £66K (Glassdoor est.),30.0,55K - 66K,yearly,55000.0,66000.0,60500.0,1,190
+Citeline,3.7,Data Scientist - Healthcare & Life Sciences,"London, England",30d+,£46K - £58K (Employer est.),30.0,46K - 58K,yearly,46000.0,58000.0,52000.0,0,191
+Databricks,4.1,Partner Solutions Architect (Data and AI),"London, England",30d+,£30K - £44K (Glassdoor est.),30.0,30K - 44K,yearly,30000.0,44000.0,37000.0,0,192
+Meta,4.3,"Data Engineer, Product Analytics","London, England",30d+,£61K - £73K (Glassdoor est.),30.0,61K - 73K,yearly,61000.0,73000.0,67000.0,0,193
+Chatterbox Labs,4.2,Software Tester (AI Risk). Hours Negotiable,"Kingston upon Thames, England",4d,£27K - £32K (Glassdoor est.),4.0,27K - 32K,yearly,27000.0,32000.0,29500.0,0,194
+DataSpartan Consulting,4.0,SENIOR DATA SCIENTIST,"London, England",30d+,£42K - £58K (Glassdoor est.),30.0,42K - 58K,yearly,42000.0,58000.0,50000.0,0,195
+University of Sheffield,3.5,Project Engineer - Data Science,"Sheffield, England",17d,£47K - £71K (Glassdoor est.),17.0,47K - 71K,yearly,47000.0,71000.0,59000.0,0,196
+Loughborough University,3.8,Research Associate in Spatial Data Science,"Loughborough, England",7d,£48K - £74K (Glassdoor est.),7.0,48K - 74K,yearly,48000.0,74000.0,61000.0,0,197
+InstaDeep,3.8,"Applied Research Scientist, Deep Learning for RNA Structure Prediction","London, England",30d+,£69K - £85K (Glassdoor est.),30.0,69K - 85K,yearly,69000.0,85000.0,77000.0,0,198
+ECMWF,4.3,Scientist on EarthCARE Radar/Lidar Data Assimilation,"Reading, England",30d+,£36K - £44K (Employer est.),30.0,36K - 44K,yearly,36000.0,44000.0,40000.0,0,199
+HMGCC,4.2,Lead Data Scientist,"Milton Keynes, England",14d,£71K - £95K (Glassdoor est.),14.0,71K - 95K,yearly,71000.0,95000.0,83000.0,0,200
+Centre for Process Innovation,3.7,Research Engineer – Digital Technologies (Data Scientist),"Sedgefield, England",14d,£48K - £91K (Glassdoor est.),14.0,48K - 91K,yearly,48000.0,91000.0,69500.0,0,201
+MVF,3.5,Senior Data Scientist,"London, England",30d+,£67K (Employer est.),30.0,67K,yearly,67000.0,67000.0,67000.0,0,202
+Synechron,4.4,AI/ML Engineer,"London, England",12d,£30K - £57K (Glassdoor est.),12.0,30K - 57K,yearly,30000.0,57000.0,43500.0,0,203
+Charlotte Tilbury,3.9,Data Scientist - 12 Month Maternity Cover,"London, England",30d+,£55K (Employer est.),30.0,55K,yearly,55000.0,55000.0,55000.0,0,204
+Optimizely,4.3,Senior Data Scientist,"London, England",30d+,£40K - £47K (Glassdoor est.),30.0,40K - 47K,yearly,40000.0,47000.0,43500.0,0,205
+Vodafone,4.3,Lead Data Scientist - 12 Month FTC,"London, England",3d,£50K - £65K (Glassdoor est.),3.0,50K - 65K,yearly,50000.0,65000.0,57500.0,0,206
+Spotify,4.1,Machine Learning Engineer II,"London, England",5d,£40K - £44K (Glassdoor est.),5.0,40K - 44K,yearly,40000.0,44000.0,42000.0,0,207
+Johnson & Johnson,3.8,Associate Statistical Programmer,"High Wycombe, England",10d,£96K - £130K (Glassdoor est.),10.0,96K - 130K,yearly,96000.0,130000.0,113000.0,0,208
+causaLens,4.2,Senior Applied Data Scientist - Causal AI,"London, England",30d+,£52K - £70K (Glassdoor est.),30.0,52K - 70K,yearly,52000.0,70000.0,61000.0,0,209
+Gamingtec,3.2,Lead Data Scientist,"London, England",13d,£80K - £86K (Glassdoor est.),13.0,80K - 86K,yearly,80000.0,86000.0,83000.0,0,210
+Lloyds Banking Group,3.3,Lead Data Scientist,"Bristol, England",20d,£31K - £48K (Glassdoor est.),20.0,31K - 48K,yearly,31000.0,48000.0,39500.0,0,211
+"Medpace, Inc.",3.6,Senior Data Scientist,"London, England",30d+,£51K - £65K (Glassdoor est.),30.0,51K - 65K,yearly,51000.0,65000.0,58000.0,0,212
+Tencent,2.9,NLP Speech Research Intern,"London, England",30d+,£46K - £80K (Glassdoor est.),30.0,46K - 80K,yearly,46000.0,80000.0,63000.0,0,213
+Bell Integration,3.3,Technical Trainer – AI & Data,"London, England",21d,£31K - £58K (Glassdoor est.),21.0,31K - 58K,yearly,31000.0,58000.0,44500.0,0,214
+Scottish Power,5.0,Artificial Intelligence / Machine Learning Specialist,"Glasgow, Scotland",24h,£90K (Employer est.),,90K,yearly,90000.0,90000.0,90000.0,0,215
+Apple,3.4,"AI/ML - Data Engineer (NLP/Speech), Siri and Information Intelligence","Cambridge, East of England, England",19d,£50K - £80K (Employer est.),19.0,50K - 80K,yearly,50000.0,80000.0,65000.0,0,216
+Google,3.7,"Data Scientist, Generative AI, Google Cloud","London, England",5d,£61K - £73K (Glassdoor est.),5.0,61K - 73K,yearly,61000.0,73000.0,67000.0,0,217
+"Surfline\Wavetrak, Inc.",4.0,Machine Learning Operations Associate,"Plymouth, England",12d,£70K - £110K (Glassdoor est.),12.0,70K - 110K,yearly,70000.0,110000.0,90000.0,0,218
+IBM,3.9,Data Scientist,"London, England",4d,£69K - £106K (Glassdoor est.),4.0,69K - 106K,yearly,69000.0,106000.0,87500.0,0,219
+Samsung Electronics,4.0,Intern – Machine Learning (Speech) - Immediate Start,United Kingdom,30d+,£120K - £156K (Glassdoor est.),30.0,120K - 156K,yearly,120000.0,156000.0,138000.0,0,220
+Monzo,4.0,Lead Machine Learning Scientist,"London, England",30d+,£50K - £67K (Glassdoor est.),30.0,50K - 67K,yearly,50000.0,67000.0,58500.0,0,221
+Sprout.ai,4.2,Data Scientist,"London, England",30d+,£40K - £54K (Glassdoor est.),30.0,40K - 54K,yearly,40000.0,54000.0,47000.0,0,222
+University of Liverpool,3.7,Lecturer in Health Data Science,"Liverpool, England",24d,£55K - £72K (Glassdoor est.),24.0,55K - 72K,yearly,55000.0,72000.0,63500.0,0,223
+HEOR,3.7,Senior Data Scientist / Statistician,"Cardiff, Wales",30d+,£130K - £150K (Employer est.),30.0,130K - 150K,yearly,130000.0,150000.0,140000.0,0,224
+InstaDeep,3.7,Applied Research Scientist,"London, England",30d+,£95K - £127K (Glassdoor est.),30.0,95K - 127K,yearly,95000.0,127000.0,111000.0,0,225
+Toolstation,3.4,Customer Insight Analyst,"Bridgwater, England",24h,£59K - £69K (Employer est.),,59K - 69K,yearly,59000.0,69000.0,64000.0,0,226
+Geomiq,4.6,Data Analyst - Supply Chain,"London, England",30d+,£40K - £47K (Glassdoor est.),30.0,40K - 47K,yearly,40000.0,47000.0,43500.0,0,227
+Blis,5.0,Senior Data Science Engineer,"Edinburgh, Scotland",30d+,£36K - £55K (Glassdoor est.),30.0,36K - 55K,yearly,36000.0,55000.0,45500.0,0,228
+Featurespace,3.8,Senior Data Scientist,"Cambridge, East of England, England",30d+,£60K - £75K (Employer est.),30.0,60K - 75K,yearly,60000.0,75000.0,67500.0,0,229
+Google,2.9,"Program Manager, Machine Learning Data Operations","London, England",6d,£40K - £60K (Glassdoor est.),6.0,40K - 60K,yearly,40000.0,60000.0,50000.0,0,230
+Starling Bank,4.0,Data Scientist (Marketing),"London, England",30d+,£150K (Employer est.),30.0,150K,yearly,150000.0,150000.0,150000.0,0,231
+Artemis Recruits,3.7,Python Engineer for Machine Learning,"London, England",30d+,£50K - £70K (Employer est.),30.0,50K - 70K,yearly,50000.0,70000.0,60000.0,0,232
+o9 Solutions,3.8,Principal Data Scientist,"London, England",6d,£67K - £79K (Glassdoor est.),6.0,67K - 79K,yearly,67000.0,79000.0,73000.0,0,233
+Capgemini Invent,3.6,Consultant - Analytics & Artificial Intelligence - Data Science,"London, England",5d,£43K - £53K (Glassdoor est.),5.0,43K - 53K,yearly,43000.0,53000.0,48000.0,0,234
+HMGCC (His Majesty’s Government Communications Centre),3.9,Lead Data Scientist,"Hanslope, England",14d,£25K - £40K (Employer est.),14.0,25K - 40K,yearly,25000.0,40000.0,32500.0,0,235
+PGSM Consulting,3.7,AI Scientist - Natural Language Processing,"Reading, England",30d+,£63K - £80K (Glassdoor est.),30.0,63K - 80K,yearly,63000.0,80000.0,71500.0,0,236
+Halfords,3.0,Group Supply Chain Data Scientist,"Redditch, England",30d+,£33K - £55K (Glassdoor est.),30.0,33K - 55K,yearly,33000.0,55000.0,44000.0,0,237
+TikTok,4.0,"AI Data Service and Operations, Business Insights Analyst - T&S","London, England",2d,£89K - £126K (Glassdoor est.),2.0,89K - 126K,yearly,89000.0,126000.0,107500.0,0,238
+Sainsbury's,3.7,Senior Data Scientist,"London, England",7d,£37K - £44K (Employer est.),7.0,37K - 44K,yearly,37000.0,44000.0,40500.0,0,239
+Assembly,4.3,"Partner, Data Science","London, England",30d+,£62K - £72K (Glassdoor est.),30.0,62K - 72K,yearly,62000.0,72000.0,67000.0,0,240
+Razorbill Media,4.5,Senior Machine Learning Engineer,Remote,30d+,£56K - £73K (Glassdoor est.),30.0,56K - 73K,yearly,56000.0,73000.0,64500.0,1,241
+Isomorphic Labs,3.9,"Research Scientist, Machine Learning, London","London, England",30d+,£49K - £68K (Glassdoor est.),30.0,49K - 68K,yearly,49000.0,68000.0,58500.0,0,242
+Direct Line Group,3.8,Rescue Pricing Data Scientist,"London, England",20d,£65K - £102K (Glassdoor est.),20.0,65K - 102K,yearly,65000.0,102000.0,83500.0,0,243
+ICF,3.2,Senior Data Scientist,"London, England",30d+,£45K - £60K (Employer est.),30.0,45K - 60K,yearly,45000.0,60000.0,52500.0,0,244
+Cox Automotive,1.7,Senior Data Scientist,"Manchester, England",30d,£59K - £70K (Glassdoor est.),30.0,59K - 70K,yearly,59000.0,70000.0,64500.0,0,245
+Deloitte,3.2,"Senior Consultant, Consultant, AI & Data, ConvergeCONSUMER Role, SAMA","London, England",30d+,£51K - £65K (Glassdoor est.),30.0,51K - 65K,yearly,51000.0,65000.0,58000.0,0,246
+VML,4.0,Lead AI & Data Scientist,"London, England",24d,£35K - £60K (Glassdoor est.),24.0,35K - 60K,yearly,35000.0,60000.0,47500.0,0,247
+Crosslake Technologies,3.4,Lead AI & Data Scientist,"Manchester, England",21d,£40K - £95K (Glassdoor est.),21.0,40K - 95K,yearly,40000.0,95000.0,67500.0,0,248
+AXA UK,4.1,Data Science & AI Manager,"Glasgow, Scotland",24h,£36K - £44K (Employer est.),,36K - 44K,yearly,36000.0,44000.0,40000.0,0,249
+Reqiva ltd,3.2,Machine Learning Consultant,"Cambridge, East of England, England",21d,£58K - £75K (Glassdoor est.),21.0,58K - 75K,yearly,58000.0,75000.0,66500.0,0,250
+InstaDeep,3.6,"Applied Research Scientist, Molecular Simulation","London, England",30d+,£62K - £94K (Glassdoor est.),30.0,62K - 94K,yearly,62000.0,94000.0,78000.0,0,251
+Amazon Development Centre (Scotland) Limited,3.6,"Applied Scientist , ADSP: Campaign & Creative","London, England",12d,£63K - £95K (Glassdoor est.),12.0,63K - 95K,yearly,63000.0,95000.0,79000.0,0,252
+Amazon Development Centre (London) Limited,2.9,"Applied Scientist, Personalization","Edinburgh, Scotland",19d,£50K - £61K (Glassdoor est.),19.0,50K - 61K,yearly,50000.0,61000.0,55500.0,0,253
+G-Research,3.8,Machine Learning Engineer,"London, England",30d+,£35K - £57K (Glassdoor est.),30.0,35K - 57K,yearly,35000.0,57000.0,46000.0,0,254
+DataArt,4.0,Principal Consultant of Data & Analytics Strategy and Technology,"London, England",30d+,£56K - £91K (Glassdoor est.),30.0,56K - 91K,yearly,56000.0,91000.0,73500.0,0,255
+Webtures,3.5,AI Analyst,"London, England",12d,£140K (Employer est.),12.0,140K,yearly,140000.0,140000.0,140000.0,0,256
+Roke Manor Research Limited,3.5,Data Science Engineer,"Manchester, England",30d+,£24K - £43K (Glassdoor est.),30.0,24K - 43K,yearly,24000.0,43000.0,33500.0,0,257
+Frasers Group,3.8,Data Product Owner,"London, England",30d+,£69K (Employer est.),30.0,69K,yearly,69000.0,69000.0,69000.0,0,258
+Adaptive8,4.1,Data & AI Platform Lead,"London, England",11d,£58K - £68K (Glassdoor est.),11.0,58K - 68K,yearly,58000.0,68000.0,63000.0,0,259
+Meta,3.6,"Research Scientist, NLP, GenAI (PhD)","London, England",30d+,£34K - £49K (Glassdoor est.),30.0,34K - 49K,yearly,34000.0,49000.0,41500.0,0,260
+NHS Midlands and Lancashire Commissioning Support Unit,3.7,Lead Data Scientist,"Birmingham, England",20d,£50K - £89K (Glassdoor est.),20.0,50K - 89K,yearly,50000.0,89000.0,69500.0,0,261
+TikTok,4.3,"AI Data Service And Operations- Business Analyst, Trust and Safety","London, England",2d,£67K - £90K (Glassdoor est.),2.0,67K - 90K,yearly,67000.0,90000.0,78500.0,0,262
+Pwc UK,3.7,Digital Audit - Data Analytics - Senior Associate,"London, England",24h,£32K - £46K (Glassdoor est.),,32K - 46K,yearly,32000.0,46000.0,39000.0,0,263
+IQUW,4.2,Head of Data & Analytics,"London, England",30d+,£50K - £70K (Employer est.),30.0,50K - 70K,yearly,50000.0,70000.0,60000.0,0,264
+DAINTTA,3.8,Lead Data Scientist,"Cheltenham, England",13d,£100K - £112K (Glassdoor est.),13.0,100K - 112K,yearly,100000.0,112000.0,106000.0,0,265
+SDG Group,4.2,Senior Data Scientist / AI Engineer / ML Engineer,"Milton Keynes, England",30d+,£70K - £110K (Glassdoor est.),30.0,70K - 110K,yearly,70000.0,110000.0,90000.0,0,266
+Eka Finance,3.7,"Quantitative Data Scientist / London / New York / £150,000 + Benefits","London, England",12d,£65K - £85K (Glassdoor est.),12.0,65K - 85K,yearly,65000.0,85000.0,75000.0,0,267
+Ripjar,4.3,Data Scientist - Core Analytics,"London, England",30d+,£60K - £64K (Glassdoor est.),30.0,60K - 64K,yearly,60000.0,64000.0,62000.0,0,268
+SKM Group,3.3,Senior Machine Learning Engineer,Remote,24h,£49K - £70K (Glassdoor est.),,49K - 70K,yearly,49000.0,70000.0,59500.0,1,269
+Vitality,3.9,Head of VitalityLife Data Science,"London, England",30d+,£47K - £70K (Glassdoor est.),30.0,47K - 70K,yearly,47000.0,70000.0,58500.0,0,270
+Google,3.7,"Staff Data Scientist Manager, Generative AI, Google Cloud","London, England",3d,£45K (Employer est.),3.0,45K,yearly,45000.0,45000.0,45000.0,0,271
+ECMWF,3.9,Scientist/Senior Scientist – Atmospheric physical processes in data assimilation,"Reading, England",30d+,£39K - £44K (Employer est.),30.0,39K - 44K,yearly,39000.0,44000.0,41500.0,0,272
+Vertex Pharmaceuticals,4.1,Sr. Data Scientist - NLP/GenAI,"Paddington, England",30d+,£68K - £91K (Glassdoor est.),30.0,68K - 91K,yearly,68000.0,91000.0,79500.0,0,273
+IQVIA,4.0,Principal Biostatistician,Remote,16d,£41K - £47K (Employer est.),16.0,41K - 47K,yearly,41000.0,47000.0,44000.0,1,274
+Aviva,3.9,Data Scientist,"Norwich, England",30d+,£58K - £95K (Glassdoor est.),30.0,58K - 95K,yearly,58000.0,95000.0,76500.0,0,275
+Carwow,3.8,Senior Data Scientist,"London, England",13d,£35K - £60K (Glassdoor est.),13.0,35K - 60K,yearly,35000.0,60000.0,47500.0,0,276
+DX Compliance Solutions,3.6,Senior Data Scientist,"Glasgow, Scotland",30d+,£46K - £59K (Employer est.),30.0,46K - 59K,yearly,46000.0,59000.0,52500.0,0,277
+Binance,5.0,Senior Data Scientist-Large Language Models,"London, England",30d+,£34K - £80K (Glassdoor est.),30.0,34K - 80K,yearly,34000.0,80000.0,57000.0,0,278
+University of the West of England,3.3,Lecturer in Data Analytics,"Frenchay, England",16d,£33K - £34K (Employer est.),16.0,33K - 34K,yearly,33000.0,34000.0,33500.0,0,279
+BrainStation,3.7,"Associate Educator, Data Scientist","London, England",30d+,£55K (Employer est.),30.0,55K,yearly,55000.0,55000.0,55000.0,0,280
+Starling Bank,4.2,Data Scientist (Fincrime),"Manchester, England",30d+,£47K - £82K (Glassdoor est.),30.0,47K - 82K,yearly,47000.0,82000.0,64500.0,0,281
+Mesh-AI,4.2,Director of AI and Data Science,"London, England",30d+,£62K - £72K (Glassdoor est.),30.0,62K - 72K,yearly,62000.0,72000.0,67000.0,0,282
+SKM Group,2.3,Senior GenAI / Generative AI Engineer,Remote,24h,£75K - £105K (Glassdoor est.),,75K - 105K,yearly,75000.0,105000.0,90000.0,1,283
+Roku,3.8,Senior Data Scientist - Mobile,"Manchester, England",18d,£92K - £170K (Glassdoor est.),18.0,92K - 170K,yearly,92000.0,170000.0,131000.0,0,284
+BizClik Media,4.0,Data and AI Engineer,"London, England",30d+,£70K - £110K (Glassdoor est.),30.0,70K - 110K,yearly,70000.0,110000.0,90000.0,0,285
+Datasource,4.0,DV Cleared Data Scientist,"Manchester, England",30d+,£35K - £55K (Glassdoor est.),30.0,35K - 55K,yearly,35000.0,55000.0,45000.0,0,286
+Expedia Partner Solutions,3.8,Analytics Engineer III - Data Science,"London, England",30d+,£52K - £93K (Glassdoor est.),30.0,52K - 93K,yearly,52000.0,93000.0,72500.0,0,287
+JPMorgan Chase & Co,3.7,Applied AI Associate - Markets Operations,United Kingdom,30d+,£45K - £82K (Glassdoor est.),30.0,45K - 82K,yearly,45000.0,82000.0,63500.0,0,288
+Chubb,3.5,Senior Data Scientist,"London, England",30d+,£85K (Employer est.),30.0,85K,yearly,85000.0,85000.0,85000.0,0,289
+Dambuster Studios,4.0,LEAD DATA SCIENTIST,"Nottingham, England",30d+,£44K - £65K (Glassdoor est.),30.0,44K - 65K,yearly,44000.0,65000.0,54500.0,0,290
+COLLAB. Recruitment Ltd,3.4,Senior Data Scientist,"London, England",30d+,£73K - £85K (Glassdoor est.),30.0,73K - 85K,yearly,73000.0,85000.0,79000.0,0,291
+University of Cambridge,3.6,Research Associate - Bioinformatics/Data Science (Vassiliou Lab) (Fixed Term),"Cambridge, East of England, England",6d,£40K - £72K (Glassdoor est.),6.0,40K - 72K,yearly,40000.0,72000.0,56000.0,0,292
+IQUW Group,3.9,Head of Data & Analytics,"London, England",30d+,£50K - £60K (Employer est.),30.0,50K - 60K,yearly,50000.0,60000.0,55000.0,0,293
+CAPCO,4.1,Senior Data Scientist,"London, England",30d+,£50K - £90K (Glassdoor est.),30.0,50K - 90K,yearly,50000.0,90000.0,70000.0,0,294
+Speechmatics,4.4,Staff Machine Learning Scientist,"London, England",30d+,£55K - £71K (Glassdoor est.),30.0,55K - 71K,yearly,55000.0,71000.0,63000.0,0,295
+Castleton Commodities International,4.2,"Associate, Data Science Analyst – Global Oil Markets (Hybrid - 3/2 Work Schedule)","London, England",30d+,£75K (Employer est.),30.0,75K,yearly,75000.0,75000.0,75000.0,0,296
+Capgemini Invent,3.4,Senior Consultant - Data & AI Strategy - Data Management,"London, England",5d,£40K - £60K (Employer est.),5.0,40K - 60K,yearly,40000.0,60000.0,50000.0,0,297
+Pwc UK,4.0,Digital Audit Manager - Data Analytics,"Manchester, England",24h,£51K - £69K (Glassdoor est.),,51K - 69K,yearly,51000.0,69000.0,60000.0,0,298
+Capgemini Invent,3.3,Consultant - Analytics & Artificial Intelligence - Data & AI Architect,"London, England",5d,£36K - £48K (Glassdoor est.),5.0,36K - 48K,yearly,36000.0,48000.0,42000.0,0,299
+SymphonyAI,4.3,Senior Big Data Developer,"London, England",19d,£42K - £66K (Glassdoor est.),19.0,42K - 66K,yearly,42000.0,66000.0,54000.0,0,300
+Octopus Energy Group,3.7,Electrical Power Systems Engineer (Data Science),"Manchester, England",13d,£69K - £85K (Glassdoor est.),13.0,69K - 85K,yearly,69000.0,85000.0,77000.0,0,301
+Bumble Inc.,3.6,"Software Engineer, Machine Learning","London, England",30d+,£39K - £66K (Glassdoor est.),30.0,39K - 66K,yearly,39000.0,66000.0,52500.0,0,302
+BAE Systems,5.0,Data Science Architect,"Preston, North West England, England",30d+,£90K - £130K (Glassdoor est.),30.0,90K - 130K,yearly,90000.0,130000.0,110000.0,0,303
+InstaDeep,3.6,"Research Scientist, Machine Learning and Computational Biology","London, England",30d+,£43K - £46K (Employer est.),30.0,43K - 46K,yearly,43000.0,46000.0,44500.0,0,304
+Deloitte,4.2,"Consultant - Senior Consultant, Data Science and Machine Learning, AI & Data, Defence & Security","Bristol, England",25d,£78K - £110K (Glassdoor est.),25.0,78K - 110K,yearly,78000.0,110000.0,94000.0,0,305
+PEI Group,4.9,Principal Data Scientist,"London, England",30d+,£85K (Employer est.),30.0,85K,yearly,85000.0,85000.0,85000.0,0,306
+JPMorgan Chase & Co,3.8,Machine Learning Scientist - Time Series Reinforcement Learning - Vice President - Machine Learning Center of Excellence,United Kingdom,30d+,£43K - £60K (Glassdoor est.),30.0,43K - 60K,yearly,43000.0,60000.0,51500.0,0,307
+Linktree,4.2,"ML Engineer, Data & Machine Learning","London, England",30d+,£51K - £80K (Glassdoor est.),30.0,51K - 80K,yearly,51000.0,80000.0,65500.0,0,308
+ITV Jobs,3.9,Head of Data and Machine Learning Engineering,"London, England",10d,£56K - £120K (Glassdoor est.),10.0,56K - 120K,yearly,56000.0,120000.0,88000.0,0,309
+QA Limited,4.0,Senior learning Specialist - Data Science,"Cheltenham, England",30d+,£38K - £44K (Employer est.),30.0,38K - 44K,yearly,38000.0,44000.0,41000.0,0,310
+Transform Talent Limited,3.0,Data science - mandarin speaking,"London, England",24h,£42K - £69K (Glassdoor est.),,42K - 69K,yearly,42000.0,69000.0,55500.0,0,311
+Bumble Inc.,4.2,Machine Learning Engineer - AI Discovery,"London, England",30d+,£60K - £70K (Glassdoor est.),30.0,60K - 70K,yearly,60000.0,70000.0,65000.0,0,312
+Amazon Development Centre (London) Limited,3.5,"Applied Scientist, Contextual Ads","London, England",26d,£31K - £46K (Employer est.),26.0,31K - 46K,yearly,31000.0,46000.0,38500.0,0,313
+Faculty,3.5,Faculty Fellowship - AI Product (October 2024),"London, England",5d,£57K - £82K (Glassdoor est.),5.0,57K - 82K,yearly,57000.0,82000.0,69500.0,0,314
+Arch Capital Group Ltd.,3.5,Data Science Manager,"Birmingham, England",30d+,£33K - £42K (Glassdoor est.),30.0,33K - 42K,yearly,33000.0,42000.0,37500.0,0,315
+REO Digital,4.0,Data & Analytics Lead,"London, England",30d+,£94K - £115K (Glassdoor est.),30.0,94K - 115K,yearly,94000.0,115000.0,104500.0,0,316
+Optima Partners,3.4,Senior/Lead Health Data Scientist (Statistical Genetics...,"London, England",30d,£48K - £91K (Glassdoor est.),30.0,48K - 91K,yearly,48000.0,91000.0,69500.0,0,317
+Learna Ltd,4.1,Data Analytics Manager,"Llanishen, Monmouthshire, Wales",19d,£120K - £156K (Glassdoor est.),19.0,120K - 156K,yearly,120000.0,156000.0,138000.0,0,318
+National Grid,3.5,Associate Analytics & Reporting Specialist,"Warwick, West Midlands, England",7d,£70K - £110K (Glassdoor est.),7.0,70K - 110K,yearly,70000.0,110000.0,90000.0,0,319
+marshmallow,4.0,Principal Data Scientist - Claims,"London, England",30d+,£55K - £91K (Glassdoor est.),30.0,55K - 91K,yearly,55000.0,91000.0,73000.0,0,320
+University of Central Lancashire,3.8,Lecturer in Computer Science (AI/Machine Learning/Data Science),"Preston, North West England, England",5d,£50K - £90K (Glassdoor est.),5.0,50K - 90K,yearly,50000.0,90000.0,70000.0,0,321
+Castleton Commodities International,4.1,"Associate, Data Science Analyst - EU Energy Markets (Hybrid - 3/2 Work Schedule)","London, England",30d+,£36K - £50K (Glassdoor est.),30.0,36K - 50K,yearly,36000.0,50000.0,43000.0,0,322
+Deep Silver Dambuster Studios,4.9,Lead Data Scientist,"Nottingham, England",30d+,£45K - £94K (Glassdoor est.),30.0,45K - 94K,yearly,45000.0,94000.0,69500.0,0,323
+National Grid,4.1,Analytics & Reporting Specialist,"Warwick, West Midlands, England",7d,£36K - £56K (Employer est.),7.0,36K - 56K,yearly,36000.0,56000.0,46000.0,0,324
+Galytix,3.4,Sr. Data Scientist,"London, England",30d+,£45K - £86K (Glassdoor est.),30.0,45K - 86K,yearly,45000.0,86000.0,65500.0,0,325
+Lonza,4.1,Head of Data Insights,"Manchester, England",30d+,£70K - £82K (Glassdoor est.),30.0,70K - 82K,yearly,70000.0,82000.0,76000.0,0,326
+IQVIA,4.3,Principal Biostatistician (FSP - Permanent Homebased),Remote,30d+,£55K - £65K (Glassdoor est.),30.0,55K - 65K,yearly,55000.0,65000.0,60000.0,1,327
+University of Cambridge,3.9,Research Associate in CASU Data Science,"Cambridge, East of England, England",20d,£54K - £71K (Glassdoor est.),20.0,54K - 71K,yearly,54000.0,71000.0,62500.0,0,328
+MBDA,3.8,Machine Learning Algorithm Developer,"Stevenage, England",30d+,£40K - £45K (Glassdoor est.),30.0,40K - 45K,yearly,40000.0,45000.0,42500.0,0,329
+The AA,4.2,Data Science Manager,"London, England",6d,£50K - £61K (Glassdoor est.),6.0,50K - 61K,yearly,50000.0,61000.0,55500.0,0,330
+BrainStation,4.1,"Educator, Data Scientist","London, England",30d+,£70K - £80K (Employer est.),30.0,70K - 80K,yearly,70000.0,80000.0,75000.0,0,331
+Cervello Inc,4.2,"Global COE Lead, AI and Data Science","London, England",30d+,£40K - £63K (Glassdoor est.),30.0,40K - 63K,yearly,40000.0,63000.0,51500.0,0,332
+Bumble Inc.,4.2,"Data Science Manager, Product Analytics/ Core DS","London, England",11d,£47K - £69K (Glassdoor est.),11.0,47K - 69K,yearly,47000.0,69000.0,58000.0,0,333
+Google,4.2,"Research Engineer, AI/Machine Learning","London, England",25d,£50K - £100K (Employer est.),25.0,50K - 100K,yearly,50000.0,100000.0,75000.0,0,334
+Amazon Development Centre (Scotland) Limited,3.4,"Applied Scientist, Amazon Ads","London, England",30d+,£26K - £37K (Glassdoor est.),30.0,26K - 37K,yearly,26000.0,37000.0,31500.0,0,335
+Luminance Technologies,3.7,Machine Learning Research Engineer,"Cambridge, East of England, England",30d+,£137K - £149K (Glassdoor est.),30.0,137K - 149K,yearly,137000.0,149000.0,143000.0,0,336
+Webtures,4.4,Machine Learning Specialist,"London, England",12d,£50K - £55K (Glassdoor est.),12.0,50K - 55K,yearly,50000.0,55000.0,52500.0,0,337
+Lime,3.9,Transportation Policy & Analytics Internship,Remote,10d,£90K - £143K (Glassdoor est.),10.0,90K - 143K,yearly,90000.0,143000.0,116500.0,1,338
+Microsoft,3.8,Principal Applied Scientist - Search & Recommendation,"London, England",30d+,£61K - £73K (Glassdoor est.),30.0,61K - 73K,yearly,61000.0,73000.0,67000.0,0,339
+FXcompared,3.4,Data Analytics Manager,"London, England",30d+,£42K - £69K (Glassdoor est.),30.0,42K - 69K,yearly,42000.0,69000.0,55500.0,0,340
+causaLens,5.0,Applied Data Scientist - Causal AI,"London, England",30d+,£24K - £28K (Glassdoor est.),30.0,24K - 28K,yearly,24000.0,28000.0,26000.0,0,341
+Capgemini Invent,4.1,Management Consultant -Digital Engineering Industrial Data & AI/Digital Twins,"London, England",18d,£47K - £67K (Employer est.),18.0,47K - 67K,yearly,47000.0,67000.0,57000.0,0,342
+Edgewell Personal Care Brands,4.4,Data & Analytics Manager,"High Wycombe, England",5d,£45K - £86K (Glassdoor est.),5.0,45K - 86K,yearly,45000.0,86000.0,65500.0,0,343
+Zonda Home,3.9,Machine Learning Engineer II,"Glasgow, Scotland",14d,£52K - £93K (Glassdoor est.),14.0,52K - 93K,yearly,52000.0,93000.0,72500.0,0,344
+Globebyte,3.0,Machine Learning Engineer,Remote,30d+,£36K - £50K (Glassdoor est.),30.0,36K - 50K,yearly,36000.0,50000.0,43000.0,1,345
+Zapp,3.8,Director of Data Science,"London, England",30d+,£56K - £104K (Glassdoor est.),30.0,56K - 104K,yearly,56000.0,104000.0,80000.0,0,346
+Lendable,3.8,Senior Data Science Manager (US Products),"London, England",20d,£30K - £46K (Employer est.),20.0,30K - 46K,yearly,30000.0,46000.0,38000.0,0,347
+B&Q,4.0,Data Science Manager,"Eastleigh, England",30d+,£100K - £111K (Glassdoor est.),30.0,100K - 111K,yearly,100000.0,111000.0,105500.0,0,348
+Connex One,4.1,Machine Learning Engineer,"Manchester, England",30d+,£45K (Glassdoor est.),30.0,45K,yearly,45000.0,45000.0,45000.0,0,349
+Chubb,3.7,Lead Operations Research Data Scientist,"London, England",12d,£54K - £68K (Glassdoor est.),12.0,54K - 68K,yearly,54000.0,68000.0,61000.0,0,350
+BJSS,3.8,Machine Learning Engineer,"Cardiff, Wales",28d,£50K - £62K (Glassdoor est.),28.0,50K - 62K,yearly,50000.0,62000.0,56000.0,0,351
+AWTG,3.7,AI / ML Engineers,"London, England",30d+,£46K - £64K (Glassdoor est.),30.0,46K - 64K,yearly,46000.0,64000.0,55000.0,0,352
+Starling Bank,4.2,Data Scientist (Fincrime),"London, England",30d+,£112K - £127K (Glassdoor est.),30.0,112K - 127K,yearly,112000.0,127000.0,119500.0,0,353
+Pandora Jewelry,3.9,Data Scientist,"London, England",30d+,£41K - £49K (Glassdoor est.),30.0,41K - 49K,yearly,41000.0,49000.0,45000.0,0,354
+Meta,4.1,"Data Science Manager, Privacy Areas","London, England",27d,£40K (Employer est.),27.0,40K,yearly,40000.0,40000.0,40000.0,0,355
+Ministry of Defence,3.2,DE&S Data Science Specialist,"Bristol, England",28d,£48K - £90K (Glassdoor est.),28.0,48K - 90K,yearly,48000.0,90000.0,69000.0,0,356
+Apple,4.0,"SWE - GPU ML Engineer, GGD","London, England",11d,£54K - £70K (Employer est.),11.0,54K - 70K,yearly,54000.0,70000.0,62000.0,0,357
+FXC Intelligence,3.8,Data Analytics Manager,"London, England",30d+,£56K - £66K (Glassdoor est.),30.0,56K - 66K,yearly,56000.0,66000.0,61000.0,0,358
+PlayStation Global,4.0,Machine Learning Engineer for Game Technology,"London, England",30d+,£75K (Employer est.),30.0,75K,yearly,75000.0,75000.0,75000.0,0,359
+DataSpartan Consulting,3.7,BIG DATA ARCHITECT,"London, England",30d+,£37K - £48K (Glassdoor est.),30.0,37K - 48K,yearly,37000.0,48000.0,42500.0,0,360
+Thomson Reuters,3.9,"Applied Scientist, NLP","London, England",30d+,£36K - £67K (Glassdoor est.),30.0,36K - 67K,yearly,36000.0,67000.0,51500.0,0,361
+University of Liverpool,4.0,Research Fellow in AI and Machine Learning for Materials Discovery (AlChemy) Grade 7,"Liverpool, England",13d,£60K - £85K (Glassdoor est.),13.0,60K - 85K,yearly,60000.0,85000.0,72500.0,0,362
+Capgemini,4.3,Senior Data Scientist/AI Engineer,"London, England",30d+,£46K - £97K (Glassdoor est.),30.0,46K - 97K,yearly,46000.0,97000.0,71500.0,0,363
+GHD,3.7,"Advisor, Data Science Management Consultant","London, England",30d+,£68K - £73K (Glassdoor est.),30.0,68K - 73K,yearly,68000.0,73000.0,70500.0,0,364
+University of Ulster,4.0,Research Associate in Data Science - Smart Manufacturing Data Hub (2 posts),"Derry, Northern Ireland",18d,£45K - £55K (Glassdoor est.),18.0,45K - 55K,yearly,45000.0,55000.0,50000.0,0,365
+Johnson & Johnson,3.9,Experienced Statistical Programmer,"High Wycombe, England",10d,£27K - £61K (Glassdoor est.),10.0,27K - 61K,yearly,27000.0,61000.0,44000.0,0,366
+RAC,4.6,Operations Lead Data Scientist,"Walsall, England",30d+,£55K - £72K (Glassdoor est.),30.0,55K - 72K,yearly,55000.0,72000.0,63500.0,0,367
+Databricks,4.1,Big Data Solutions Architect,"London, England",30d+,£67K - £85K (Glassdoor est.),30.0,67K - 85K,yearly,67000.0,85000.0,76000.0,0,368
+Capgemini Invent,3.3,Director - Data Science,"London, England",10d,£27K - £43K (Glassdoor est.),10.0,27K - 43K,yearly,27000.0,43000.0,35000.0,0,369
+G-Research,3.9,Machine Learning Researcher,"London, England",30d+,£28K (Glassdoor est.),30.0,28K,yearly,28000.0,28000.0,28000.0,0,370
+Amazon UK Services Ltd. - A10,3.8,Sr. Applied Scientist - Global Operational Excellence,"London, England",25d,£83K - £112K (Glassdoor est.),25.0,83K - 112K,yearly,83000.0,112000.0,97500.0,0,371
+Awin,3.1,Data Engineer (AI/ML),"London, England",5d,£67K - £90K (Glassdoor est.),5.0,67K - 90K,yearly,67000.0,90000.0,78500.0,0,372
+Spotify,4.2,Machine Learning Engineering Manager,"London, England",30d+,£38K (Glassdoor est.),30.0,38K,yearly,38000.0,38000.0,38000.0,0,373
+Roke Manor Research Limited,4.0,Data Science Lead,"Manchester, England",30d+,£80K - £119K (Glassdoor est.),30.0,80K - 119K,yearly,80000.0,119000.0,99500.0,0,374
+G-Research,3.9,Natural Language Processing Researcher,"London, England",30d+,£40K - £75K (Employer est.),30.0,40K - 75K,yearly,40000.0,75000.0,57500.0,0,375
+Genie AI,3.8,Senior Machine Learning Research Scientist,"London, England",30d+,£46K - £54K (Employer est.),30.0,46K - 54K,yearly,46000.0,54000.0,50000.0,0,376
+The University of Manchester,3.7,Research Associate or Research Fellow in Machine Learning,"Manchester, England",4d,£45K - £90K (Glassdoor est.),4.0,45K - 90K,yearly,45000.0,90000.0,67500.0,0,377
+Blue Education,4.0,AI Engineer,"London, England",30d+,£62K - £72K (Employer est.),30.0,62K - 72K,yearly,62000.0,72000.0,67000.0,0,378
+Tripadvisor,5.0,"Machine Learning Engineer II - Content, NLP, LLM","London, England",30d+,£47K - £70K (Glassdoor est.),30.0,47K - 70K,yearly,47000.0,70000.0,58500.0,0,379
+Eka Finance,2.7,Cross Asset Data Scientist / NY / London/ Asia,"London, England",12d,£82K - £107K (Glassdoor est.),12.0,82K - 107K,yearly,82000.0,107000.0,94500.0,0,380
+Roke Manor Research Limited,3.8,"Head of Profession – Artificial Intelligence, Machine Learning and Data Science","Romsey, England",14d,£47K - £60K (Glassdoor est.),14.0,47K - 60K,yearly,47000.0,60000.0,53500.0,0,381
+Choreograph,4.0,Senior Data Scientist,"London, England",30d+,£70K - £160K (Glassdoor est.),30.0,70K - 160K,yearly,70000.0,160000.0,115000.0,0,382
+JPMorgan Chase & Co,4.1,HR Data and Analytics - Insights and Product Delivery - Senior Associate,United Kingdom,15d,£33K - £54K (Glassdoor est.),15.0,33K - 54K,yearly,33000.0,54000.0,43500.0,0,383
+RELX,3.8,Director of Data Science,"Farringdon, England",20d,£50K - £75K (Employer est.),20.0,50K - 75K,yearly,50000.0,75000.0,62500.0,0,384
+TransUnion,3.9,Data Science Platform Engineer,"Leeds, England",19d,£70K - £84K (Glassdoor est.),19.0,70K - 84K,yearly,70000.0,84000.0,77000.0,0,385
+EY,4.1,"Senior Consultant, Data Engineering, Data & Analytics, Assurance, Belfast","Belfast, Northern Ireland",3d,£36K - £50K (Glassdoor est.),3.0,36K - 50K,yearly,36000.0,50000.0,43000.0,0,386
+ICON,4.0,Statistical Programmer II (Home based in EMEA),United Kingdom,11d,£75K - £95K (Employer est.),11.0,75K - 95K,yearly,75000.0,95000.0,85000.0,0,387
+Capgemini Invent,4.2,Managing Consultant - Data & AI Strategy - Data Management,"London, England",30d+,£64K - £95K (Glassdoor est.),30.0,64K - 95K,yearly,64000.0,95000.0,79500.0,0,388
+The Random House Group Limited,3.9,AI Applications Specialist (18-month FTC),"London, England",18d,£46K - £70K (Glassdoor est.),18.0,46K - 70K,yearly,46000.0,70000.0,58000.0,0,389
+Apple,3.5,Engineering Programme Manager - Marketing Analytics,"London, England",24d,£58K - £91K (Glassdoor est.),24.0,58K - 91K,yearly,58000.0,91000.0,74500.0,0,390
+CoMind,4.0,Senior Data Scientist,"London, England",30d+,£49K - £61K (Glassdoor est.),30.0,49K - 61K,yearly,49000.0,61000.0,55000.0,0,391
+Every Cure,4.6,Machine Learning Engineer,"London, England",30d+,£48K - £56K (Employer est.),30.0,48K - 56K,yearly,48000.0,56000.0,52000.0,0,392
+bigspark,3.3,AI Engineer,"Nottingham, England",30d+,£55K - £75K (Employer est.),30.0,55K - 75K,yearly,55000.0,75000.0,65000.0,0,393
+Meta,4.2,"Research Engineer, Language - Generative AI","London, England",30d+,£38K - £41K (Employer est.),30.0,38K - 41K,yearly,38000.0,41000.0,39500.0,0,394
+Choreograph,3.4,"SVP, Product (Advanced Analytics)","London, England",14d,£45K - £86K (Glassdoor est.),14.0,45K - 86K,yearly,45000.0,86000.0,65500.0,0,395
+Meta,3.8,"Software Engineer, Machine Learning","London, England",30d+,£63K - £73K (Glassdoor est.),30.0,63K - 73K,yearly,63000.0,73000.0,68000.0,0,396
+InstaDeep,4.2,"Senior Applied Research Scientist, Deep Learning for RNA","London, England",30d+,£45K - £65K (Glassdoor est.),30.0,45K - 65K,yearly,45000.0,65000.0,55000.0,0,397
+Capgemini,3.9,Principal Data Scientist/Artificial Intelligence Engineer,"London, England",30d+,£55K - £70K (Glassdoor est.),30.0,55K - 70K,yearly,55000.0,70000.0,62500.0,0,398
+marshmallow,4.1,"Senior Pricing Data Scientist, Retail pricing team","London, England",7d,£56K - £95K (Glassdoor est.),7.0,56K - 95K,yearly,56000.0,95000.0,75500.0,0,399
+University of Sheffield,4.0,Lecturer / Senior Lecturer in Data Science,"Sheffield, England",28d,£76K - £94K (Glassdoor est.),28.0,76K - 94K,yearly,76000.0,94000.0,85000.0,0,400
+Onfido,4.1,Senior Applied Scientist (Computer Vision / Machine Learning),Remote,30d+,£70K - £125K (Employer est.),30.0,70K - 125K,yearly,70000.0,125000.0,97500.0,1,401
+Grasp,4.3,ML Engineer,"London, England",30d+,£80K - £116K (Glassdoor est.),30.0,80K - 116K,yearly,80000.0,116000.0,98000.0,0,402
+Boon Global,5.0,Machine Learning Engineer - NLP,"London, England",10d,£70K - £90K (Employer est.),10.0,70K - 90K,yearly,70000.0,90000.0,80000.0,0,403
+"World Wide Technology Holding, LLC",3.0,AI Operations Specialist,"London, England",28d,£90K - £100K (Glassdoor est.),28.0,90K - 100K,yearly,90000.0,100000.0,95000.0,0,404
+Moneybox,3.7,Machine Learning Engineer / Researcher,"London, England",19d,£32K - £50K (Glassdoor est.),19.0,32K - 50K,yearly,32000.0,50000.0,41000.0,0,405
+University of Nottingham,4.1,Research Associate/Fellow in (a) Experimental High Throughput Materials Discovery OR (b) Computational Materials with Machine Learning (Fixed term),"Nottingham, England",7d,£85K (Glassdoor est.),7.0,85K,yearly,85000.0,85000.0,85000.0,0,406
+Bumble Inc.,3.4,Machine Learning Engineer (NLP) - Trust & Safety,"London, England",30d+,£36K - £44K (Employer est.),30.0,36K - 44K,yearly,36000.0,44000.0,40000.0,0,407
+DraftKings,4.3,"Manager, Data Science Engineering","London, England",30d+,£70K - £90K (Employer est.),30.0,70K - 90K,yearly,70000.0,90000.0,80000.0,0,408
+Dexcom,3.7,Marketing Analytics Lead,Remote,30d+,£49K - £100K (Glassdoor est.),30.0,49K - 100K,yearly,49000.0,100000.0,74500.0,1,409
+Canonical,3.7,"Python and Kubernetes Software Engineer - Data, AI/ML & Analytics","Douglas, Scotland",30d+,£98K - £109K (Glassdoor est.),30.0,98K - 109K,yearly,98000.0,109000.0,103500.0,0,410
+Capgemini Invent,5.0,Senior Consultant Data & AI Strategy - Operating Model,"London, England",11d,£85K - £110K (Glassdoor est.),11.0,85K - 110K,yearly,85000.0,110000.0,97500.0,0,411
+JPMorgan Chase & Co,2.7,NLP / LLM Scientist - Applied AI ML Lead - Machine Learning Centre of Excellence,United Kingdom,30d+,£43K - £60K (Glassdoor est.),30.0,43K - 60K,yearly,43000.0,60000.0,51500.0,0,412
+Experian,3.5,Mid-Level Analytics Consultant - ID&F,"Nottingham, England",30d+,£29K - £59K (Glassdoor est.),30.0,29K - 59K,yearly,29000.0,59000.0,44000.0,0,413
+Medtronic,2.9,Data & AI Platform Product Manager,"London, England",25d,£47K (Employer est.),25.0,47K,yearly,47000.0,47000.0,47000.0,0,414
+Vicon,4.0,Machine Learning Engineer,"Botley, England",5d,£52K - £55K (Glassdoor est.),5.0,52K - 55K,yearly,52000.0,55000.0,53500.0,0,415
+Natural History Museum,3.6,AI / ML Engineer,"London, England",10d,£70K (Employer est.),10.0,70K,yearly,70000.0,70000.0,70000.0,0,416
+Synthesized,4.0,Machine Learning Engineer,"London, England",30d+,£56K - £95K (Glassdoor est.),30.0,56K - 95K,yearly,56000.0,95000.0,75500.0,0,417
+QuantSpark,3.8,Analytics Consultant,"London, England",30d+,£55K - £71K (Glassdoor est.),30.0,55K - 71K,yearly,55000.0,71000.0,63000.0,0,418
+causaLens,4.2,Machine Learning Engineer,"London, England",30d+,£83K - £88K (Glassdoor est.),30.0,83K - 88K,yearly,83000.0,88000.0,85500.0,0,419
+Vaarst,4.1,Machine Learning Engineer,"Bristol, England",27d,£40K (Employer est.),27.0,40K,yearly,40000.0,40000.0,40000.0,0,420
+Choreograph,3.7,Head of Data Science - Global Solutions,"London, England",17d,£100K - £120K (Glassdoor est.),17.0,100K - 120K,yearly,100000.0,120000.0,110000.0,0,421
+Novartis,4.0,Senior Principal Data Scientist,"London, England",30d+,£70K - £84K (Glassdoor est.),30.0,70K - 84K,yearly,70000.0,84000.0,77000.0,0,422
+Hewlett Packard Enterprise,4.0,Research Engineer AI for Isambard - AI Advanced Collaboration Center,"Bristol, England",19d,£64K - £96K (Employer est.),19.0,64K - 96K,yearly,64000.0,96000.0,80000.0,0,423
+Wikimedia Foundation,4.1,"Senior Manager, Fundraising Data & Analytics","London, England",17d,£60K - £80K (Glassdoor est.),17.0,60K - 80K,yearly,60000.0,80000.0,70000.0,0,424
+"Aalyria Technologies, Inc",3.7,Machine Learning Engineer - Spacetime (UK),"London, England",30d+,£90K - £143K (Glassdoor est.),30.0,90K - 143K,yearly,90000.0,143000.0,116500.0,0,425
+Corsearch,3.8,Principal Data Scientist,"London, England",30d+,£39K - £89K (Glassdoor est.),30.0,39K - 89K,yearly,39000.0,89000.0,64000.0,0,426
+Novartis,3.6,Principal Biostatistician,"London, England",30d+,£36K - £59K (Glassdoor est.),30.0,36K - 59K,yearly,36000.0,59000.0,47500.0,0,427
+JoJo Maman Bebe,4.0,BI and Data Manager (hybrid working),"London, England",17d,£130K - £142K (Glassdoor est.),17.0,130K - 142K,yearly,130000.0,142000.0,136000.0,0,428
+Bell Integration,3.7,AI Business Analyst,"London, England",14d,£49K - £84K (Glassdoor est.),14.0,49K - 84K,yearly,49000.0,84000.0,66500.0,0,429
+NVIDIA,4.2,"Senior Full Stack Engineer, Deep Learning Algorithms",Remote,6d,£48K - £90K (Glassdoor est.),6.0,48K - 90K,yearly,48000.0,90000.0,69000.0,1,430
+Lexis Nexis,4.3,Director of Data Science,"Farringdon, England",20d,£44K - £64K (Glassdoor est.),20.0,44K - 64K,yearly,44000.0,64000.0,54000.0,0,431
+Microsoft,3.8,Machine Learning Research Engineer,"Cambridge, East of England, England",21d,£77K - £98K (Glassdoor est.),21.0,77K - 98K,yearly,77000.0,98000.0,87500.0,0,432
+HR Wallingford,3.8,Statistician / Senior Statistician,"Wallingford, England",4d,£50K - £80K (Glassdoor est.),4.0,50K - 80K,yearly,50000.0,80000.0,65000.0,0,433
+GroupM Nexus Finecast,4.0,Director of Data Analytics,"London, England",21d,£68K - £107K (Glassdoor est.),21.0,68K - 107K,yearly,68000.0,107000.0,87500.0,0,434
+Mastercard,4.1,"Vice President, Applied AI","London, England",30d+,£37K - £56K (Glassdoor est.),30.0,37K - 56K,yearly,37000.0,56000.0,46500.0,0,435
+Linktree,4.1,"Engineering Manager, Data & Machine Learning","London, England",30d+,£50K - £63K (Glassdoor est.),30.0,50K - 63K,yearly,50000.0,63000.0,56500.0,0,436
+King's College London,2.7,Professor of Public Health and Health Data Science,"London, England",24h,£78K - £100K (Glassdoor est.),,78K - 100K,yearly,78000.0,100000.0,89000.0,0,437
+JPMorgan Chase & Co,3.0,Applied AI/ML Senior Associate - HR Data & Analytics,"London, England",30d+,£36K - £46K (Glassdoor est.),30.0,36K - 46K,yearly,36000.0,46000.0,41000.0,0,438
+Kaluza,4.0,Machine Learning Engineer - Flex,"London, England",30d+,£28K - £38K (Glassdoor est.),30.0,28K - 38K,yearly,28000.0,38000.0,33000.0,0,439
+University of Warwick,4.0,Lead Engineer (Senior Supply Chain Data Scientist),"Coventry, England",18d,£47K - £67K (Employer est.),18.0,47K - 67K,yearly,47000.0,67000.0,57000.0,0,440
+Mint Selection,3.5,"Machine Learning Engineer: LLM, NLP, GenAI","London, England",13d,£64K - £95K (Glassdoor est.),13.0,64K - 95K,yearly,64000.0,95000.0,79500.0,0,441
+Hyperscience,4.1,Machine Learning Engineering Manager,Remote,30d+,£63K - £70K (Glassdoor est.),30.0,63K - 70K,yearly,63000.0,70000.0,66500.0,1,442
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",3.9,Senior Strategic Analytics Lead,"Wellington, Herefordshire, West Midlands, England",24h,£53K - £89K (Glassdoor est.),,53K - 89K,yearly,53000.0,89000.0,71000.0,0,443
+GSK,4.2,"Principal Statistician, Research Statistics","Stevenage, England",16d,£50K - £62K (Glassdoor est.),16.0,50K - 62K,yearly,50000.0,62000.0,56000.0,0,444
+Deliveroo,3.9,Machine Learning Engineer - Operational Research,"London, England",30d+,£32K - £52K (Glassdoor est.),30.0,32K - 52K,yearly,32000.0,52000.0,42000.0,0,445
+Optimove,3.5,Machine Learning Engineer,"London, England",30d+,£32K - £49K (Glassdoor est.),30.0,32K - 49K,yearly,32000.0,49000.0,40500.0,0,446
+AWS EMEA SARL (UK Branch),3.8,Generative AI Specialist SA,"London, England",30d+,£55K - £75K (Employer est.),30.0,55K - 75K,yearly,55000.0,75000.0,65000.0,0,447
+Capco,3.7,Data Analytics - Principal Consultant,"London, England",30d+,£63K - £73K (Glassdoor est.),30.0,63K - 73K,yearly,63000.0,73000.0,68000.0,0,448
+Snap Analytics,4.2,AI / ML Engineer,"Bristol, England",20d,£50K - £55K (Employer est.),20.0,50K - 55K,yearly,50000.0,55000.0,52500.0,0,449
+esure Group,4.1,AI Engineer,"Reigate, England",30d+,£50K - £70K (Glassdoor est.),30.0,50K - 70K,yearly,50000.0,70000.0,60000.0,0,450
+Capgemini Engineering,3.2,Expert Sales - Intelligent Bioengineering and AI,"Abingdon, England",25d,£30K - £65K (Glassdoor est.),25.0,30K - 65K,yearly,30000.0,65000.0,47500.0,0,451
+Datasource,4.0,Principal Data Scientist,"Bristol, England",30d+,£43K - £70K (Glassdoor est.),30.0,43K - 70K,yearly,43000.0,70000.0,56500.0,0,452
+JPMorgan Chase & Co,4.1,"Applied AI ML Director (Python, NLP, LLMs) - International Private Bank","Glasgow, Scotland",29d,£36K - £72K (Glassdoor est.),29.0,36K - 72K,yearly,36000.0,72000.0,54000.0,0,453
+Roku,4.0,Senior Data Scientist - Search,"Cambridge, East of England, England",18d,£34K - £84K (Glassdoor est.),18.0,34K - 84K,yearly,34000.0,84000.0,59000.0,0,454
+Cognism,4.3,"Team Lead, Data Science","London, England",30d+,£90K - £119K (Glassdoor est.),30.0,90K - 119K,yearly,90000.0,119000.0,104500.0,0,455
+EY,4.0,"Manager, Data & AI Strategy, Data & Analytics, Belfast","Belfast, Northern Ireland",23d,£68K - £107K (Glassdoor est.),23.0,68K - 107K,yearly,68000.0,107000.0,87500.0,0,456
+University of Glasgow,3.9,Analytics Lead,"Glasgow, Scotland",18d,£65K - £77K (Glassdoor est.),18.0,65K - 77K,yearly,65000.0,77000.0,71000.0,0,457
+Veer,4.1,AI/ML Software Engineer,"London, England",14d,£60K - £70K (Glassdoor est.),14.0,60K - 70K,yearly,60000.0,70000.0,65000.0,0,458
+Rothamsted Research,3.6,Senior Research Statistician,"Harpenden, England",7d,£50K - £90K (Glassdoor est.),7.0,50K - 90K,yearly,50000.0,90000.0,70000.0,0,459
+EPAM Systems,3.7,Data Science Consultant,"London, England",30d+,£67K - £78K (Employer est.),30.0,67K - 78K,yearly,67000.0,78000.0,72500.0,0,460
+InstaDeep,3.8,"Machine Learning Engineer, Scaling and Performance","London, England",13d,£72K - £80K (Employer est.),13.0,72K - 80K,yearly,72000.0,80000.0,76000.0,0,461
+UCB,3.9,"Senior Principal Scientist, Research Analytics","Slough, Berkshire, South East England, England",30d+,£52K - £93K (Glassdoor est.),30.0,52K - 93K,yearly,52000.0,93000.0,72500.0,0,462
+JPMorgan Chase & Co,3.7,Applied AI ML Lead - CIB Securities Services,United Kingdom,30d+,£92K - £109K (Glassdoor est.),30.0,92K - 109K,yearly,92000.0,109000.0,100500.0,0,463
+BenevolentAI,4.1,Senior Principal Cheminformatics Data Scientist,"London, England",30d+,£70K - £160K (Glassdoor est.),30.0,70K - 160K,yearly,70000.0,160000.0,115000.0,0,464
+Evi Technologies Limited,3.0,Senior Applied Scientist,"Cambridge, East of England, England",30d+,£41K - £49K (Glassdoor est.),30.0,41K - 49K,yearly,41000.0,49000.0,45000.0,0,465
+causaLens,4.1,Value Consultant - Causal AI,"London, England",30d+,£50K (Employer est.),30.0,50K,yearly,50000.0,50000.0,50000.0,0,466
+Hogarth Worldwide,3.9,AI Solutions Consultant,"London, England",30d+,£52K - £93K (Glassdoor est.),30.0,52K - 93K,yearly,52000.0,93000.0,72500.0,0,467
+Electric Twin Ltd,4.7,ML Engineer,"London, England",30d+,£52K - £80K (Glassdoor est.),30.0,52K - 80K,yearly,52000.0,80000.0,66000.0,0,468
+Amazon UK Services Ltd.,3.7,"Sr. Data Scientist, EU S/C, Supply Chain Science","London, England",30d+,£55K - £75K (Employer est.),30.0,55K - 75K,yearly,55000.0,75000.0,65000.0,0,469
+Ekimetrics,3.8,"Manager, Marketing Mix Modelling (MMM) & Data Science","London, England",30d+,£31K - £49K (Glassdoor est.),30.0,31K - 49K,yearly,31000.0,49000.0,40000.0,0,470
+Kumo,3.9,Software Engineer - Machine Learning (PyTorch),Remote,30d+,£57K - £80K (Glassdoor est.),30.0,57K - 80K,yearly,57000.0,80000.0,68500.0,1,471
+Trustpilot,4.0,Data Scientist - Go-to-Market (GTM) Applied AI team,"London, England",30d+,£70K - £110K (Glassdoor est.),30.0,70K - 110K,yearly,70000.0,110000.0,90000.0,0,472
+Dunelm,3.8,Senior Analyst - Product Analytics,"Leicester, England",19d,£54K - £68K (Glassdoor est.),19.0,54K - 68K,yearly,54000.0,68000.0,61000.0,0,473
+JPMorgan Chase & Co,4.3,"Vice President, AI Engineering Lead - Markets Operations",United Kingdom,2d,£78K - £128K (Glassdoor est.),2.0,78K - 128K,yearly,78000.0,128000.0,103000.0,0,474
+Nebius,4.0,"Staff ML Engineer, Large Language Models","London, England",30d+,£56K - £120K (Glassdoor est.),30.0,56K - 120K,yearly,56000.0,120000.0,88000.0,0,475
+The University of Manchester,4.0,Research Associate in Generative Deep Learning for Synthetising Virtual Patient Populations for In-Silico Trials,"Manchester, England",27d,£70K - £94K (Glassdoor est.),27.0,70K - 94K,yearly,70000.0,94000.0,82000.0,0,476
+QuantSpark,4.0,Analytics Manager,"London, England",30d+,£55K - £94K (Glassdoor est.),30.0,55K - 94K,yearly,55000.0,94000.0,74500.0,0,477
+Eka Finance,3.6,Machine Learning Engineer,"London, England",12d,£60K - £88K (Glassdoor est.),12.0,60K - 88K,yearly,60000.0,88000.0,74000.0,0,478
+JPMorgan Chase & Co,3.8,Applied Artificial Intelligence & Machine Learning Lead - Vice President,United Kingdom,30d+,£50K - £60K (Employer est.),30.0,50K - 60K,yearly,50000.0,60000.0,55000.0,0,479
+iProov,4.2,Machine Learning Engineer (PAI),"London, England",5d,£80K - £92K (Glassdoor est.),5.0,80K - 92K,yearly,80000.0,92000.0,86000.0,0,480
+OVO Energy,4.2,Senior Machine Learning Engineer (AI),"London, England",3d,£118K - £120K (Glassdoor est.),3.0,118K - 120K,yearly,118000.0,120000.0,119000.0,0,481
+PlayStation Global,4.2,Senior Machine Learning Engineer,"London, England",30d+,£48K - £91K (Glassdoor est.),30.0,48K - 91K,yearly,48000.0,91000.0,69500.0,0,482
+Deloitte,3.9,"Consultant, Data Science and Business Analyst, AI & Data, Defence & Security","Bristol, England",30d+,£70K - £84K (Glassdoor est.),30.0,70K - 84K,yearly,70000.0,84000.0,77000.0,0,483
+University of Ulster,2.9,Research Fellow – Applied Researcher for Artificial Intelligence Collaboration Centre (AICC) - 2 posts,"Belfast, Northern Ireland",17d,£90K (Employer est.),17.0,90K,yearly,90000.0,90000.0,90000.0,0,484
+Simon-Kucher & Partners,3.7,Senior Manager - Data Science,"London, England",30d+,£43K - £70K (Glassdoor est.),30.0,43K - 70K,yearly,43000.0,70000.0,56500.0,0,485
+Dominos,3.5,Marketing Data Science Manager,"Milton Keynes, England",30d+,£75K - £100K (Glassdoor est.),30.0,75K - 100K,yearly,75000.0,100000.0,87500.0,0,486
+Hitachi Solutions Ltd,4.2,Head of AI,"London, England",30d+,£70K - £160K (Glassdoor est.),30.0,70K - 160K,yearly,70000.0,160000.0,115000.0,0,487
+Evi Technologies Limited,3.8,"Senior Applied Scientist, AGI - Intelligent Decisions","Cambridge, East of England, England",30d+,£89K - £116K (Glassdoor est.),30.0,89K - 116K,yearly,89000.0,116000.0,102500.0,0,488
+Lendable,4.1,Data Science Manager (US Products),"London, England",30d+,£70K - £110K (Glassdoor est.),30.0,70K - 110K,yearly,70000.0,110000.0,90000.0,0,489
+Pythia Sports,3.8,Senior Data Scientist - Cricket,"London, England",30d+,£44K - £52K (Glassdoor est.),30.0,44K - 52K,yearly,44000.0,52000.0,48000.0,0,490
+Locomo EV,3.9,Machine Learning Engineer (Medical),Remote,12d,£43K - £51K (Employer est.),12.0,43K - 51K,yearly,43000.0,51000.0,47000.0,1,491
+Machine Medicine Technologies,4.2,Machine Learning Engineer,"London, England",28d,£45K - £59K (Glassdoor est.),28.0,45K - 59K,yearly,45000.0,59000.0,52000.0,0,492
+Meta,3.7,"Product Manager, Machine Learning","London, England",27d,£130K - £142K (Glassdoor est.),27.0,130K - 142K,yearly,130000.0,142000.0,136000.0,0,493
+GSK,3.8,AI/ML Engineer - Sequence Learning,"London, England",30d+,£52K - £93K (Glassdoor est.),30.0,52K - 93K,yearly,52000.0,93000.0,72500.0,0,494
+Northrop Grumman,3.8,Lead Big Data Engineer,"London, England",10d,£29K - £46K (Glassdoor est.),10.0,29K - 46K,yearly,29000.0,46000.0,37500.0,0,495
+Deimos,3.7,Machine Learning Engineer,"Harwell, South East England, England",30d+,£57K - £94K (Glassdoor est.),30.0,57K - 94K,yearly,57000.0,94000.0,75500.0,0,496
+Meta,3.9,Software Engineer (Leadership) - Machine Learning,"London, England",30d+,£68K - £91K (Glassdoor est.),30.0,68K - 91K,yearly,68000.0,91000.0,79500.0,0,497
+PHASTAR,5.0,Senior Statistical Programmer I,Remote,30d+,£46K - £54K (Employer est.),30.0,46K - 54K,yearly,46000.0,54000.0,50000.0,1,498
+Complexio,3.2,Senior AI/Machine Learning Scientist,Remote,30d+,£32K - £56K (Glassdoor est.),30.0,32K - 56K,yearly,32000.0,56000.0,44000.0,1,499
+University of Birmingham,3.7,BHP Clinician Scientist - Institute of Applied Health Research - 104092 - Clinical,"Birmingham, England",26d,£40K - £61K (Glassdoor est.),26.0,40K - 61K,yearly,40000.0,61000.0,50500.0,0,500
+Cover-More,3.3,Marketing & Performance Analyst,"Uxbridge, England",27d,£43K - £60K (Glassdoor est.),27.0,43K - 60K,yearly,43000.0,60000.0,51500.0,0,501
+Onfido,3.7,Staff Applied Scientist (Computer Vision / Machine Learning),Remote,30d+,£70K - £93K (Glassdoor est.),30.0,70K - 93K,yearly,70000.0,93000.0,81500.0,1,502
+Nando’s Chickenland Limited,4.1,Analytics Lead,"London, England",30d+,£63K - £100K (Glassdoor est.),30.0,63K - 100K,yearly,63000.0,100000.0,81500.0,0,503
+QS Quacquarelli Symonds,4.0,Director of Data Science,"London, England",30d+,£49K - £61K (Glassdoor est.),30.0,49K - 61K,yearly,49000.0,61000.0,55000.0,0,504
+Just Eat Takeaway.com,3.3,Analytics Manager,"London, England",30d+,£46K - £65K (Glassdoor est.),30.0,46K - 65K,yearly,46000.0,65000.0,55500.0,0,505
+Visa,4.2,Data Science Senior Manager,"London, England",14d,£24K - £28K (Glassdoor est.),14.0,24K - 28K,yearly,24000.0,28000.0,26000.0,0,506
+Eka Finance,2.9,NLP Quant Specialists,"London, England",12d,£38K - £41K (Employer est.),12.0,38K - 41K,yearly,38000.0,41000.0,39500.0,0,507
+Hewlett Packard Enterprise,3.9,Industry AI & HPC Business Development Representative,"Winnersh, England",6d,£70K - £83K (Glassdoor est.),6.0,70K - 83K,yearly,70000.0,83000.0,76500.0,0,508
+CoMind,3.3,Senior Research Statistician,"London, England",30d+,£115K - £160K (Glassdoor est.),30.0,115K - 160K,yearly,115000.0,160000.0,137500.0,0,509
+Tripadvisor,3.7,Senior Machine Learning Scientist (Viator),"London, England",30d+,£46K - £56K (Employer est.),30.0,46K - 56K,yearly,46000.0,56000.0,51000.0,0,510
+Altos Labs,3.1,Staff Machine Learning Engineer,"Cambridge, East of England, England",30d+,£54K - £75K (Employer est.),30.0,54K - 75K,yearly,54000.0,75000.0,64500.0,0,511
+Amazon Development Centre (Scotland) Limited,3.1,"Principal Applied Scientist, Personalization Team","Edinburgh, Scotland",30d+,£49K - £100K (Glassdoor est.),30.0,49K - 100K,yearly,49000.0,100000.0,74500.0,0,512
+Qlik,4.1,Qlik Sense Developer - Sales Performance Analytics,"Wokingham, England",5d,£24K - £44K (Glassdoor est.),5.0,24K - 44K,yearly,24000.0,44000.0,34000.0,0,513
+Deloitte,3.9,"AI Senior Manager, R&D - Life Sciences","London, England",27d,£42K - £55K (Glassdoor est.),27.0,42K - 55K,yearly,42000.0,55000.0,48500.0,0,514
+IAG Ai,3.8,Solution Lead,"London, England",13d,£54K - £84K (Glassdoor est.),13.0,54K - 84K,yearly,54000.0,84000.0,69000.0,0,515
+Allianz Commercial,4.3,"Predictive Modeller - Pricing Analytics, Global Pricing","London, England",30d+,£67K - £90K (Glassdoor est.),30.0,67K - 90K,yearly,67000.0,90000.0,78500.0,0,516
+Dunelm,3.9,Senior Analyst - Customer Analytics,"Leicester, England",30d+,£45K - £86K (Glassdoor est.),30.0,45K - 86K,yearly,45000.0,86000.0,65500.0,0,517
+University of Sheffield,3.9,"Lecturer / Senior Lecturer in Data, AI and Society","Sheffield, England",30d+,£67K - £90K (Glassdoor est.),30.0,67K - 90K,yearly,67000.0,90000.0,78500.0,0,518
+JPMorgan Chase & Co,5.0,"Applied AI/ML Lead - Python, NLP, LLMs","Glasgow, Scotland",29d,£55K - £75K (Employer est.),29.0,55K - 75K,yearly,55000.0,75000.0,65000.0,0,519
+JPMorgan Chase & Co,4.2,Applied AI ML - Sr. Associate - Machine Learning Engineer,United Kingdom,30d+,£50K - £70K (Employer est.),30.0,50K - 70K,yearly,50000.0,70000.0,60000.0,0,520
+AstraZeneca,4.1,Analytics and Insights Manager - Global Operations,"Macclesfield, England",7d,£43K - £60K (Glassdoor est.),7.0,43K - 60K,yearly,43000.0,60000.0,51500.0,0,521
+Equifax,4.0,AI Director,"London, England",5d,£73K - £86K (Glassdoor est.),5.0,73K - 86K,yearly,73000.0,86000.0,79500.0,0,522
+Next15,4.3,Head of AI Labs,"London, England",11d,£80K - £100K (Glassdoor est.),11.0,80K - 100K,yearly,80000.0,100000.0,90000.0,0,523
+Capgemini Invent,3.9,Senior Consultant - Data & AI Strategy - Data Strategy,"London, England",5d,£64K - £125K (Glassdoor est.),5.0,64K - 125K,yearly,64000.0,125000.0,94500.0,0,524
+Pragmatic,4.0,Senior Data Analysis Manager - Flex IC's,"Cambridge, East of England, England",30d+,£80K (Employer est.),30.0,80K,yearly,80000.0,80000.0,80000.0,0,525
+Pangaea Data,3.7,Natural Language Processing Engineers,"London, England",30d+,£45K - £90K (Glassdoor est.),30.0,45K - 90K,yearly,45000.0,90000.0,67500.0,0,526
+Lancaster University,4.0,Assistant Professor (Lecturer) in Data Science,"Lancaster, England",29d,£70K - £84K (Glassdoor est.),29.0,70K - 84K,yearly,70000.0,84000.0,77000.0,0,527
+IQVIA,3.7,Senior Statistical Programmer,Remote,30d+,£61K - £73K (Glassdoor est.),30.0,61K - 73K,yearly,61000.0,73000.0,67000.0,1,528
+Datasource,3.8,Lead Data Scientist,"Manchester, England",30d+,£55K - £100K (Glassdoor est.),30.0,55K - 100K,yearly,55000.0,100000.0,77500.0,0,529
+InstaDeep,5.0,Machine Learning Engineer - Computational Biology,"London, England",30d+,£41K - £45K (Glassdoor est.),30.0,41K - 45K,yearly,41000.0,45000.0,43000.0,0,530
+Insilico Medicine,4.1,Senior ML Engineer – Chemistry42 (Canada),Remote,30d+,£60K - £95K (Employer est.),30.0,60K - 95K,yearly,60000.0,95000.0,77500.0,1,531
+NexGen Associates,4.3,Machine Learning Engineer - Security Cleared,"Bristol, England",6d,£35K - £45K (Glassdoor est.),6.0,35K - 45K,yearly,35000.0,45000.0,40000.0,0,532
+Insmed EU Careers,3.9,"Associate Director, Data Science and Machine Learning","Harston, England",30d+,£45K - £86K (Glassdoor est.),30.0,45K - 86K,yearly,45000.0,86000.0,65500.0,0,533
+EY,5.0,Assurance - Financial Services - Forensics - Forensic Data Analytics - Senior - London,"London, England",30d+,£32K - £56K (Glassdoor est.),30.0,32K - 56K,yearly,32000.0,56000.0,44000.0,0,534
+GSK,4.0,People Analytics Project Manager,"London, England",4d,£45K - £95K (Employer est.),4.0,45K - 95K,yearly,45000.0,95000.0,70000.0,0,535
+Datatonic,3.8,Senior Analytics Engineer (dbt & Looker),"London, England",30d+,£70K - £110K (Glassdoor est.),30.0,70K - 110K,yearly,70000.0,110000.0,90000.0,0,536
+DraftKings,4.0,Lead Data Science Engineer,"London, England",25d,£65K - £85K (Glassdoor est.),25.0,65K - 85K,yearly,65000.0,85000.0,75000.0,0,537
+Lendable,3.5,Senior Machine Learning Researcher,"London, England",30d+,£33K - £55K (Glassdoor est.),30.0,33K - 55K,yearly,33000.0,55000.0,44000.0,0,538
+Amazon Development Centre (Scotland) Limited,4.1,"Principal Applied Scientist, ADSP: Contextual Targeting","Edinburgh, Scotland",30d+,£43K - £53K (Glassdoor est.),30.0,43K - 53K,yearly,43000.0,53000.0,48000.0,0,539
+Expedia Partner Solutions,2.9,Machine Learning Engineer III,"London, England",30d+,£42K - £51K (Employer est.),30.0,42K - 51K,yearly,42000.0,51000.0,46500.0,0,540
+GHD,3.8,"Senior Advisor, Data Science Management Consultant","London, England",30d+,£75K - £99K (Glassdoor est.),30.0,75K - 99K,yearly,75000.0,99000.0,87000.0,0,541
+RemoteStar,3.9,Integration Engineer (Mumbai) (Remote),Remote,30d+,£40K - £66K (Glassdoor est.),30.0,40K - 66K,yearly,40000.0,66000.0,53000.0,1,542
+Spotify,3.7,"Senior Machine Learning Engineering Manager, Personalization","London, England",30d+,£72K - £103K (Glassdoor est.),30.0,72K - 103K,yearly,72000.0,103000.0,87500.0,0,543
+Advancing Analytics,4.0,Senior AI Consultant,"London, England",30d+,£36K - £46K (Employer est.),30.0,36K - 46K,yearly,36000.0,46000.0,41000.0,0,544
+TheAIBusiness,4.3,AI Skills Hub Program Lead,"London, England",4d,£56K - £83K (Glassdoor est.),4.0,56K - 83K,yearly,56000.0,83000.0,69500.0,0,545
+TympaHealth,3.9,Lead AI Developer,"London, England",13d,£60K - £70K (Employer est.),13.0,60K - 70K,yearly,60000.0,70000.0,65000.0,0,546
+Amazon Development Centre (Scotland) Limited,3.4,"Machine Learning Engineer, Sponsored Display","London, England",30d+,£48K - £87K (Glassdoor est.),30.0,48K - 87K,yearly,48000.0,87000.0,67500.0,0,547
+IAG GBS,3.7,Solution Lead,"London, England",13d,£58K - £71K (Glassdoor est.),13.0,58K - 71K,yearly,58000.0,71000.0,64500.0,0,548
+AWS EMEA SARL (UK Branch) - F93,3.8,"Deep Learning Architect, Generative AI Innovation Center","London, England",30d+,£50K - £109K (Glassdoor est.),30.0,50K - 109K,yearly,50000.0,109000.0,79500.0,0,549
+RELX,3.9,Responsible AI Strategy & Training Manager,"London, England",30d+,£75K - £135K (Glassdoor est.),30.0,75K - 135K,yearly,75000.0,135000.0,105000.0,0,550
+Emotech Ltd,4.0,AI Product Manager,"London, England",30d+,£90K - £100K (Employer est.),30.0,90K - 100K,yearly,90000.0,100000.0,95000.0,0,551
+yellow brick road,4.2,Senior Machine Learning Engineer (UK),"London, England",10d,£34K - £53K (Glassdoor est.),10.0,34K - 53K,yearly,34000.0,53000.0,43500.0,0,552
+Fletchers Solicitors,3.4,AI Product Development Manager,"Manchester, England",27d,£67K - £81K (Glassdoor est.),27.0,67K - 81K,yearly,67000.0,81000.0,74000.0,0,553
+Datasource,3.0,Senior Data Scientist,"Manchester, England",30d+,£85K - £103K (Glassdoor est.),30.0,85K - 103K,yearly,85000.0,103000.0,94000.0,0,554
+Kennedys Law,4.0,AI Lead,"Manchester, England",30d+,£49K - £60K (Employer est.),30.0,49K - 60K,yearly,49000.0,60000.0,54500.0,0,555
+TikTok,3.7,"HR Business Partner - Global E-Commerce - Product, Design & Data Science - London","London, England",30d+,£59K - £67K (Glassdoor est.),30.0,59K - 67K,yearly,59000.0,67000.0,63000.0,0,556
+AWS EMEA SARL (UK Branch),3.0,"Sr. Applied Scientist, AWS Prototyping","London, England",30d+,£60K - £95K (Glassdoor est.),30.0,60K - 95K,yearly,60000.0,95000.0,77500.0,0,557
+Canonical,3.4,AI/ML and MLOps Field Engineer,"Douglas, Scotland",30d+,£47K - £67K (Employer est.),30.0,47K - 67K,yearly,47000.0,67000.0,57000.0,0,558
+BenchSci,3.5,Lead Machine Learning Engineer (Remote),"London, England",30d+,£49K - £95K (Glassdoor est.),30.0,49K - 95K,yearly,49000.0,95000.0,72000.0,0,559
+Thomson Reuters,3.8,"Senior Applied Scientist, NLP","London, England",30d+,£66K - £71K (Employer est.),30.0,66K - 71K,yearly,66000.0,71000.0,68500.0,0,560
+Cleo,3.9,Lead Product Analyst - AI Chat,"London, England",28d,£70K - £82K (Glassdoor est.),28.0,70K - 82K,yearly,70000.0,82000.0,76000.0,0,561
+Otis,3.9,"Leader, Strategic Workforce Planning","London, England",30d+,£45K - £88K (Glassdoor est.),30.0,45K - 88K,yearly,45000.0,88000.0,66500.0,0,562
+Google,3.5,"Machine Learning Compiler Software Engineer, TPU Horizontal Scaling","London, England",30d+,£60K - £97K (Glassdoor est.),30.0,60K - 97K,yearly,60000.0,97000.0,78500.0,0,563
+Tripadvisor,2.9,Senior Analytics Engineer (Viator),"London, England",30d+,£85K (Glassdoor est.),30.0,85K,yearly,85000.0,85000.0,85000.0,0,564
+MUFG - United Kingdom (BTMU),3.5,"Vice President, EIA Data Analytics","London, England",10d,£45K - £90K (Glassdoor est.),10.0,45K - 90K,yearly,45000.0,90000.0,67500.0,0,565
+FESPA,4.1,Group Marketing Analytics & Insights Manager,"Dorking, England",10d,£45K - £88K (Glassdoor est.),10.0,45K - 88K,yearly,45000.0,88000.0,66500.0,0,566
+Avanade,4.2,Artificial Intelligence Engineer,"London, England",30d+,£70K (Employer est.),30.0,70K,yearly,70000.0,70000.0,70000.0,0,567
+Goodnotes,3.7,"Senior Software Engineer - Machine Learning, LLM - London/Remote","London, England",30d+,£58K - £68K (Glassdoor est.),30.0,58K - 68K,yearly,58000.0,68000.0,63000.0,0,568
+Capgemini Invent,4.1,Senior Consultant - Analytics & Artificial Intelligence - Data & AI Architect,"London, England",7d,£62K - £94K (Glassdoor est.),7.0,62K - 94K,yearly,62000.0,94000.0,78000.0,0,569
+GSK,3.9,"Lead of Machine Learning Engineering, RNA Therapeutics","London, England",30d+,£55K - £84K (Glassdoor est.),30.0,55K - 84K,yearly,55000.0,84000.0,69500.0,0,570
+Jet2.com and Jet2holidays,3.7,Machine Learning Engineering Manager,"Leeds, England",30d+,£56K - £101K (Glassdoor est.),30.0,56K - 101K,yearly,56000.0,101000.0,78500.0,0,571
+Weights & Biases,4.1,"Post-Sales Machine Learning Engineer, Customer Success - EMEA (Remote)",Remote,30d+,£70K - £83K (Glassdoor est.),30.0,70K - 83K,yearly,70000.0,83000.0,76500.0,1,572
+Novartis,3.7,Associate Director Data Science,"London, England",30d+,£45K - £90K (Glassdoor est.),30.0,45K - 90K,yearly,45000.0,90000.0,67500.0,0,573
+HubSpot,2.3,Sr. Machine Learning Engineer II,"London, England",30d+,£62K - £100K (Glassdoor est.),30.0,62K - 100K,yearly,62000.0,100000.0,81000.0,0,574
+Amazon Digital UK Limited,4.4,"Machine Learning Engineer, Video Quality Analysis","London, England",30d+,£44K - £52K (Glassdoor est.),30.0,44K - 52K,yearly,44000.0,52000.0,48000.0,0,575
+FactSet Research Systems,4.3,Machine Learning Engineer OPS - (LLM - Open AI GPT Models),"London, England",30d+,£31K - £47K (Glassdoor est.),30.0,31K - 47K,yearly,31000.0,47000.0,39000.0,0,576
+Amazon Development Centre (London) Limited,3.6,"Sr. Applied Scientist LLM/LVM, Contextual Ads","London, England",30d+,£45K - £86K (Glassdoor est.),30.0,45K - 86K,yearly,45000.0,86000.0,65500.0,0,577
+EY,3.8,"Senior Manager, Data Science, Data & Analytics, Belfast","Belfast, Northern Ireland",23d,£70K - £160K (Glassdoor est.),23.0,70K - 160K,yearly,70000.0,160000.0,115000.0,0,578
+Aimpoint Digital,3.9,"Lead Decision Scientist, Machine Learning Engineer, UK 2024",Remote,5d,£49K - £100K (Glassdoor est.),5.0,49K - 100K,yearly,49000.0,100000.0,74500.0,1,579
+King's College London,4.6,Research Associate in Machine Learning for Genomics,"London, England",5d,£50K - £80K (Glassdoor est.),5.0,50K - 80K,yearly,50000.0,80000.0,65000.0,0,580
+Autodesk,2.9,Machine Learning Engineer 3D Geometry/ Multi-Modal,"London, England",27d,£33K (Employer est.),27.0,33K,yearly,33000.0,33000.0,33000.0,0,581
+Quacquarelli Symonds,2.9,Director of Data Science,"London, England",30d+,£65K - £95K (Employer est.),30.0,65K - 95K,yearly,65000.0,95000.0,80000.0,0,582
+Webtures,3.7,Senior ML Engineer,"London, England",12d,£49K - £100K (Glassdoor est.),12.0,49K - 100K,yearly,49000.0,100000.0,74500.0,0,583
+Swiss RE,4.2,Expert Analytics Engineer,"Manchester, England",30d+,£51K - £62K (Glassdoor est.),30.0,51K - 62K,yearly,51000.0,62000.0,56500.0,0,584
+JLL,4.4,Engineering Innovation AI Lead,"London, England",11d,£40K - £42K (Glassdoor est.),11.0,40K - 42K,yearly,40000.0,42000.0,41000.0,0,585
+marshmallow,3.8,Principal Data Scientist - Retention,"London, England",30d+,£100K - £111K (Glassdoor est.),30.0,100K - 111K,yearly,100000.0,111000.0,105500.0,0,586
+Insilico Medicine,4.2,Senior/Middle+ ML engineer (UAE),Remote,30d+,£75K - £95K (Employer est.),30.0,75K - 95K,yearly,75000.0,95000.0,85000.0,1,587
+University of Birmingham,3.9,Assistant Professor (Research and Education) of Environmental Health Data Science - College of Life and Environmental Sciences - 101769 - Grade 8,"Birmingham, England",18d,£31K - £40K (Glassdoor est.),18.0,31K - 40K,yearly,31000.0,40000.0,35500.0,0,588
+Chemify Ltd,3.5,Senior/Staff ML Scientist – Retrosynthesis,"Glasgow, Scotland",30d+,£51K - £61K (Employer est.),30.0,51K - 61K,yearly,51000.0,61000.0,56000.0,0,589
+Pwc UK,4.1,Digital Audit - Senior Associate - Gen AI Pod,"London, England",30d+,£110K - £135K (Glassdoor est.),30.0,110K - 135K,yearly,110000.0,135000.0,122500.0,0,590
+Framestore,4.0,Senior Machine Learning Developer,"London, England",30d+,£36K - £44K (Glassdoor est.),30.0,36K - 44K,yearly,36000.0,44000.0,40000.0,0,591
+Entrust Datacard,3.8,Senior Applied Scientist,United Kingdom,18d,£37K - £44K (Employer est.),18.0,37K - 44K,yearly,37000.0,44000.0,40500.0,0,592
+WiseTech Global,3.4,Senior Machine Learning Engineer,"London, England",30d+,£113K - £135K (Glassdoor est.),30.0,113K - 135K,yearly,113000.0,135000.0,124000.0,0,593
+Google,4.2,"Staff Software Engineer, Applied Machine Learning","London, England",27d,£55K - £75K (Employer est.),27.0,55K - 75K,yearly,55000.0,75000.0,65000.0,0,594
+IQVIA,3.3,Principal Statistical Programmer - FSP (Permanent Homebased / Remote),Remote,30d+,£61K - £89K (Glassdoor est.),30.0,61K - 89K,yearly,61000.0,89000.0,75000.0,1,595
+Galytix,4.8,Sr. Machine Learning Engineer,"London, England",30d+,£70K - £160K (Glassdoor est.),30.0,70K - 160K,yearly,70000.0,160000.0,115000.0,0,596
+Kpler,3.0,Senior Data Scientist,"London, England",30d+,£65K - £85K (Glassdoor est.),30.0,65K - 85K,yearly,65000.0,85000.0,75000.0,0,597
+EY,4.0,"Senior Manager Data Governance, Data & Analytics, Belfast","Belfast, Northern Ireland",10d,£41K - £51K (Glassdoor est.),10.0,41K - 51K,yearly,41000.0,51000.0,46000.0,0,598
+Photon,4.1,Tech Lead (Gen AI),"London, England",30d+,£100K - £113K (Glassdoor est.),30.0,100K - 113K,yearly,100000.0,113000.0,106500.0,0,599
+marshmallow,4.2,"Senior/Lead Pricing Data Scientist, Net pricing Team","London, England",30d+,£45K - £70K (Glassdoor est.),30.0,45K - 70K,yearly,45000.0,70000.0,57500.0,0,600
+University of Southampton,3.8,Research Fellow in Mathematical Foundations of AI and Machine Learning,"Southampton, England",30d+,£33K - £54K (Glassdoor est.),30.0,33K - 54K,yearly,33000.0,54000.0,43500.0,0,601
+Multiverse,3.5,"Senior Machine Learning Engineer - UK, Hybrid","London, England",30d+,£79K - £88K (Employer est.),30.0,79K - 88K,yearly,79000.0,88000.0,83500.0,0,602
+Eka Finance,5.0,Machine Learning Equity Quant Researcher/ Flexible Location,"London, England",12d,£80K - £110K (Glassdoor est.),12.0,80K - 110K,yearly,80000.0,110000.0,95000.0,0,603
+Heriot Watt University,3.8,Research Fellow in Scientific Machine Learning,Midlothian,12d,£44K - £60K (Glassdoor est.),12.0,44K - 60K,yearly,44000.0,60000.0,52000.0,0,604
+Johnson Matthey,4.5,AI Strategy Lead,"Sonning, England",30d+,£50K - £51K (Glassdoor est.),30.0,50K - 51K,yearly,50000.0,51000.0,50500.0,0,605
+Eka Finance,4.3,Machine Learning Engineer / Remote/ $High,"London, England",12d,£50K - £54K (Glassdoor est.),12.0,50K - 54K,yearly,50000.0,54000.0,52000.0,0,606
+DataSpartan Consulting,3.4,MACHINE LEARNING SPECIALIST,"London, England",30d+,£72K - £83K (Glassdoor est.),30.0,72K - 83K,yearly,72000.0,83000.0,77500.0,0,607
+Chubb,4.2,Head of Document AI Ingestion,"London, England",24h,£90K - £110K (Glassdoor est.),,90K - 110K,yearly,90000.0,110000.0,100000.0,0,608
+Roke Manor Research Limited,3.9,Senior AI | Machine Learning Engineer,"Gloucester, England",30d+,£46K - £50K (Glassdoor est.),30.0,46K - 50K,yearly,46000.0,50000.0,48000.0,0,609
+Experian,3.7,Director of Analytics Consulting - Credit Risk,"London, England",30d+,£50K - £80K (Glassdoor est.),30.0,50K - 80K,yearly,50000.0,80000.0,65000.0,0,610
+Qureight,5.0,Senior Machine Learning Engineer,"Cambridge, East of England, England",30d+,£50K - £85K (Glassdoor est.),30.0,50K - 85K,yearly,50000.0,85000.0,67500.0,0,611
+Linktree,3.9,"Backend Engineer, Data & Machine Learning","London, England",30d+,£55K - £74K (Glassdoor est.),30.0,55K - 74K,yearly,55000.0,74000.0,64500.0,0,612
+Fionics,4.1,Deep Learning Researcher (PhD) - HFT (Amsterdam),"London, England",30d+,£138K - £150K (Glassdoor est.),30.0,138K - 150K,yearly,138000.0,150000.0,144000.0,0,613
+LogicMonitor,4.0,Data ML Engineer,"London, England",21d,£26K - £58K (Glassdoor est.),21.0,26K - 58K,yearly,26000.0,58000.0,42000.0,0,614
+Datasource,4.1,Data Science Lead,"Manchester, England",30d+,£55K - £85K (Glassdoor est.),30.0,55K - 85K,yearly,55000.0,85000.0,70000.0,0,615
+Polaron,5.0,Machine Learning Engineer,"London, England",30d+,£38K - £47K (Glassdoor est.),30.0,38K - 47K,yearly,38000.0,47000.0,42500.0,0,616
+PlayStation Global,4.0,Machine Learning Engineer,"London, England",30d+,£63K - £73K (Glassdoor est.),30.0,63K - 73K,yearly,63000.0,73000.0,68000.0,0,617
+Capgemini Invent,5.0,AI Regulation & Governance Senior/Managing Consultant,"London, England",30d+,£45K - £59K (Glassdoor est.),30.0,45K - 59K,yearly,45000.0,59000.0,52000.0,0,618
+Vitol,4.3,Machine Learning Engineer,"London, England",30d+,£36K - £44K (Glassdoor est.),30.0,36K - 44K,yearly,36000.0,44000.0,40000.0,0,619
+Bloomberg,3.1,"Enterprise Data - Sales Specialist - Research, ESG & Data Science Products, Specialist Sales - Financial Solutions","London, England",13d,£68K - £120K (Glassdoor est.),13.0,68K - 120K,yearly,68000.0,120000.0,94000.0,0,620
+Spotify,4.1,"Senior Machine Learning Infrastructure Engineer, Music","London, England",4d,£33K - £42K (Glassdoor est.),4.0,33K - 42K,yearly,33000.0,42000.0,37500.0,0,621
+Qureight Ltd,3.4,Senior Machine Learning Scientist/Engineer,"London, England",13d,£41K - £64K (Glassdoor est.),13.0,41K - 64K,yearly,41000.0,64000.0,52500.0,0,622
+Causaly,3.5,Machine Learning Engineer,"London, England",30d+,£70K - £110K (Glassdoor est.),30.0,70K - 110K,yearly,70000.0,110000.0,90000.0,0,623
+GSK,3.8,Senior AI/ML Engineer - Computer Vision,"London, England",30d+,£24K - £58K (Glassdoor est.),30.0,24K - 58K,yearly,24000.0,58000.0,41000.0,0,624
+"Cyclotron, Inc.",4.1,Azure AI Solutions Architect,"London, England",30d+,£62K - £85K (Glassdoor est.),30.0,62K - 85K,yearly,62000.0,85000.0,73500.0,0,625

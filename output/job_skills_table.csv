@@ -1,0 +1,2903 @@
+job_id,job_title,salary_avg,skill
+1,Junior Data Scientist,35000.0,Data mining
+1,Junior Data Scientist,35000.0,Big data
+1,Junior Data Scientist,35000.0,R
+1,Junior Data Scientist,35000.0,Data analysis skills
+1,Junior Data Scientist,35000.0,Java
+2,Data Scientist,57500.0,SQL
+2,Data Scientist,57500.0,Maths
+2,Data Scientist,57500.0,Data science
+2,Data Scientist,57500.0,Python
+3,Data Scientist,47500.0,Software deployment
+3,Data Scientist,47500.0,Data analysis skills
+3,Data Scientist,47500.0,Statistical analysis
+3,Data Scientist,47500.0,Maths
+3,Data Scientist,47500.0,Machine learning
+4,Data Scientist - Ops,75000.0,MATLAB
+4,Data Scientist - Ops,75000.0,R
+4,Data Scientist - Ops,75000.0,Maths
+4,Data Scientist - Ops,75000.0,C
+4,Data Scientist - Ops,75000.0,Machine learning
+5,"Data Scientist, Programming & Editorial",124000.0,Data analysis skills
+5,"Data Scientist, Programming & Editorial",124000.0,Tableau
+5,"Data Scientist, Programming & Editorial",124000.0,SQL
+5,"Data Scientist, Programming & Editorial",124000.0,Data science
+5,"Data Scientist, Programming & Editorial",124000.0,Python
+6,Data Scientist,80000.0,Jira
+6,Data Scientist,80000.0,MATLAB
+6,Data Scientist,80000.0,Power BI
+6,Data Scientist,80000.0,Operating systems
+6,Data Scientist,80000.0,R
+7,Data Scientist,36000.0,Power BI
+7,Data Scientist,36000.0,Data mining
+7,Data Scientist,36000.0,R
+7,Data Scientist,36000.0,Data analysis skills
+7,Data Scientist,36000.0,Tableau
+8,Junior Data Scientist,59500.0,TensorFlow
+8,Junior Data Scientist,59500.0,SAS
+8,Junior Data Scientist,59500.0,Big data
+8,Junior Data Scientist,59500.0,Java
+8,Junior Data Scientist,59500.0,AWS
+9,Data Scientist,34000.0,Tableau
+9,Data Scientist,34000.0,SQL
+9,Data Scientist,34000.0,Data management
+9,Data Scientist,34000.0,Data science
+9,Data Scientist,34000.0,Communication skills
+10,Data Scientist I/II,47500.0,Power BI
+10,Data Scientist I/II,47500.0,Signal processing
+10,Data Scientist I/II,47500.0,Git
+10,Data Scientist I/II,47500.0,SQL
+10,Data Scientist I/II,47500.0,Statistical analysis
+11,Graduate Software Engineer / Data Scientist: Forecasting for Electricity Trading,48000.0,Cloud infrastructure
+11,Graduate Software Engineer / Data Scientist: Forecasting for Electricity Trading,48000.0,Rust
+11,Graduate Software Engineer / Data Scientist: Forecasting for Electricity Trading,48000.0,Go
+11,Graduate Software Engineer / Data Scientist: Forecasting for Electricity Trading,48000.0,SQL
+11,Graduate Software Engineer / Data Scientist: Forecasting for Electricity Trading,48000.0,C++
+12,Data Scientist,94000.0,Software deployment
+12,Data Scientist,94000.0,Data analysis skills
+12,Data Scientist,94000.0,Statistical analysis
+12,Data Scientist,94000.0,Maths
+12,Data Scientist,94000.0,Machine learning
+13,Data Scientist - IDDO,60500.0,Presentation skills
+13,Data Scientist - IDDO,60500.0,Machine learning
+13,Data Scientist - IDDO,60500.0,Communication skills
+14,Data Scientist,48000.0,Tableau
+14,Data Scientist,48000.0,SQL
+14,Data Scientist,48000.0,Machine learning
+14,Data Scientist,48000.0,IT
+14,Data Scientist,48000.0,Data science
+15,"Data Scientist, Payments Fraud",62000.0,Data mining
+15,"Data Scientist, Payments Fraud",62000.0,SAS
+15,"Data Scientist, Payments Fraud",62000.0,Big data
+15,"Data Scientist, Payments Fraud",62000.0,R
+15,"Data Scientist, Payments Fraud",62000.0,Google Cloud Platform
+16,Data Scientist,70500.0,Spark
+16,Data Scientist,70500.0,Machine learning
+16,Data Scientist,70500.0,Hadoop
+17,Data Scientist - Forecasting,63000.0,Data mining
+17,Data Scientist - Forecasting,63000.0,Java
+17,Data Scientist - Forecasting,63000.0,Maths
+17,Data Scientist - Forecasting,63000.0,Machine learning
+17,Data Scientist - Forecasting,63000.0,JavaScript
+18,Data Scientist / Senior Data Scientist,40000.0,SQL
+18,Data Scientist / Senior Data Scientist,40000.0,Statistical analysis
+18,Data Scientist / Senior Data Scientist,40000.0,Machine learning
+18,Data Scientist / Senior Data Scientist,40000.0,Agile
+19,Network Data Scientist,52500.0,Power BI
+19,Network Data Scientist,52500.0,R
+19,Network Data Scientist,52500.0,Data analysis skills
+19,Network Data Scientist,52500.0,Tableau
+19,Network Data Scientist,52500.0,SQL
+20,Data Scientist Apprentice,32000.0,Data mining
+20,Data Scientist Apprentice,32000.0,R
+20,Data Scientist Apprentice,32000.0,SQL
+20,Data Scientist Apprentice,32000.0,Quantitative analysis
+20,Data Scientist Apprentice,32000.0,Python
+21,"Data Scientist, Product Analytics",44500.0,SQL
+21,"Data Scientist, Product Analytics",44500.0,Machine learning
+21,"Data Scientist, Product Analytics",44500.0,Communication skills
+21,"Data Scientist, Product Analytics",44500.0,Python
+22,Data Scientist,48000.0,TensorFlow
+22,Data Scientist,48000.0,Power BI
+22,Data Scientist,48000.0,Big data
+22,Data Scientist,48000.0,R
+22,Data Scientist,48000.0,Tableau
+23,Data Scientist (retail/ecom),56000.0,Power BI
+23,Data Scientist (retail/ecom),56000.0,R
+23,Data Scientist (retail/ecom),56000.0,Analysis skills
+23,Data Scientist (retail/ecom),56000.0,Machine learning
+23,Data Scientist (retail/ecom),56000.0,Data science
+24,Data Scientist,44500.0,Power BI
+24,Data Scientist,44500.0,Spark
+24,Data Scientist,44500.0,English
+24,Data Scientist,44500.0,Apache Hive
+24,Data Scientist,44500.0,Data science
+25,Internship - Data Science,36000.0,Data mining
+25,Internship - Data Science,36000.0,Deep learning
+26,Data Scientist,76500.0,MATLAB
+26,Data Scientist,76500.0,Internet of things
+26,Data Scientist,76500.0,R
+26,Data Scientist,76500.0,Git
+26,Data Scientist,76500.0,English
+27,Data Scientist,47000.0,Statistical software
+27,Data Scientist,47000.0,R
+27,Data Scientist,47000.0,Data analysis skills
+27,Data Scientist,47000.0,SQL
+27,Data Scientist,47000.0,Analysis skills
+28,Data Scientist,51000.0,Machine learning
+28,Data Scientist,51000.0,Natural language processing
+28,Data Scientist,51000.0,IT
+28,Data Scientist,51000.0,Data science
+28,Data Scientist,51000.0,Data visualisation
+29,Data Scientist,62000.0,SQL
+29,Data Scientist,62000.0,Machine learning
+29,Data Scientist,62000.0,Python
+30,Data Scientist,58000.0,Docker
+30,Data Scientist,58000.0,Machine learning
+30,Data Scientist,58000.0,Software development
+30,Data Scientist,58000.0,Linux
+30,Data Scientist,58000.0,Communication skills
+31,Data Scientist - Intern,47000.0,Data science
+32,Data Scientist,38500.0,Data structures
+32,Data Scientist,38500.0,Git
+32,Data Scientist,38500.0,Project management
+32,Data Scientist,38500.0,Machine learning
+32,Data Scientist,38500.0,Deep learning
+33,Senior Data Scientist,123000.0,Data mining
+33,Senior Data Scientist,123000.0,R
+33,Senior Data Scientist,123000.0,Machine learning
+33,Senior Data Scientist,123000.0,GitHub
+33,Senior Data Scientist,123000.0,Agile
+34,Data Scientist,60500.0,Statistical software
+34,Data Scientist,60500.0,Power BI
+34,Data Scientist,60500.0,R
+34,Data Scientist,60500.0,Tableau
+34,Data Scientist,60500.0,SQL
+35,Commercial Data Analyst - Internship,55500.0,Relational databases
+35,Commercial Data Analyst - Internship,55500.0,R
+35,Commercial Data Analyst - Internship,55500.0,SQL
+35,Commercial Data Analyst - Internship,55500.0,Statistical analysis
+35,Commercial Data Analyst - Internship,55500.0,C
+36,Data Scientist,33500.0,Go
+36,Data Scientist,33500.0,Java
+36,Data Scientist,33500.0,Machine learning
+36,Data Scientist,33500.0,Python
+36,Data Scientist,33500.0,Hadoop
+37,Senior Data Scientist - Financial Crime,34000.0,SQL
+37,Senior Data Scientist - Financial Crime,34000.0,Data science
+37,Senior Data Scientist - Financial Crime,34000.0,Communication skills
+37,Senior Data Scientist - Financial Crime,34000.0,Python
+38,"Senior Data Scientist, Payments",33500.0,SQL
+38,"Senior Data Scientist, Payments",33500.0,Machine learning
+38,"Senior Data Scientist, Payments",33500.0,Data science
+38,"Senior Data Scientist, Payments",33500.0,Python
+39,Data Scientist,50000.0,Microsoft Powerpoint
+39,Data Scientist,50000.0,Power BI
+39,Data Scientist,50000.0,Microsoft Excel
+39,Data Scientist,50000.0,Tableau
+39,Data Scientist,50000.0,SQL
+40,Senior Data Scientist,33000.0,Java
+40,Senior Data Scientist,33000.0,SQL
+40,Senior Data Scientist,33000.0,Analysis skills
+40,Senior Data Scientist,33000.0,Machine learning
+40,Senior Data Scientist,33000.0,Python
+41,DATA SCIENTIST,39500.0,Power BI
+41,DATA SCIENTIST,39500.0,Tableau
+41,DATA SCIENTIST,39500.0,SQL
+41,DATA SCIENTIST,39500.0,Hootsuite
+41,DATA SCIENTIST,39500.0,Contracts
+42,Data Science Machine Learning Internship (Summer 2025),58500.0,Business intelligence
+42,Data Science Machine Learning Internship (Summer 2025),58500.0,Tableau
+42,Data Science Machine Learning Internship (Summer 2025),58500.0,SQL
+42,Data Science Machine Learning Internship (Summer 2025),58500.0,Machine learning
+42,Data Science Machine Learning Internship (Summer 2025),58500.0,IT
+43,Data Analyst,70000.0,R
+43,Data Analyst,70000.0,Git
+43,Data Analyst,70000.0,SQL
+43,Data Analyst,70000.0,Machine learning
+43,Data Analyst,70000.0,Python
+44,"Senior Data Scientist, Learning",110000.0,Power BI
+44,"Senior Data Scientist, Learning",110000.0,Oracle
+44,"Senior Data Scientist, Learning",110000.0,R
+44,"Senior Data Scientist, Learning",110000.0,Microsoft SQL Server
+44,"Senior Data Scientist, Learning",110000.0,Tableau
+45,Data Scientist,31000.0,Power BI
+45,Data Scientist,31000.0,Azure
+45,Data Scientist,31000.0,Selenium
+45,Data Scientist,31000.0,Git
+45,Data Scientist,31000.0,Google Cloud Platform
+46,Data Scientist,44500.0,TensorFlow
+46,Data Scientist,44500.0,Power BI
+46,Data Scientist,44500.0,Azure
+46,Data Scientist,44500.0,Kubernetes
+46,Data Scientist,44500.0,Tableau
+47,Data Scientist,56500.0,Salesforce Marketing Cloud
+47,Data Scientist,56500.0,Tableau
+47,Data Scientist,56500.0,SQL
+47,Data Scientist,56500.0,Analysis skills
+47,Data Scientist,56500.0,Martech
+48,Tokenomics Data Analyst/Scientist,47500.0,Machine learning
+48,Tokenomics Data Analyst/Scientist,47500.0,Data science
+49,Data Scientist/Engineer,65000.0,SQL
+49,Data Scientist/Engineer,65000.0,APIs
+49,Data Scientist/Engineer,65000.0,Regression analysis
+49,Data Scientist/Engineer,65000.0,Python
+50,Senior Data Scientist,56000.0,Power BI
+50,Senior Data Scientist,56000.0,Business analysis
+50,Senior Data Scientist,56000.0,Data analysis skills
+50,Senior Data Scientist,56000.0,Tableau
+50,Senior Data Scientist,56000.0,SQL
+51,Data Scientist / AI Consultant,40000.0,Statistics
+51,Data Scientist / AI Consultant,40000.0,Big data
+51,Data Scientist / AI Consultant,40000.0,Spark
+51,Data Scientist / AI Consultant,40000.0,R
+51,Data Scientist / AI Consultant,40000.0,NoSQL
+52,Data Scientist,31000.0,Microsoft Powerpoint
+52,Data Scientist,31000.0,Power BI
+52,Data Scientist,31000.0,Microsoft Excel
+52,Data Scientist,31000.0,Tableau
+52,Data Scientist,31000.0,SQL
+53,Data Scientist,52500.0,R
+53,Data Scientist,52500.0,Data analysis skills
+53,Data Scientist,52500.0,SQL
+53,Data Scientist,52500.0,Regression analysis
+53,Data Scientist,52500.0,Python
+54,DATA SCIENTIST,67500.0,SAS
+54,DATA SCIENTIST,67500.0,Analysis skills
+54,DATA SCIENTIST,67500.0,Presentation skills
+54,DATA SCIENTIST,67500.0,Machine learning
+54,DATA SCIENTIST,67500.0,Data science
+55,Data Scientist,35500.0,Data modelling
+55,Data Scientist,35500.0,Data mining
+55,Data Scientist,35500.0,R
+55,Data Scientist,35500.0,SQL
+55,Data Scientist,35500.0,Machine learning
+56,Marketing Data Scientist,74500.0,French
+56,Marketing Data Scientist,74500.0,Spark
+56,Marketing Data Scientist,74500.0,Swedish
+56,Marketing Data Scientist,74500.0,REST
+56,Marketing Data Scientist,74500.0,APIs
+57,"Associate Data Scientist, Advanced Analytics",47500.0,TensorFlow
+57,"Associate Data Scientist, Advanced Analytics",47500.0,Microsoft Excel
+57,"Associate Data Scientist, Advanced Analytics",47500.0,Data mining
+57,"Associate Data Scientist, Advanced Analytics",47500.0,Kanban
+57,"Associate Data Scientist, Advanced Analytics",47500.0,SQL
+58,Data Scientist,27500.0,Machine learning
+58,Data Scientist,27500.0,Natural language processing
+58,Data Scientist,27500.0,AI
+58,Data Scientist,27500.0,Python
+59,Data Scientist,68000.0,Azure
+59,Data Scientist,68000.0,Google Cloud Platform
+59,Data Scientist,68000.0,AWS
+59,Data Scientist,68000.0,Machine learning
+59,Data Scientist,68000.0,Data management
+60,Lead Data Scientist,32000.0,TensorFlow
+60,Lead Data Scientist,32000.0,Azure
+60,Lead Data Scientist,32000.0,R
+60,Lead Data Scientist,32000.0,Google Cloud Platform
+60,Lead Data Scientist,32000.0,Statistical analysis
+61,Junior Applied Scientist,49500.0,TensorFlow
+61,Junior Applied Scientist,49500.0,Application development
+61,Junior Applied Scientist,49500.0,Machine learning
+61,Junior Applied Scientist,49500.0,APIs
+61,Junior Applied Scientist,49500.0,Python
+62,Consultant - Data & AI Strategy - Data Strategy,67500.0,TensorFlow
+62,Consultant - Data & AI Strategy - Data Strategy,67500.0,Power BI
+62,Consultant - Data & AI Strategy - Data Strategy,67500.0,Azure
+62,Consultant - Data & AI Strategy - Data Strategy,67500.0,Big data
+62,Consultant - Data & AI Strategy - Data Strategy,67500.0,Spark
+63,Data Scientist,27500.0,Power BI
+63,Data Scientist,27500.0,Data analysis skills
+63,Data Scientist,27500.0,Apache Hive
+63,Data Scientist,27500.0,Tableau
+63,Data Scientist,27500.0,Analysis skills
+64,AI Intern,70000.0,TensorFlow
+64,AI Intern,70000.0,Azure
+64,AI Intern,70000.0,Software deployment
+64,AI Intern,70000.0,English
+64,AI Intern,70000.0,Google Cloud Platform
+65,Contract Data Scientist,56000.0,R
+65,Contract Data Scientist,56000.0,Data analysis skills
+65,Contract Data Scientist,56000.0,Git
+65,Contract Data Scientist,56000.0,SQL
+65,Contract Data Scientist,56000.0,Statistical analysis
+66,Data Analyst,67000.0,Spark
+66,Data Analyst,67000.0,R
+66,Data Analyst,67000.0,Data analysis skills
+66,Data Analyst,67000.0,NoSQL
+66,Data Analyst,67000.0,Git
+67,Senior Data Scientist,70500.0,Sage
+67,Senior Data Scientist,70500.0,R
+67,Senior Data Scientist,70500.0,SQL
+67,Senior Data Scientist,70500.0,Analysis skills
+67,Senior Data Scientist,70500.0,Project management
+68,Data Scientist (London),39500.0,Go
+68,Data Scientist (London),39500.0,Spark
+68,Data Scientist (London),39500.0,Data analysis skills
+68,Data Scientist (London),39500.0,SQL
+68,Data Scientist (London),39500.0,Analysis skills
+69,Data Scientist,70000.0,Statistical software
+69,Data Scientist,70000.0,Big data
+69,Data Scientist,70000.0,Data analysis skills
+69,Data Scientist,70000.0,Statistical analysis
+69,Data Scientist,70000.0,Machine learning
+70,Data Scientist,54000.0,Azure
+70,Data Scientist,54000.0,Business intelligence
+70,Data Scientist,54000.0,C#
+70,Data Scientist,54000.0,Spark
+70,Data Scientist,54000.0,Data analysis skills
+71,"Data Scientist, Go-To-Market (UK)",55000.0,Big data
+71,"Data Scientist, Go-To-Market (UK)",55000.0,SQL
+71,"Data Scientist, Go-To-Market (UK)",55000.0,Product management
+71,"Data Scientist, Go-To-Market (UK)",55000.0,Communication skills
+71,"Data Scientist, Go-To-Market (UK)",55000.0,Python
+72,Senior Data Scientist,58000.0,Data mining
+72,Senior Data Scientist,58000.0,Deep learning
+73,Junior Big Data Engineer,40500.0,Power BI
+73,Junior Big Data Engineer,40500.0,R
+73,Junior Big Data Engineer,40500.0,SQL
+73,Junior Big Data Engineer,40500.0,Agile
+73,Junior Big Data Engineer,40500.0,IT
+74,Data Scientist - Kraken Field Platform,45000.0,Azure
+74,Data Scientist - Kraken Field Platform,45000.0,R
+74,Data Scientist - Kraken Field Platform,45000.0,Data analysis skills
+74,Data Scientist - Kraken Field Platform,45000.0,Google Cloud Platform
+74,Data Scientist - Kraken Field Platform,45000.0,SQL
+75,Data Scientist,49000.0,MATLAB
+75,Data Scientist,49000.0,Signal processing
+75,Data Scientist,49000.0,FPGA
+75,Data Scientist,49000.0,Software deployment
+75,Data Scientist,49000.0,C++
+76,Data Science Apprentice,40000.0,TensorFlow
+76,Data Science Apprentice,40000.0,Power BI
+76,Data Science Apprentice,40000.0,SQL
+76,Data Science Apprentice,40000.0,Presentation skills
+76,Data Science Apprentice,40000.0,Machine learning
+77,Data Engineer,56000.0,Azure
+77,Data Engineer,56000.0,AWS
+77,Data Engineer,56000.0,Analysis skills
+77,Data Engineer,56000.0,Machine learning
+77,Data Engineer,56000.0,Deep learning
+78,Data Scientist - Radar Systems,84000.0,Spark
+78,Data Scientist - Radar Systems,84000.0,SQL
+78,Data Scientist - Radar Systems,84000.0,Machine learning
+78,Data Scientist - Radar Systems,84000.0,Deep learning
+78,Data Scientist - Radar Systems,84000.0,Predictive analytics
+79,Data Scientist,58000.0,Software deployment
+79,Data Scientist,58000.0,Data science
+79,Data Scientist,58000.0,Clustering
+79,Data Scientist,58000.0,Communication skills
+79,Data Scientist,58000.0,Python
+80,"Data Scientist, Reuters",67000.0,Elasticsearch
+80,"Data Scientist, Reuters",67000.0,Relational databases
+80,"Data Scientist, Reuters",67000.0,Spark
+80,"Data Scientist, Reuters",67000.0,R
+80,"Data Scientist, Reuters",67000.0,NoSQL
+81,"Senior Decision Scientist, UK 2024",60000.0,Git
+81,"Senior Decision Scientist, UK 2024",60000.0,Data science
+82,Data Scientist - Optimisation,69000.0,Analysis skills
+82,Data Scientist - Optimisation,69000.0,Machine learning
+82,Data Scientist - Optimisation,69000.0,Financial services
+82,Data Scientist - Optimisation,69000.0,Data science
+82,Data Scientist - Optimisation,69000.0,AI
+83,Data Scientist,84000.0,Natural language processing
+83,Data Scientist,84000.0,Cloud computing
+84,Data Scientist,50000.0,Power BI
+84,Data Scientist,50000.0,R
+84,Data Scientist,50000.0,Git
+84,Data Scientist,50000.0,SQL
+84,Data Scientist,50000.0,Analysis skills
+85,Pensions Data Scientist,24500.0,Power BI
+85,Pensions Data Scientist,24500.0,Azure
+85,Pensions Data Scientist,24500.0,SQL
+85,Pensions Data Scientist,24500.0,Machine learning
+85,Pensions Data Scientist,24500.0,Data management
+86,Data Scientist – NLP,62500.0,Jira
+86,Data Scientist – NLP,62500.0,Azure
+86,Data Scientist – NLP,62500.0,Git
+86,Data Scientist – NLP,62500.0,Tableau
+86,Data Scientist – NLP,62500.0,SQL
+87,R Shiny Application Developer (Data Scientist),55000.0,TensorFlow
+87,R Shiny Application Developer (Data Scientist),55000.0,C++
+87,R Shiny Application Developer (Data Scientist),55000.0,Machine learning
+87,R Shiny Application Developer (Data Scientist),55000.0,Deep learning
+87,R Shiny Application Developer (Data Scientist),55000.0,Mentoring
+88,Data Scientist,43000.0,Data analysis skills
+88,Data Scientist,43000.0,Presentation skills
+88,Data Scientist,43000.0,Data science
+88,Data Scientist,43000.0,Python
+89,Data Scientist (DSM),72000.0,Jira
+89,Data Scientist (DSM),72000.0,TensorFlow
+89,Data Scientist (DSM),72000.0,Software deployment
+89,Data Scientist (DSM),72000.0,Google Cloud Platform
+89,Data Scientist (DSM),72000.0,Tableau
+90,Natural Language Processing (NLP) Data Scientist (KTP Associate),49500.0,TensorFlow
+90,Natural Language Processing (NLP) Data Scientist (KTP Associate),49500.0,Git
+90,Natural Language Processing (NLP) Data Scientist (KTP Associate),49500.0,AWS
+90,Natural Language Processing (NLP) Data Scientist (KTP Associate),49500.0,Machine learning
+90,Natural Language Processing (NLP) Data Scientist (KTP Associate),49500.0,Deep learning
+91,Software Engineer – Data Scientist / Bioinformatics,40500.0,TensorFlow
+91,Software Engineer – Data Scientist / Bioinformatics,40500.0,R
+91,Software Engineer – Data Scientist / Bioinformatics,40500.0,Machine learning
+91,Software Engineer – Data Scientist / Bioinformatics,40500.0,Natural language processing
+91,Software Engineer – Data Scientist / Bioinformatics,40500.0,Conversion optimisation
+92,Data Scientist,108500.0,Machine learning
+92,Data Scientist,108500.0,Natural language processing
+92,Data Scientist,108500.0,IT
+92,Data Scientist,108500.0,Data science
+92,Data Scientist,108500.0,Data visualisation
+93,Data Scientist,66000.0,Jira
+93,Data Scientist,66000.0,Bamboo
+93,Data Scientist,66000.0,Kubernetes
+93,Data Scientist,66000.0,Docker
+93,Data Scientist,66000.0,Machine learning
+94,Senior Data Scientist,37500.0,TensorFlow
+94,Senior Data Scientist,37500.0,Tableau
+94,Senior Data Scientist,37500.0,SQL
+94,Senior Data Scientist,37500.0,Machine learning
+94,Senior Data Scientist,37500.0,Deep learning
+95,Data Scientist,83000.0,SQL
+95,Data Scientist,83000.0,Product management
+95,Data Scientist,83000.0,B2B
+95,Data Scientist,83000.0,AI
+95,Data Scientist,83000.0,Communication skills
+96,Data Scientist,37500.0,Google Cloud Platform
+96,Data Scientist,37500.0,C++
+96,Data Scientist,37500.0,C
+96,Data Scientist,37500.0,Machine learning
+96,Data Scientist,37500.0,Deep learning
+97,Senior Data Scientist,67000.0,Data mining
+97,Senior Data Scientist,67000.0,Spark
+97,Senior Data Scientist,67000.0,Machine learning
+97,Senior Data Scientist,67000.0,Scala
+97,Senior Data Scientist,67000.0,Natural language processing
+98,Product Data Scientist,61500.0,TensorFlow
+98,Product Data Scientist,61500.0,Azure
+98,Product Data Scientist,61500.0,NoSQL
+98,Product Data Scientist,61500.0,Test-driven development
+98,Product Data Scientist,61500.0,Google Cloud Platform
+99,Machine Learning Data Scientist,47000.0,Machine learning
+99,Machine Learning Data Scientist,47000.0,Python
+100,Data Scientist AI/ML,60000.0,Microsoft Windows Server
+100,Data Scientist AI/ML,60000.0,Rust
+100,Data Scientist AI/ML,60000.0,Relational databases
+100,Data Scientist AI/ML,60000.0,Microsoft Office
+100,Data Scientist AI/ML,60000.0,SQL
+101,Data Scientist,58000.0,TensorFlow
+101,Data Scientist,58000.0,Data modelling
+101,Data Scientist,58000.0,Azure
+101,Data Scientist,58000.0,Big data
+101,Data Scientist,58000.0,Spark
+102,Data Scientist (ASR),67000.0,Cloud infrastructure
+102,Data Scientist (ASR),67000.0,Kubernetes
+102,Data Scientist (ASR),67000.0,Relational databases
+102,Data Scientist (ASR),67000.0,Git
+102,Data Scientist (ASR),67000.0,Database design
+103,Associate Data Scientist,50000.0,Docker
+103,Associate Data Scientist,50000.0,Machine learning
+103,Associate Data Scientist,50000.0,Software development
+103,Associate Data Scientist,50000.0,Linux
+103,Associate Data Scientist,50000.0,AI
+104,Data Scientist - 6 Month Contract,49500.0,Jira
+104,Data Scientist - 6 Month Contract,49500.0,TensorFlow
+104,Data Scientist - 6 Month Contract,49500.0,R
+104,Data Scientist - 6 Month Contract,49500.0,SQL
+104,Data Scientist - 6 Month Contract,49500.0,Analysis skills
+105,Data Engineer/Machine Learning Ops,34000.0,Oracle
+105,Data Engineer/Machine Learning Ops,34000.0,Management
+105,Data Engineer/Machine Learning Ops,34000.0,R
+105,Data Engineer/Machine Learning Ops,34000.0,Microsoft SQL Server
+105,Data Engineer/Machine Learning Ops,34000.0,Stata
+106,Data Scientist,74000.0,Node.js
+106,Data Scientist,74000.0,Data structures
+106,Data Scientist,74000.0,SQL
+106,Data Scientist,74000.0,Statistical analysis
+106,Data Scientist,74000.0,Machine learning
+107,Data Scientist,56000.0,Data analysis skills
+107,Data Scientist,56000.0,AWS
+107,Data Scientist,56000.0,UI
+107,Data Scientist,56000.0,GitLab
+108,CPRD FTC Data Scientist (OR),48000.0,Machine learning
+108,CPRD FTC Data Scientist (OR),48000.0,PostgreSQL
+108,CPRD FTC Data Scientist (OR),48000.0,Communication skills
+108,CPRD FTC Data Scientist (OR),48000.0,Python
+109,Data Scientist,70000.0,SQL
+109,Data Scientist,70000.0,Product development
+109,Data Scientist,70000.0,Communication skills
+109,Data Scientist,70000.0,Python
+110,Senior Translational Data Scientist,70000.0,Azure
+110,Senior Translational Data Scientist,70000.0,SQL
+110,Senior Translational Data Scientist,70000.0,Machine learning
+110,Senior Translational Data Scientist,70000.0,Cloud computing
+110,Senior Translational Data Scientist,70000.0,Python
+111,Data Scientist,39000.0,Presentation skills
+111,Data Scientist,39000.0,Organisational skills
+111,Data Scientist,39000.0,APIs
+111,Data Scientist,39000.0,Communication skills
+111,Data Scientist,39000.0,Python
+112,"Senior Data Scientist, Product Analytics",35500.0,TensorFlow
+112,"Senior Data Scientist, Product Analytics",35500.0,Power BI
+112,"Senior Data Scientist, Product Analytics",35500.0,Azure
+112,"Senior Data Scientist, Product Analytics",35500.0,English
+112,"Senior Data Scientist, Product Analytics",35500.0,Tableau
+113,Senior Data Scientist,35000.0,Machine learning
+113,Senior Data Scientist,35000.0,PostgreSQL
+113,Senior Data Scientist,35000.0,Communication skills
+113,Senior Data Scientist,35000.0,Python
+114,Senior Data Scientist,83000.0,Alteryx
+114,Senior Data Scientist,83000.0,SQL
+114,Senior Data Scientist,83000.0,Machine learning
+114,Senior Data Scientist,83000.0,Cloud computing
+114,Senior Data Scientist,83000.0,Communication skills
+115,Data Scientist,37000.0,TensorFlow
+115,Data Scientist,37000.0,Machine learning
+116,Data Scientist,63500.0,Azure
+116,Data Scientist,63500.0,Big data
+116,Data Scientist,63500.0,Spark
+116,Data Scientist,63500.0,NoSQL
+116,Data Scientist,63500.0,Information security
+117,Operations Data Scientist,64000.0,TensorFlow
+117,Operations Data Scientist,64000.0,Image processing
+117,Operations Data Scientist,64000.0,Spark
+117,Operations Data Scientist,64000.0,Statistical analysis
+117,Operations Data Scientist,64000.0,Machine learning
+118,Senior Data Scientist,53500.0,Power BI
+118,Senior Data Scientist,53500.0,Azure
+118,Senior Data Scientist,53500.0,Waterfall
+118,Senior Data Scientist,53500.0,Big data
+118,Senior Data Scientist,53500.0,Spark
+119,DATA SCIENTIST,70000.0,Azure
+119,DATA SCIENTIST,70000.0,Data analysis skills
+119,DATA SCIENTIST,70000.0,NoSQL
+119,DATA SCIENTIST,70000.0,Database design
+119,DATA SCIENTIST,70000.0,OOP
+120,Data Scientist,39500.0,Tableau
+120,Data Scientist,39500.0,SQL
+120,Data Scientist,39500.0,IT
+120,Data Scientist,39500.0,Data science
+120,Data Scientist,39500.0,Communication skills
+121,Senior Data Scientist,55500.0,SQL
+121,Senior Data Scientist,55500.0,Predictive analytics
+121,Senior Data Scientist,55500.0,Python
+122,Data Scientist,49000.0,Tableau
+122,Data Scientist,49000.0,SQL
+122,Data Scientist,49000.0,AWS
+122,Data Scientist,49000.0,Market research
+122,Data Scientist,49000.0,Machine learning
+123,"Senior Data Scientist, Parental leave cover (12 months)",87500.0,Azure
+123,"Senior Data Scientist, Parental leave cover (12 months)",87500.0,ATS
+123,"Senior Data Scientist, Parental leave cover (12 months)",87500.0,Git
+123,"Senior Data Scientist, Parental leave cover (12 months)",87500.0,Machine learning
+123,"Senior Data Scientist, Parental leave cover (12 months)",87500.0,Data science
+124,Data Scientist,31500.0,Hospitality
+124,Data Scientist,31500.0,Power BI
+124,Data Scientist,31500.0,Data analysis skills
+124,Data Scientist,31500.0,Tableau
+124,Data Scientist,31500.0,SQL
+125,Data Scientist I,55500.0,SQL
+125,Data Scientist I,55500.0,AWS
+125,Data Scientist I,55500.0,Machine learning
+125,Data Scientist I,55500.0,IT
+125,Data Scientist I,55500.0,Data science
+126,Data Scientist,45500.0,R
+126,Data Scientist,45500.0,SQL
+126,Data Scientist,45500.0,Product development
+126,Data Scientist,45500.0,Machine learning
+126,Data Scientist,45500.0,Google Search Console
+127,Data Analyst,50000.0,Power BI
+127,Data Analyst,50000.0,Azure
+127,Data Analyst,50000.0,Big data
+127,Data Analyst,50000.0,Spark
+127,Data Analyst,50000.0,Tableau
+128,Data Scientist,58000.0,Machine learning
+128,Data Scientist,58000.0,Natural language processing
+128,Data Scientist,58000.0,Data science
+128,Data Scientist,58000.0,Python
+129,Senior Data Scientist,73000.0,R
+129,Senior Data Scientist,73000.0,Tableau
+129,Senior Data Scientist,73000.0,SQL
+129,Senior Data Scientist,73000.0,Product development
+129,Senior Data Scientist,73000.0,Data science
+130,Data Analyst,81500.0,R
+130,Data Analyst,81500.0,SQL
+130,Data Analyst,81500.0,Statistical analysis
+130,Data Analyst,81500.0,Maths
+130,Data Analyst,81500.0,Machine learning
+131,Data Scientist,67500.0,SAS
+131,Data Scientist,67500.0,Spark
+131,Data Scientist,67500.0,R
+131,Data Scientist,67500.0,Java
+131,Data Scientist,67500.0,SQL
+132,"Data Scientist II, Product Analytics",58000.0,TensorFlow
+132,"Data Scientist II, Product Analytics",58000.0,Azure
+132,"Data Scientist II, Product Analytics",58000.0,Spark
+132,"Data Scientist II, Product Analytics",58000.0,Google Cloud Platform
+132,"Data Scientist II, Product Analytics",58000.0,SQL
+133,"Senior Data Scientist, Generative AI, Google Cloud",55000.0,Machine learning
+133,"Senior Data Scientist, Generative AI, Google Cloud",55000.0,PostgreSQL
+133,"Senior Data Scientist, Generative AI, Google Cloud",55000.0,Communication skills
+133,"Senior Data Scientist, Generative AI, Google Cloud",55000.0,Python
+134,Head of Data & Analytics,102000.0,Power BI
+134,Head of Data & Analytics,102000.0,R
+134,Head of Data & Analytics,102000.0,Git
+134,Head of Data & Analytics,102000.0,Tableau
+134,Head of Data & Analytics,102000.0,Presentation skills
+135,Senior Data Scientist,85500.0,Management
+135,Senior Data Scientist,85500.0,Machine learning
+135,Senior Data Scientist,85500.0,Software development
+135,Senior Data Scientist,85500.0,Data science
+135,Senior Data Scientist,85500.0,Python
+136,Data Scientist,69000.0,Java
+136,Data Scientist,69000.0,SQL
+136,Data Scientist,69000.0,Maths
+136,Data Scientist,69000.0,Machine learning
+136,Data Scientist,69000.0,AI
+137,Data Scientist,67500.0,Software deployment
+137,Data Scientist,67500.0,AWS
+137,Data Scientist,67500.0,Maths
+137,Data Scientist,67500.0,Docker
+137,Data Scientist,67500.0,Machine learning
+138,Experienced Data Scientist/ Software Developer,43500.0,SAS
+138,Experienced Data Scientist/ Software Developer,43500.0,R
+138,Experienced Data Scientist/ Software Developer,43500.0,SQL
+138,Experienced Data Scientist/ Software Developer,43500.0,C++
+138,Experienced Data Scientist/ Software Developer,43500.0,JavaScript
+139,Lead AI / ML / Data Science Engineer - UK,52500.0,TensorFlow
+139,Lead AI / ML / Data Science Engineer - UK,52500.0,Azure
+139,Lead AI / ML / Data Science Engineer - UK,52500.0,C#
+139,Lead AI / ML / Data Science Engineer - UK,52500.0,SQL
+139,Lead AI / ML / Data Science Engineer - UK,52500.0,UX
+140,Desk Data Scientist (Crude),77000.0,Statistical software
+140,Desk Data Scientist (Crude),77000.0,Big data
+140,Desk Data Scientist (Crude),77000.0,Data analysis skills
+140,Desk Data Scientist (Crude),77000.0,Statistical analysis
+140,Desk Data Scientist (Crude),77000.0,Machine learning
+141,Data Scientist,74000.0,Data modelling
+141,Data Scientist,74000.0,SAS
+141,Data Scientist,74000.0,Analysis skills
+141,Data Scientist,74000.0,Maths
+141,Data Scientist,74000.0,Machine learning
+142,Energy Data Scientist,80000.0,Power BI
+142,Energy Data Scientist,80000.0,Data modelling
+142,Energy Data Scientist,80000.0,Data mining
+142,Energy Data Scientist,80000.0,Microsoft SQL Server
+142,Energy Data Scientist,80000.0,SQL
+143,Senior Data Scientist,60000.0,OOP
+143,Senior Data Scientist,60000.0,C++
+143,Senior Data Scientist,60000.0,C
+143,Senior Data Scientist,60000.0,Usability
+143,Senior Data Scientist,60000.0,REST
+144,Counter Fraud Data Scientist,60000.0,Software development
+145,SENIOR DATA SCIENTIST,62000.0,Data modelling
+145,SENIOR DATA SCIENTIST,62000.0,SAS
+145,SENIOR DATA SCIENTIST,62000.0,Big data
+145,SENIOR DATA SCIENTIST,62000.0,R
+145,SENIOR DATA SCIENTIST,62000.0,NoSQL
+146,Data Analyst Scientist - Diamond Light Source and Fragment-Screen,55000.0,Azure
+146,Data Analyst Scientist - Diamond Light Source and Fragment-Screen,55000.0,R
+146,Data Analyst Scientist - Diamond Light Source and Fragment-Screen,55000.0,Data analysis skills
+146,Data Analyst Scientist - Diamond Light Source and Fragment-Screen,55000.0,Git
+146,Data Analyst Scientist - Diamond Light Source and Fragment-Screen,55000.0,Google Cloud Platform
+147,Senior Data Scientist,63000.0,TensorFlow
+147,Senior Data Scientist,63000.0,Azure
+147,Senior Data Scientist,63000.0,Kubernetes
+147,Senior Data Scientist,63000.0,Google Cloud Platform
+147,Senior Data Scientist,63000.0,AWS
+148,Data Scientist - Gloucester - National Security,85500.0,MATLAB
+148,Data Scientist - Gloucester - National Security,85500.0,Data mining
+148,Data Scientist - Gloucester - National Security,85500.0,SAS
+148,Data Scientist - Gloucester - National Security,85500.0,R
+148,Data Scientist - Gloucester - National Security,85500.0,Apache Hive
+149,Data & AI Specialist,67500.0,Power BI
+149,Data & AI Specialist,67500.0,Microsoft Excel
+149,Data & AI Specialist,67500.0,Data analysis skills
+149,Data & AI Specialist,67500.0,Analysis skills
+149,Data & AI Specialist,67500.0,Project management
+150,Data Scientist,58500.0,Machine learning
+150,Data Scientist,58500.0,REST
+150,Data Scientist,58500.0,Natural language processing
+150,Data Scientist,58500.0,APIs
+150,Data Scientist,58500.0,Communication skills
+151,DATA SCIENCE CONSULTANT LONDON,71000.0,TensorFlow
+151,DATA SCIENCE CONSULTANT LONDON,71000.0,Azure
+151,DATA SCIENCE CONSULTANT LONDON,71000.0,Git
+151,DATA SCIENCE CONSULTANT LONDON,71000.0,SQL
+151,DATA SCIENCE CONSULTANT LONDON,71000.0,Analysis skills
+152,Data Scientist,49000.0,Data analysis skills
+152,Data Scientist,49000.0,Git
+152,Data Scientist,49000.0,SQL
+152,Data Scientist,49000.0,Database design
+152,Data Scientist,49000.0,AWS
+153,Data Scientist,38500.0,Spark
+153,Data Scientist,38500.0,English
+153,Data Scientist,38500.0,SQL
+153,Data Scientist,38500.0,Machine learning
+153,Data Scientist,38500.0,Software development
+154,"Data Scientist, Consumer Lines- Insurance",55000.0,Power BI
+154,"Data Scientist, Consumer Lines- Insurance",55000.0,R
+154,"Data Scientist, Consumer Lines- Insurance",55000.0,Data analysis skills
+154,"Data Scientist, Consumer Lines- Insurance",55000.0,Tableau
+154,"Data Scientist, Consumer Lines- Insurance",55000.0,SQL
+155,Senior Data Scientist (UAE),50000.0,English
+155,Senior Data Scientist (UAE),50000.0,SQL
+155,Senior Data Scientist (UAE),50000.0,Machine learning
+155,Senior Data Scientist (UAE),50000.0,Python
+156,Machine Learning Scientist II,77500.0,Underwriting
+156,Machine Learning Scientist II,77500.0,R
+156,Machine Learning Scientist II,77500.0,Microsoft Office
+156,Machine Learning Scientist II,77500.0,OOP
+156,Machine Learning Scientist II,77500.0,Docker
+157,Lead Data Analyst,97000.0,Azure
+157,Lead Data Analyst,97000.0,Management
+157,Lead Data Analyst,97000.0,R
+157,Lead Data Analyst,97000.0,Microsoft SQL Server
+157,Lead Data Analyst,97000.0,NoSQL
+158,Data Science Content Developer,49000.0,Data modelling
+158,Data Science Content Developer,49000.0,SQL
+158,Data Science Content Developer,49000.0,OOP
+158,Data Science Content Developer,49000.0,Product management
+158,Data Science Content Developer,49000.0,Data warehouse
+159,Data Scientist,34500.0,Cloud computing
+159,Data Scientist,34500.0,Python
+160,Principal Public Health Data Scientist,137000.0,TensorFlow
+160,Principal Public Health Data Scientist,137000.0,Software deployment
+160,Principal Public Health Data Scientist,137000.0,OOP
+160,Principal Public Health Data Scientist,137000.0,Maths
+160,Principal Public Health Data Scientist,137000.0,Machine learning
+161,"Data Engineer, Analytics",59000.0,Power BI
+161,"Data Engineer, Analytics",59000.0,Microsoft Excel
+161,"Data Engineer, Analytics",59000.0,English
+161,"Data Engineer, Analytics",59000.0,Bloomberg
+161,"Data Engineer, Analytics",59000.0,Tableau
+162,Data Scientist/Senior Data Scientist - Generative AI,73500.0,SAS
+162,Data Scientist/Senior Data Scientist - Generative AI,73500.0,Software deployment
+162,Data Scientist/Senior Data Scientist - Generative AI,73500.0,Spark
+162,Data Scientist/Senior Data Scientist - Generative AI,73500.0,R
+162,Data Scientist/Senior Data Scientist - Generative AI,73500.0,SQL
+163,BloombergNEF Quant Modeling Data Scientist,104500.0,Data mining
+163,BloombergNEF Quant Modeling Data Scientist,104500.0,Business intelligence
+163,BloombergNEF Quant Modeling Data Scientist,104500.0,MongoDB
+163,BloombergNEF Quant Modeling Data Scientist,104500.0,Tableau
+163,BloombergNEF Quant Modeling Data Scientist,104500.0,AWS
+164,AI Scientist - Machine Learning,102000.0,Azure
+164,AI Scientist - Machine Learning,102000.0,Spark
+164,AI Scientist - Machine Learning,102000.0,Google Cloud Platform
+164,AI Scientist - Machine Learning,102000.0,Statistical analysis
+164,AI Scientist - Machine Learning,102000.0,AWS
+165,Senior Data Scientist - Ad Intelligence,61500.0,Statistics
+165,Senior Data Scientist - Ad Intelligence,61500.0,Tableau
+165,Senior Data Scientist - Ad Intelligence,61500.0,Scripting
+165,Senior Data Scientist - Ad Intelligence,61500.0,Python
+166,Senior Data Scientist,32500.0,TensorFlow
+166,Senior Data Scientist,32500.0,Cloud infrastructure
+166,Senior Data Scientist,32500.0,Google Cloud Platform
+166,Senior Data Scientist,32500.0,AWS
+166,Senior Data Scientist,32500.0,Analysis skills
+167,Principal Data Scientist,34000.0,Azure
+167,Principal Data Scientist,34000.0,Business intelligence
+167,Principal Data Scientist,34000.0,Big data
+167,Principal Data Scientist,34000.0,Spark
+167,Principal Data Scientist,34000.0,Google Cloud Platform
+168,Senior Data Scientist,67000.0,Machine learning
+168,Senior Data Scientist,67000.0,Deep learning
+168,Senior Data Scientist,67000.0,AI
+168,Senior Data Scientist,67000.0,Leadership
+169,Data Scientist,73000.0,Big data
+169,Data Scientist,73000.0,Google Cloud Platform
+169,Data Scientist,73000.0,SQL
+169,Data Scientist,73000.0,Linux
+169,Data Scientist,73000.0,Data science
+170,"Director, Applied Data Science",67000.0,MATLAB
+170,"Director, Applied Data Science",67000.0,R
+170,"Director, Applied Data Science",67000.0,Cloud computing
+170,"Director, Applied Data Science",67000.0,Data science
+170,"Director, Applied Data Science",67000.0,Python
+171,"Data Intelligence Partner - AI, ML and Analytics",30000.0,LabView
+171,"Data Intelligence Partner - AI, ML and Analytics",30000.0,MATLAB
+171,"Data Intelligence Partner - AI, ML and Analytics",30000.0,React
+171,"Data Intelligence Partner - AI, ML and Analytics",30000.0,Visual Studio
+171,"Data Intelligence Partner - AI, ML and Analytics",30000.0,Git
+172,Senior Data Scientist,92500.0,Microsoft SQL Server
+172,Senior Data Scientist,92500.0,Bloomberg
+172,Senior Data Scientist,92500.0,SQL
+172,Senior Data Scientist,92500.0,Maths
+172,Senior Data Scientist,92500.0,PostgreSQL
+173,Data Scientist - Bayesian,76000.0,TensorFlow
+173,Data Scientist - Bayesian,76000.0,Statistics
+173,Data Scientist - Bayesian,76000.0,Spark
+173,Data Scientist - Bayesian,76000.0,Machine learning
+173,Data Scientist - Bayesian,76000.0,Scala
+174,Data Scientist - Sonar Systems,110500.0,Power BI
+174,Data Scientist - Sonar Systems,110500.0,Azure
+174,Data Scientist - Sonar Systems,110500.0,Business intelligence
+174,Data Scientist - Sonar Systems,110500.0,Big data
+174,Data Scientist - Sonar Systems,110500.0,Data analysis skills
+175,Data Production Engineer,61000.0,Data modelling
+175,Data Production Engineer,61000.0,SAS
+175,Data Production Engineer,61000.0,Big data
+175,Data Production Engineer,61000.0,R
+175,Data Production Engineer,61000.0,NoSQL
+176,Machine Learning Scientist III (Meta bidding),63500.0,TensorFlow
+176,Machine Learning Scientist III (Meta bidding),63500.0,MATLAB
+176,Machine Learning Scientist III (Meta bidding),63500.0,Machine learning
+176,Machine Learning Scientist III (Meta bidding),63500.0,Data science
+176,Machine Learning Scientist III (Meta bidding),63500.0,Python
+177,Big Data Analyst,70500.0,Machine learning
+177,Big Data Analyst,70500.0,Data science
+177,Big Data Analyst,70500.0,Python
+178,Data Scientist – Gloucester – National Security,85000.0,Power BI
+178,Data Scientist – Gloucester – National Security,85000.0,Azure
+178,Data Scientist – Gloucester – National Security,85000.0,Data mining
+178,Data Scientist – Gloucester – National Security,85000.0,Management
+178,Data Scientist – Gloucester – National Security,85000.0,Spark
+179,Data Scientist (DV Security Clearance),69500.0,Data modelling
+179,Data Scientist (DV Security Clearance),69500.0,Azure
+179,Data Scientist (DV Security Clearance),69500.0,Maths
+179,Data Scientist (DV Security Clearance),69500.0,Presentation skills
+179,Data Scientist (DV Security Clearance),69500.0,Data science
+180,Data Science Consultant,54500.0,Kubernetes
+180,Data Science Consultant,54500.0,Relational databases
+180,Data Science Consultant,54500.0,SQL
+180,Data Science Consultant,54500.0,AWS
+180,Data Science Consultant,54500.0,Maths
+181,Lead Data and AI Scientist,56000.0,SQL
+181,Lead Data and AI Scientist,56000.0,Data science
+181,Lead Data and AI Scientist,56000.0,Communication skills
+181,Lead Data and AI Scientist,56000.0,Python
+182,Senior Data Scientist,94500.0,Microsoft Excel
+182,Senior Data Scientist,94500.0,R
+182,Senior Data Scientist,94500.0,Communication skills
+182,Senior Data Scientist,94500.0,Python
+183,Senior Data Scientist – NLP & MLOps,40500.0,French
+183,Senior Data Scientist – NLP & MLOps,40500.0,Go
+183,Senior Data Scientist – NLP & MLOps,40500.0,NoSQL
+183,Senior Data Scientist – NLP & MLOps,40500.0,MongoDB
+183,Senior Data Scientist – NLP & MLOps,40500.0,SQL
+184,"Senior Data Scientist, CRM",48000.0,SQL
+184,"Senior Data Scientist, CRM",48000.0,Driving
+184,"Senior Data Scientist, CRM",48000.0,Python
+185,Health and Safety Data Analyst,74500.0,TensorFlow
+185,Health and Safety Data Analyst,74500.0,Spark
+185,Health and Safety Data Analyst,74500.0,SQL
+185,Health and Safety Data Analyst,74500.0,Maths
+185,Health and Safety Data Analyst,74500.0,Machine learning
+186,Data Scientist,83000.0,TensorFlow
+186,Data Scientist,83000.0,Azure
+186,Data Scientist,83000.0,Internet of things
+186,Data Scientist,83000.0,Git
+186,Data Scientist,83000.0,English
+187,Data Scientist,60000.0,Statistical analysis
+187,Data Scientist,60000.0,Machine learning
+187,Data Scientist,60000.0,JavaScript
+187,Data Scientist,60000.0,Natural language processing
+187,Data Scientist,60000.0,Data visualisation
+188,Claims Data Scientist,52500.0,Azure
+188,Claims Data Scientist,52500.0,Data mining
+188,Claims Data Scientist,52500.0,Data analysis skills
+188,Claims Data Scientist,52500.0,OOP
+188,Claims Data Scientist,52500.0,AWS
+189,Machine Learning Engineer,125000.0,Java
+189,Machine Learning Engineer,125000.0,C
+189,Machine Learning Engineer,125000.0,Scala
+189,Machine Learning Engineer,125000.0,Python
+190,Senior Data Scientist,60500.0,Data modelling
+190,Senior Data Scientist,60500.0,Business intelligence
+190,Senior Data Scientist,60500.0,C#
+190,Senior Data Scientist,60500.0,SQL
+190,Senior Data Scientist,60500.0,C++
+191,Data Scientist - Healthcare & Life Sciences,52000.0,Haskell
+191,Data Scientist - Healthcare & Life Sciences,52000.0,Kubernetes
+191,Data Scientist - Healthcare & Life Sciences,52000.0,Git
+191,Data Scientist - Healthcare & Life Sciences,52000.0,English
+191,Data Scientist - Healthcare & Life Sciences,52000.0,Java
+192,Partner Solutions Architect (Data and AI),37000.0,Statistics
+192,Partner Solutions Architect (Data and AI),37000.0,Microsoft Excel
+192,Partner Solutions Architect (Data and AI),37000.0,Big data
+192,Partner Solutions Architect (Data and AI),37000.0,Spark
+192,Partner Solutions Architect (Data and AI),37000.0,R
+193,"Data Engineer, Product Analytics",67000.0,Data science
+193,"Data Engineer, Product Analytics",67000.0,Teaching
+194,Software Tester (AI Risk). Hours Negotiable,29500.0,English
+194,Software Tester (AI Risk). Hours Negotiable,29500.0,Biochemistry
+194,Software Tester (AI Risk). Hours Negotiable,29500.0,Deep learning
+194,Software Tester (AI Risk). Hours Negotiable,29500.0,Communication skills
+194,Software Tester (AI Risk). Hours Negotiable,29500.0,Python
+195,SENIOR DATA SCIENTIST,50000.0,French
+195,SENIOR DATA SCIENTIST,50000.0,Ukrainian
+195,SENIOR DATA SCIENTIST,50000.0,Data analysis skills
+195,SENIOR DATA SCIENTIST,50000.0,English
+195,SENIOR DATA SCIENTIST,50000.0,Fortran
+196,Project Engineer - Data Science,59000.0,Machine learning
+196,Project Engineer - Data Science,59000.0,Mentoring
+196,Project Engineer - Data Science,59000.0,Natural language processing
+196,Project Engineer - Data Science,59000.0,IT
+196,Project Engineer - Data Science,59000.0,Data science
+197,Research Associate in Spatial Data Science,61000.0,MATLAB
+197,Research Associate in Spatial Data Science,61000.0,R
+197,Research Associate in Spatial Data Science,61000.0,Maths
+197,Research Associate in Spatial Data Science,61000.0,Machine learning
+197,Research Associate in Spatial Data Science,61000.0,Data science
+198,"Applied Research Scientist, Deep Learning for RNA Structure Prediction",77000.0,SQL
+198,"Applied Research Scientist, Deep Learning for RNA Structure Prediction",77000.0,AWS
+198,"Applied Research Scientist, Deep Learning for RNA Structure Prediction",77000.0,Docker
+198,"Applied Research Scientist, Deep Learning for RNA Structure Prediction",77000.0,Machine learning
+198,"Applied Research Scientist, Deep Learning for RNA Structure Prediction",77000.0,Data science
+199,Scientist on EarthCARE Radar/Lidar Data Assimilation,40000.0,Azure
+199,Scientist on EarthCARE Radar/Lidar Data Assimilation,40000.0,Java
+199,Scientist on EarthCARE Radar/Lidar Data Assimilation,40000.0,Natural language processing
+199,Scientist on EarthCARE Radar/Lidar Data Assimilation,40000.0,Root cause analysis
+199,Scientist on EarthCARE Radar/Lidar Data Assimilation,40000.0,Python
+200,Lead Data Scientist,83000.0,Data analysis skills
+200,Lead Data Scientist,83000.0,SQL
+200,Lead Data Scientist,83000.0,Machine learning
+200,Lead Data Scientist,83000.0,Data science
+200,Lead Data Scientist,83000.0,Communication skills
+201,Research Engineer – Digital Technologies (Data Scientist),69500.0,Cloud infrastructure
+201,Research Engineer – Digital Technologies (Data Scientist),69500.0,Azure
+201,Research Engineer – Digital Technologies (Data Scientist),69500.0,Kubernetes
+201,Research Engineer – Digital Technologies (Data Scientist),69500.0,Spark
+201,Research Engineer – Digital Technologies (Data Scientist),69500.0,Git
+202,Senior Data Scientist,67000.0,D3.js
+202,Senior Data Scientist,67000.0,Google Cloud Platform
+202,Senior Data Scientist,67000.0,SQL
+202,Senior Data Scientist,67000.0,Statistical analysis
+202,Senior Data Scientist,67000.0,AWS
+203,AI/ML Engineer,43500.0,TensorFlow
+203,AI/ML Engineer,43500.0,Google Cloud Platform
+203,AI/ML Engineer,43500.0,AWS
+203,AI/ML Engineer,43500.0,Machine learning
+203,AI/ML Engineer,43500.0,Scala
+204,Data Scientist - 12 Month Maternity Cover,55000.0,Statistics
+204,Data Scientist - 12 Month Maternity Cover,55000.0,Go
+204,Data Scientist - 12 Month Maternity Cover,55000.0,Bootstrap
+204,Data Scientist - 12 Month Maternity Cover,55000.0,Google Cloud Platform
+204,Data Scientist - 12 Month Maternity Cover,55000.0,SQL
+205,Senior Data Scientist,43500.0,SAS
+205,Senior Data Scientist,43500.0,Data structures
+205,Senior Data Scientist,43500.0,R
+205,Senior Data Scientist,43500.0,Communication skills
+205,Senior Data Scientist,43500.0,Python
+206,Lead Data Scientist - 12 Month FTC,57500.0,Sales
+206,Lead Data Scientist - 12 Month FTC,57500.0,Supply chain
+206,Lead Data Scientist - 12 Month FTC,57500.0,Machine learning
+206,Lead Data Scientist - 12 Month FTC,57500.0,Data science
+206,Lead Data Scientist - 12 Month FTC,57500.0,Communication skills
+207,Machine Learning Engineer II,42000.0,TensorFlow
+207,Machine Learning Engineer II,42000.0,Azure
+207,Machine Learning Engineer II,42000.0,Spark
+207,Machine Learning Engineer II,42000.0,Google Cloud Platform
+207,Machine Learning Engineer II,42000.0,SQL
+208,Associate Statistical Programmer,113000.0,R
+208,Associate Statistical Programmer,113000.0,Computer skills
+208,Associate Statistical Programmer,113000.0,Data science
+208,Associate Statistical Programmer,113000.0,Communication skills
+209,Senior Applied Data Scientist - Causal AI,61000.0,TensorFlow
+209,Senior Applied Data Scientist - Causal AI,61000.0,Multilingual
+209,Senior Applied Data Scientist - Causal AI,61000.0,Machine learning
+209,Senior Applied Data Scientist - Causal AI,61000.0,Deep learning
+209,Senior Applied Data Scientist - Causal AI,61000.0,Natural language processing
+210,Lead Data Scientist,83000.0,Project management
+210,Lead Data Scientist,83000.0,AI
+210,Lead Data Scientist,83000.0,Communication skills
+211,Lead Data Scientist,39500.0,Power BI
+211,Lead Data Scientist,39500.0,Azure
+211,Lead Data Scientist,39500.0,Kubernetes
+211,Lead Data Scientist,39500.0,Big data
+211,Lead Data Scientist,39500.0,Git
+212,Senior Data Scientist,58000.0,NoSQL
+212,Senior Data Scientist,58000.0,Machine learning
+212,Senior Data Scientist,58000.0,Natural language processing
+212,Senior Data Scientist,58000.0,Communication skills
+212,Senior Data Scientist,58000.0,Python
+213,NLP Speech Research Intern,63000.0,R
+213,NLP Speech Research Intern,63000.0,SQL
+213,NLP Speech Research Intern,63000.0,Statistical analysis
+213,NLP Speech Research Intern,63000.0,Maths
+213,NLP Speech Research Intern,63000.0,Deep learning
+214,Technical Trainer – AI & Data,44500.0,Data analysis skills
+214,Technical Trainer – AI & Data,44500.0,AWS
+214,Technical Trainer – AI & Data,44500.0,Machine learning
+214,Technical Trainer – AI & Data,44500.0,Data science
+214,Technical Trainer – AI & Data,44500.0,Python
+215,Artificial Intelligence / Machine Learning Specialist,90000.0,TensorFlow
+215,Artificial Intelligence / Machine Learning Specialist,90000.0,MATLAB
+215,Artificial Intelligence / Machine Learning Specialist,90000.0,Azure
+215,Artificial Intelligence / Machine Learning Specialist,90000.0,SAS
+215,Artificial Intelligence / Machine Learning Specialist,90000.0,R
+216,"AI/ML - Data Engineer (NLP/Speech), Siri and Information Intelligence",65000.0,TensorFlow
+216,"AI/ML - Data Engineer (NLP/Speech), Siri and Information Intelligence",65000.0,Git
+216,"AI/ML - Data Engineer (NLP/Speech), Siri and Information Intelligence",65000.0,C++
+216,"AI/ML - Data Engineer (NLP/Speech), Siri and Information Intelligence",65000.0,C
+216,"AI/ML - Data Engineer (NLP/Speech), Siri and Information Intelligence",65000.0,Machine learning
+217,"Data Scientist, Generative AI, Google Cloud",67000.0,Go
+217,"Data Scientist, Generative AI, Google Cloud",67000.0,Microservices
+217,"Data Scientist, Generative AI, Google Cloud",67000.0,SQL
+217,"Data Scientist, Generative AI, Google Cloud",67000.0,Machine learning
+217,"Data Scientist, Generative AI, Google Cloud",67000.0,Deep learning
+218,Machine Learning Operations Associate,90000.0,Kubernetes
+218,Machine Learning Operations Associate,90000.0,Software deployment
+218,Machine Learning Operations Associate,90000.0,Data analysis skills
+218,Machine Learning Operations Associate,90000.0,Google Cloud Platform
+218,Machine Learning Operations Associate,90000.0,OOP
+219,Data Scientist,87500.0,Supervising experience
+219,Data Scientist,87500.0,Machine learning
+219,Data Scientist,87500.0,Data science
+220,Intern – Machine Learning (Speech) - Immediate Start,138000.0,SAS
+220,Intern – Machine Learning (Speech) - Immediate Start,138000.0,R
+220,Intern – Machine Learning (Speech) - Immediate Start,138000.0,SQL
+220,Intern – Machine Learning (Speech) - Immediate Start,138000.0,C++
+220,Intern – Machine Learning (Speech) - Immediate Start,138000.0,JavaScript
+221,Lead Machine Learning Scientist,58500.0,Laboratory experience
+221,Lead Machine Learning Scientist,58500.0,Machine learning
+221,Lead Machine Learning Scientist,58500.0,Biochemistry
+221,Lead Machine Learning Scientist,58500.0,Deep learning
+221,Lead Machine Learning Scientist,58500.0,Software development
+222,Data Scientist,47000.0,Power BI
+222,Data Scientist,47000.0,R
+222,Data Scientist,47000.0,Tableau
+222,Data Scientist,47000.0,SQL
+222,Data Scientist,47000.0,Analysis skills
+223,Lecturer in Health Data Science,63500.0,Power BI
+223,Lecturer in Health Data Science,63500.0,Supply chain
+223,Lecturer in Health Data Science,63500.0,Google Cloud Platform
+223,Lecturer in Health Data Science,63500.0,SQL
+223,Lecturer in Health Data Science,63500.0,Analysis skills
+224,Senior Data Scientist / Statistician,140000.0,TensorFlow
+224,Senior Data Scientist / Statistician,140000.0,Cloud architecture
+224,Senior Data Scientist / Statistician,140000.0,Cassandra
+224,Senior Data Scientist / Statistician,140000.0,Relational databases
+224,Senior Data Scientist / Statistician,140000.0,DevOps
+225,Applied Research Scientist,111000.0,Business analysis
+225,Applied Research Scientist,111000.0,SQL
+225,Applied Research Scientist,111000.0,Maths
+225,Applied Research Scientist,111000.0,Machine learning
+225,Applied Research Scientist,111000.0,Distributed systems
+226,Customer Insight Analyst,64000.0,Project management
+226,Customer Insight Analyst,64000.0,Machine learning
+227,Data Analyst - Supply Chain,43500.0,Statistics
+227,Data Analyst - Supply Chain,43500.0,Business processes
+227,Data Analyst - Supply Chain,43500.0,Machine learning
+227,Data Analyst - Supply Chain,43500.0,APIs
+227,Data Analyst - Supply Chain,43500.0,Regression analysis
+228,Senior Data Science Engineer,45500.0,TensorFlow
+228,Senior Data Science Engineer,45500.0,Machine learning
+228,Senior Data Science Engineer,45500.0,Software development
+228,Senior Data Science Engineer,45500.0,Communication skills
+228,Senior Data Science Engineer,45500.0,Python
+229,Senior Data Scientist,67500.0,Machine learning
+230,"Program Manager, Machine Learning Data Operations",50000.0,TensorFlow
+230,"Program Manager, Machine Learning Data Operations",50000.0,Power BI
+230,"Program Manager, Machine Learning Data Operations",50000.0,Data modelling
+230,"Program Manager, Machine Learning Data Operations",50000.0,Big data
+230,"Program Manager, Machine Learning Data Operations",50000.0,Supply chain
+231,Data Scientist (Marketing),150000.0,Power BI
+231,Data Scientist (Marketing),150000.0,Azure
+231,Data Scientist (Marketing),150000.0,R
+231,Data Scientist (Marketing),150000.0,Google Cloud Platform
+231,Data Scientist (Marketing),150000.0,Tableau
+232,Python Engineer for Machine Learning,60000.0,Machine learning
+232,Python Engineer for Machine Learning,60000.0,Mentoring
+232,Python Engineer for Machine Learning,60000.0,Natural language processing
+232,Python Engineer for Machine Learning,60000.0,IT
+232,Python Engineer for Machine Learning,60000.0,Data science
+233,Principal Data Scientist,73000.0,Power BI
+233,Principal Data Scientist,73000.0,Azure
+233,Principal Data Scientist,73000.0,Data mining
+233,Principal Data Scientist,73000.0,Supply chain
+233,Principal Data Scientist,73000.0,Spark
+234,Consultant - Analytics & Artificial Intelligence - Data Science,48000.0,Data analysis skills
+234,Consultant - Analytics & Artificial Intelligence - Data Science,48000.0,Analysis skills
+234,Consultant - Analytics & Artificial Intelligence - Data Science,48000.0,Market research
+234,Consultant - Analytics & Artificial Intelligence - Data Science,48000.0,Machine learning
+234,Consultant - Analytics & Artificial Intelligence - Data Science,48000.0,Organisational skills
+235,Lead Data Scientist,32500.0,Azure
+235,Lead Data Scientist,32500.0,Software deployment
+235,Lead Data Scientist,32500.0,SQL
+235,Lead Data Scientist,32500.0,AWS
+235,Lead Data Scientist,32500.0,Machine learning
+236,AI Scientist - Natural Language Processing,71500.0,Relational databases
+236,AI Scientist - Natural Language Processing,71500.0,Git
+236,AI Scientist - Natural Language Processing,71500.0,Google Cloud Platform
+236,AI Scientist - Natural Language Processing,71500.0,SQL
+236,AI Scientist - Natural Language Processing,71500.0,AWS
+237,Group Supply Chain Data Scientist,44000.0,Power BI
+237,Group Supply Chain Data Scientist,44000.0,R
+237,Group Supply Chain Data Scientist,44000.0,Data analysis skills
+237,Group Supply Chain Data Scientist,44000.0,SQL
+237,Group Supply Chain Data Scientist,44000.0,Machine learning
+238,"AI Data Service and Operations, Business Insights Analyst - T&S",107500.0,English
+238,"AI Data Service and Operations, Business Insights Analyst - T&S",107500.0,Machine learning
+238,"AI Data Service and Operations, Business Insights Analyst - T&S",107500.0,Mentoring
+238,"AI Data Service and Operations, Business Insights Analyst - T&S",107500.0,Communication skills
+238,"AI Data Service and Operations, Business Insights Analyst - T&S",107500.0,Teaching
+239,Senior Data Scientist,40500.0,TensorFlow
+239,Senior Data Scientist,40500.0,Management
+239,Senior Data Scientist,40500.0,Supervising experience
+239,Senior Data Scientist,40500.0,Machine learning
+239,Senior Data Scientist,40500.0,Deep learning
+240,"Partner, Data Science",67000.0,Underwriting
+240,"Partner, Data Science",67000.0,SAS
+240,"Partner, Data Science",67000.0,SQL
+240,"Partner, Data Science",67000.0,Python
+241,Senior Machine Learning Engineer,64500.0,Management
+241,Senior Machine Learning Engineer,64500.0,English
+241,Senior Machine Learning Engineer,64500.0,SQL
+241,Senior Machine Learning Engineer,64500.0,Presentation skills
+241,Senior Machine Learning Engineer,64500.0,Machine learning
+242,"Research Scientist, Machine Learning, London",58500.0,Project management
+242,"Research Scientist, Machine Learning, London",58500.0,Data visualisation
+242,"Research Scientist, Machine Learning, London",58500.0,Communication skills
+242,"Research Scientist, Machine Learning, London",58500.0,Marketing
+243,Rescue Pricing Data Scientist,83500.0,Elasticsearch
+243,Rescue Pricing Data Scientist,83500.0,Azure
+243,Rescue Pricing Data Scientist,83500.0,Google Cloud Platform
+243,Rescue Pricing Data Scientist,83500.0,Application development
+243,Rescue Pricing Data Scientist,83500.0,AWS
+244,Senior Data Scientist,52500.0,Data mining
+244,Senior Data Scientist,52500.0,Sales
+244,Senior Data Scientist,52500.0,R
+244,Senior Data Scientist,52500.0,PaaS
+244,Senior Data Scientist,52500.0,Machine learning
+245,Senior Data Scientist,64500.0,Azure
+245,Senior Data Scientist,64500.0,Data mining
+245,Senior Data Scientist,64500.0,R
+245,Senior Data Scientist,64500.0,Google Cloud Platform
+245,Senior Data Scientist,64500.0,MongoDB
+246,"Senior Consultant, Consultant, AI & Data, ConvergeCONSUMER Role, SAMA",58000.0,TensorFlow
+246,"Senior Consultant, Consultant, AI & Data, ConvergeCONSUMER Role, SAMA",58000.0,Machine learning
+246,"Senior Consultant, Consultant, AI & Data, ConvergeCONSUMER Role, SAMA",58000.0,Deep learning
+246,"Senior Consultant, Consultant, AI & Data, ConvergeCONSUMER Role, SAMA",58000.0,Computer networking
+246,"Senior Consultant, Consultant, AI & Data, ConvergeCONSUMER Role, SAMA",58000.0,AI
+247,Lead AI & Data Scientist,47500.0,Cloud infrastructure
+247,Lead AI & Data Scientist,47500.0,Git
+247,Lead AI & Data Scientist,47500.0,English
+247,Lead AI & Data Scientist,47500.0,Analysis skills
+247,Lead AI & Data Scientist,47500.0,Docker
+248,Lead AI & Data Scientist,67500.0,TensorFlow
+248,Lead AI & Data Scientist,67500.0,Data mining
+248,Lead AI & Data Scientist,67500.0,Data structures
+248,Lead AI & Data Scientist,67500.0,Java
+248,Lead AI & Data Scientist,67500.0,C++
+249,Data Science & AI Manager,40000.0,Data mining
+249,Data Science & AI Manager,40000.0,Data structures
+249,Data Science & AI Manager,40000.0,Java
+249,Data Science & AI Manager,40000.0,AWS
+249,Data Science & AI Manager,40000.0,C++
+250,Machine Learning Consultant,66500.0,OOP
+250,Machine Learning Consultant,66500.0,Machine learning
+250,Machine Learning Consultant,66500.0,Communication skills
+250,Machine Learning Consultant,66500.0,Python
+251,"Applied Research Scientist, Molecular Simulation",78000.0,Business development
+251,"Applied Research Scientist, Molecular Simulation",78000.0,Data science
+252,"Applied Scientist , ADSP: Campaign & Creative",79000.0,Analysis skills
+252,"Applied Scientist , ADSP: Campaign & Creative",79000.0,Machine learning
+252,"Applied Scientist , ADSP: Campaign & Creative",79000.0,Google Search Console
+252,"Applied Scientist , ADSP: Campaign & Creative",79000.0,Communication skills
+252,"Applied Scientist , ADSP: Campaign & Creative",79000.0,Python
+253,"Applied Scientist, Personalization",55500.0,Kubernetes
+253,"Applied Scientist, Personalization",55500.0,Spark
+253,"Applied Scientist, Personalization",55500.0,AWS
+253,"Applied Scientist, Personalization",55500.0,Docker
+253,"Applied Scientist, Personalization",55500.0,Machine learning
+254,Machine Learning Engineer,46000.0,Analysis skills
+254,Machine Learning Engineer,46000.0,Project management
+254,Machine Learning Engineer,46000.0,Data management
+254,Machine Learning Engineer,46000.0,Product management
+254,Machine Learning Engineer,46000.0,Scrum
+255,Principal Consultant of Data & Analytics Strategy and Technology,73500.0,Analysis skills
+255,Principal Consultant of Data & Analytics Strategy and Technology,73500.0,Project management
+255,Principal Consultant of Data & Analytics Strategy and Technology,73500.0,Project management methodology
+255,Principal Consultant of Data & Analytics Strategy and Technology,73500.0,AI
+255,Principal Consultant of Data & Analytics Strategy and Technology,73500.0,Leadership
+256,AI Analyst,140000.0,TensorFlow
+256,AI Analyst,140000.0,Deep learning
+256,AI Analyst,140000.0,Natural language processing
+256,AI Analyst,140000.0,AI
+256,AI Analyst,140000.0,Debugging
+257,Data Science Engineer,33500.0,Data mining
+257,Data Science Engineer,33500.0,R
+257,Data Science Engineer,33500.0,Machine learning
+257,Data Science Engineer,33500.0,GitHub
+257,Data Science Engineer,33500.0,Agile
+258,Data Product Owner,69000.0,Power BI
+258,Data Product Owner,69000.0,Social media management
+258,Data Product Owner,69000.0,Data analysis skills
+258,Data Product Owner,69000.0,Tableau
+258,Data Product Owner,69000.0,Financial analysis
+259,Data & AI Platform Lead,63000.0,Power BI
+259,Data & AI Platform Lead,63000.0,Data mining
+259,Data & AI Platform Lead,63000.0,R
+259,Data & AI Platform Lead,63000.0,Alteryx
+259,Data & AI Platform Lead,63000.0,Tableau
+260,"Research Scientist, NLP, GenAI (PhD)",41500.0,Presentation skills
+260,"Research Scientist, NLP, GenAI (PhD)",41500.0,Data management
+260,"Research Scientist, NLP, GenAI (PhD)",41500.0,Product management
+260,"Research Scientist, NLP, GenAI (PhD)",41500.0,APIs
+260,"Research Scientist, NLP, GenAI (PhD)",41500.0,Data science
+261,Lead Data Scientist,69500.0,Elasticsearch
+261,Lead Data Scientist,69500.0,Cloud infrastructure
+261,Lead Data Scientist,69500.0,Azure
+261,Lead Data Scientist,69500.0,NoSQL
+261,Lead Data Scientist,69500.0,Google Cloud Platform
+262,"AI Data Service And Operations- Business Analyst, Trust and Safety",78500.0,SQL
+262,"AI Data Service And Operations- Business Analyst, Trust and Safety",78500.0,AWS
+262,"AI Data Service And Operations- Business Analyst, Trust and Safety",78500.0,Presentation skills
+262,"AI Data Service And Operations- Business Analyst, Trust and Safety",78500.0,Machine learning
+262,"AI Data Service And Operations- Business Analyst, Trust and Safety",78500.0,AI
+263,Digital Audit - Data Analytics - Senior Associate,39000.0,C#
+263,Digital Audit - Data Analytics - Senior Associate,39000.0,Microsoft SQL Server
+263,Digital Audit - Data Analytics - Senior Associate,39000.0,Java
+263,Digital Audit - Data Analytics - Senior Associate,39000.0,SQL
+263,Digital Audit - Data Analytics - Senior Associate,39000.0,C++
+264,Head of Data & Analytics,60000.0,Statistics
+264,Head of Data & Analytics,60000.0,Spark
+264,Head of Data & Analytics,60000.0,Data analysis skills
+264,Head of Data & Analytics,60000.0,Machine learning
+264,Head of Data & Analytics,60000.0,Natural language processing
+265,Lead Data Scientist,106000.0,TensorFlow
+265,Lead Data Scientist,106000.0,Azure
+265,Lead Data Scientist,106000.0,Kubernetes
+265,Lead Data Scientist,106000.0,English
+265,Lead Data Scientist,106000.0,Google Cloud Platform
+266,Senior Data Scientist / AI Engineer / ML Engineer,90000.0,R
+266,Senior Data Scientist / AI Engineer / ML Engineer,90000.0,Microsoft Office
+266,Senior Data Scientist / AI Engineer / ML Engineer,90000.0,SQL
+266,Senior Data Scientist / AI Engineer / ML Engineer,90000.0,Statistical analysis
+266,Senior Data Scientist / AI Engineer / ML Engineer,90000.0,Machine learning
+267,"Quantitative Data Scientist / London / New York / £150,000 + Benefits",75000.0,R
+267,"Quantitative Data Scientist / London / New York / £150,000 + Benefits",75000.0,SQL
+267,"Quantitative Data Scientist / London / New York / £150,000 + Benefits",75000.0,Statistical analysis
+267,"Quantitative Data Scientist / London / New York / £150,000 + Benefits",75000.0,Machine learning
+267,"Quantitative Data Scientist / London / New York / £150,000 + Benefits",75000.0,Natural language processing
+268,Data Scientist - Core Analytics,62000.0,Ukrainian
+268,Data Scientist - Core Analytics,62000.0,English
+268,Data Scientist - Core Analytics,62000.0,Communication skills
+269,Senior Machine Learning Engineer,59500.0,Data mining
+269,Senior Machine Learning Engineer,59500.0,D3.js
+269,Senior Machine Learning Engineer,59500.0,Software deployment
+269,Senior Machine Learning Engineer,59500.0,R
+269,Senior Machine Learning Engineer,59500.0,SQL
+270,Head of VitalityLife Data Science,58500.0,SAS
+270,Head of VitalityLife Data Science,58500.0,R
+271,"Staff Data Scientist Manager, Generative AI, Google Cloud",45000.0,SAS
+271,"Staff Data Scientist Manager, Generative AI, Google Cloud",45000.0,Software deployment
+271,"Staff Data Scientist Manager, Generative AI, Google Cloud",45000.0,Spark
+271,"Staff Data Scientist Manager, Generative AI, Google Cloud",45000.0,R
+271,"Staff Data Scientist Manager, Generative AI, Google Cloud",45000.0,SQL
+272,Scientist/Senior Scientist – Atmospheric physical processes in data assimilation,41500.0,TensorFlow
+272,Scientist/Senior Scientist – Atmospheric physical processes in data assimilation,41500.0,Git
+272,Scientist/Senior Scientist – Atmospheric physical processes in data assimilation,41500.0,Machine learning
+272,Scientist/Senior Scientist – Atmospheric physical processes in data assimilation,41500.0,Agile
+272,Scientist/Senior Scientist – Atmospheric physical processes in data assimilation,41500.0,AI
+273,Sr. Data Scientist - NLP/GenAI,79500.0,Azure
+273,Sr. Data Scientist - NLP/GenAI,79500.0,Data mining
+273,Sr. Data Scientist - NLP/GenAI,79500.0,D3.js
+273,Sr. Data Scientist - NLP/GenAI,79500.0,AWS
+273,Sr. Data Scientist - NLP/GenAI,79500.0,Presentation skills
+274,Principal Biostatistician,44000.0,Data structures
+274,Principal Biostatistician,44000.0,C++
+274,Principal Biostatistician,44000.0,C
+274,Principal Biostatistician,44000.0,Machine learning
+274,Principal Biostatistician,44000.0,Natural language processing
+275,Data Scientist,76500.0,R
+275,Data Scientist,76500.0,Statistical analysis
+275,Data Scientist,76500.0,Data science
+275,Data Scientist,76500.0,Python
+276,Senior Data Scientist,47500.0,TensorFlow
+276,Senior Data Scientist,47500.0,R
+276,Senior Data Scientist,47500.0,Git
+276,Senior Data Scientist,47500.0,Tableau
+276,Senior Data Scientist,47500.0,SQL
+277,Senior Data Scientist,52500.0,TensorFlow
+277,Senior Data Scientist,52500.0,Git
+277,Senior Data Scientist,52500.0,Google Cloud Platform
+277,Senior Data Scientist,52500.0,SQL
+277,Senior Data Scientist,52500.0,AWS
+278,Senior Data Scientist-Large Language Models,57000.0,Financial services
+278,Senior Data Scientist-Large Language Models,57000.0,Data science
+278,Senior Data Scientist-Large Language Models,57000.0,AI
+278,Senior Data Scientist-Large Language Models,57000.0,Communication skills
+279,Lecturer in Data Analytics,33500.0,Azure
+279,Lecturer in Data Analytics,33500.0,Kubernetes
+279,Lecturer in Data Analytics,33500.0,NoSQL
+279,Lecturer in Data Analytics,33500.0,English
+279,Lecturer in Data Analytics,33500.0,Google Cloud Platform
+280,"Associate Educator, Data Scientist",55000.0,SAS
+280,"Associate Educator, Data Scientist",55000.0,R
+280,"Associate Educator, Data Scientist",55000.0,Tableau
+280,"Associate Educator, Data Scientist",55000.0,SQL
+280,"Associate Educator, Data Scientist",55000.0,Product management
+281,Data Scientist (Fincrime),64500.0,Power BI
+281,Data Scientist (Fincrime),64500.0,Azure
+281,Data Scientist (Fincrime),64500.0,R
+281,Data Scientist (Fincrime),64500.0,NoSQL
+281,Data Scientist (Fincrime),64500.0,Google Cloud Platform
+282,Director of AI and Data Science,67000.0,Machine learning
+282,Director of AI and Data Science,67000.0,Natural language processing
+282,Director of AI and Data Science,67000.0,Data science
+282,Director of AI and Data Science,67000.0,Python
+283,Senior GenAI / Generative AI Engineer,90000.0,Big data
+283,Senior GenAI / Generative AI Engineer,90000.0,R
+283,Senior GenAI / Generative AI Engineer,90000.0,SQL
+283,Senior GenAI / Generative AI Engineer,90000.0,Python
+284,Senior Data Scientist - Mobile,131000.0,TensorFlow
+284,Senior Data Scientist - Mobile,131000.0,Software deployment
+284,Senior Data Scientist - Mobile,131000.0,Spark
+284,Senior Data Scientist - Mobile,131000.0,Machine learning
+284,Senior Data Scientist - Mobile,131000.0,Natural language processing
+285,Data and AI Engineer,90000.0,TensorFlow
+285,Data and AI Engineer,90000.0,Maths
+285,Data and AI Engineer,90000.0,Machine learning
+285,Data and AI Engineer,90000.0,Regression analysis
+285,Data and AI Engineer,90000.0,Predictive analytics
+286,DV Cleared Data Scientist,45000.0,Power BI
+286,DV Cleared Data Scientist,45000.0,R
+286,DV Cleared Data Scientist,45000.0,Tableau
+286,DV Cleared Data Scientist,45000.0,SQL
+286,DV Cleared Data Scientist,45000.0,Presentation skills
+287,Analytics Engineer III - Data Science,72500.0,Data mining
+287,Analytics Engineer III - Data Science,72500.0,Spark
+287,Analytics Engineer III - Data Science,72500.0,R
+287,Analytics Engineer III - Data Science,72500.0,Data analysis skills
+287,Analytics Engineer III - Data Science,72500.0,NoSQL
+288,Applied AI Associate - Markets Operations,63500.0,MATLAB
+288,Applied AI Associate - Markets Operations,63500.0,R
+288,Applied AI Associate - Markets Operations,63500.0,Java
+288,Applied AI Associate - Markets Operations,63500.0,C++
+288,Applied AI Associate - Markets Operations,63500.0,Perl
+289,Senior Data Scientist,85000.0,Presentation skills
+289,Senior Data Scientist,85000.0,Data management
+289,Senior Data Scientist,85000.0,Product management
+289,Senior Data Scientist,85000.0,APIs
+289,Senior Data Scientist,85000.0,Data science
+290,LEAD DATA SCIENTIST,54500.0,TensorFlow
+290,LEAD DATA SCIENTIST,54500.0,Azure
+290,LEAD DATA SCIENTIST,54500.0,DevOps
+290,LEAD DATA SCIENTIST,54500.0,Spark
+290,LEAD DATA SCIENTIST,54500.0,Google Cloud Platform
+291,Senior Data Scientist,79000.0,Adobe Flash
+291,Senior Data Scientist,79000.0,Machine learning
+291,Senior Data Scientist,79000.0,Technical writing
+292,Research Associate - Bioinformatics/Data Science (Vassiliou Lab) (Fixed Term),56000.0,TensorFlow
+292,Research Associate - Bioinformatics/Data Science (Vassiliou Lab) (Fixed Term),56000.0,SQL
+292,Research Associate - Bioinformatics/Data Science (Vassiliou Lab) (Fixed Term),56000.0,Machine learning
+292,Research Associate - Bioinformatics/Data Science (Vassiliou Lab) (Fixed Term),56000.0,Data science
+292,Research Associate - Bioinformatics/Data Science (Vassiliou Lab) (Fixed Term),56000.0,Communication skills
+293,Head of Data & Analytics,55000.0,Qualitative analysis
+293,Head of Data & Analytics,55000.0,Taxonomy
+293,Head of Data & Analytics,55000.0,Data management
+293,Head of Data & Analytics,55000.0,Metadata
+293,Head of Data & Analytics,55000.0,Quantitative analysis
+294,Senior Data Scientist,70000.0,Power BI
+294,Senior Data Scientist,70000.0,R
+294,Senior Data Scientist,70000.0,Alteryx
+294,Senior Data Scientist,70000.0,Microsoft SQL Server
+294,Senior Data Scientist,70000.0,SQL
+295,Staff Machine Learning Scientist,63000.0,Azure
+295,Staff Machine Learning Scientist,63000.0,Spark
+295,Staff Machine Learning Scientist,63000.0,NoSQL
+295,Staff Machine Learning Scientist,63000.0,Google Cloud Platform
+295,Staff Machine Learning Scientist,63000.0,Java
+296,"Associate, Data Science Analyst – Global Oil Markets (Hybrid - 3/2 Work Schedule)",75000.0,Azure
+296,"Associate, Data Science Analyst – Global Oil Markets (Hybrid - 3/2 Work Schedule)",75000.0,Relational databases
+296,"Associate, Data Science Analyst – Global Oil Markets (Hybrid - 3/2 Work Schedule)",75000.0,Big data
+296,"Associate, Data Science Analyst – Global Oil Markets (Hybrid - 3/2 Work Schedule)",75000.0,NoSQL
+296,"Associate, Data Science Analyst – Global Oil Markets (Hybrid - 3/2 Work Schedule)",75000.0,Google Cloud Platform
+297,Senior Consultant - Data & AI Strategy - Data Management,50000.0,Signal processing
+297,Senior Consultant - Data & AI Strategy - Data Management,50000.0,English
+297,Senior Consultant - Data & AI Strategy - Data Management,50000.0,Software development
+297,Senior Consultant - Data & AI Strategy - Data Management,50000.0,Agile
+297,Senior Consultant - Data & AI Strategy - Data Management,50000.0,Communication skills
+298,Digital Audit Manager - Data Analytics,60000.0,TensorFlow
+298,Digital Audit Manager - Data Analytics,60000.0,Git
+298,Digital Audit Manager - Data Analytics,60000.0,Docker
+298,Digital Audit Manager - Data Analytics,60000.0,Machine learning
+298,Digital Audit Manager - Data Analytics,60000.0,Communication skills
+299,Consultant - Analytics & Artificial Intelligence - Data & AI Architect,42000.0,Data modelling
+299,Consultant - Analytics & Artificial Intelligence - Data & AI Architect,42000.0,IT
+299,Consultant - Analytics & Artificial Intelligence - Data & AI Architect,42000.0,Data science
+300,Senior Big Data Developer,54000.0,TensorFlow
+300,Senior Big Data Developer,54000.0,Machine learning
+300,Senior Big Data Developer,54000.0,Deep learning
+300,Senior Big Data Developer,54000.0,Software development
+300,Senior Big Data Developer,54000.0,APIs
+301,Electrical Power Systems Engineer (Data Science),77000.0,TensorFlow
+301,Electrical Power Systems Engineer (Data Science),77000.0,Statistics
+301,Electrical Power Systems Engineer (Data Science),77000.0,Azure
+301,Electrical Power Systems Engineer (Data Science),77000.0,Google Cloud Platform
+301,Electrical Power Systems Engineer (Data Science),77000.0,AWS
+302,"Software Engineer, Machine Learning",52500.0,Azure
+302,"Software Engineer, Machine Learning",52500.0,SQL
+302,"Software Engineer, Machine Learning",52500.0,Machine learning
+302,"Software Engineer, Machine Learning",52500.0,Data science
+302,"Software Engineer, Machine Learning",52500.0,Communication skills
+303,Data Science Architect,110000.0,Performance tuning
+303,Data Science Architect,110000.0,Analysis skills
+303,Data Science Architect,110000.0,Maths
+303,Data Science Architect,110000.0,Machine learning
+303,Data Science Architect,110000.0,Distributed systems
+304,"Research Scientist, Machine Learning and Computational Biology",44500.0,Product development
+304,"Research Scientist, Machine Learning and Computational Biology",44500.0,Machine learning
+304,"Research Scientist, Machine Learning and Computational Biology",44500.0,Natural language processing
+304,"Research Scientist, Machine Learning and Computational Biology",44500.0,Agile
+305,"Consultant - Senior Consultant, Data Science and Machine Learning, AI & Data, Defence & Security",94000.0,Data modelling
+305,"Consultant - Senior Consultant, Data Science and Machine Learning, AI & Data, Defence & Security",94000.0,Azure
+305,"Consultant - Senior Consultant, Data Science and Machine Learning, AI & Data, Defence & Security",94000.0,Big data
+305,"Consultant - Senior Consultant, Data Science and Machine Learning, AI & Data, Defence & Security",94000.0,Spark
+305,"Consultant - Senior Consultant, Data Science and Machine Learning, AI & Data, Defence & Security",94000.0,Google Cloud Platform
+306,Principal Data Scientist,85000.0,TensorFlow
+306,Principal Data Scientist,85000.0,MATLAB
+306,Principal Data Scientist,85000.0,Microsoft Excel
+306,Principal Data Scientist,85000.0,Visual Studio
+306,Principal Data Scientist,85000.0,Spark
+307,Machine Learning Scientist - Time Series Reinforcement Learning - Vice President - Machine Learning Center of Excellence,51500.0,Mandarin
+307,Machine Learning Scientist - Time Series Reinforcement Learning - Vice President - Machine Learning Center of Excellence,51500.0,Rust
+307,Machine Learning Scientist - Time Series Reinforcement Learning - Vice President - Machine Learning Center of Excellence,51500.0,C++
+307,Machine Learning Scientist - Time Series Reinforcement Learning - Vice President - Machine Learning Center of Excellence,51500.0,Distributed systems
+307,Machine Learning Scientist - Time Series Reinforcement Learning - Vice President - Machine Learning Center of Excellence,51500.0,Python
+308,"ML Engineer, Data & Machine Learning",65500.0,TensorFlow
+308,"ML Engineer, Data & Machine Learning",65500.0,Git
+308,"ML Engineer, Data & Machine Learning",65500.0,Docker
+308,"ML Engineer, Data & Machine Learning",65500.0,Machine learning
+308,"ML Engineer, Data & Machine Learning",65500.0,Communication skills
+309,Head of Data and Machine Learning Engineering,88000.0,Data mining
+309,Head of Data and Machine Learning Engineering,88000.0,Data structures
+309,Head of Data and Machine Learning Engineering,88000.0,Java
+309,Head of Data and Machine Learning Engineering,88000.0,C++
+309,Head of Data and Machine Learning Engineering,88000.0,Machine learning
+310,Senior learning Specialist - Data Science,41000.0,Statistics
+310,Senior learning Specialist - Data Science,41000.0,Project management
+310,Senior learning Specialist - Data Science,41000.0,Product management
+310,Senior learning Specialist - Data Science,41000.0,AI
+310,Senior learning Specialist - Data Science,41000.0,Communication skills
+311,Data science - mandarin speaking,55500.0,Power BI
+311,Data science - mandarin speaking,55500.0,Azure
+311,Data science - mandarin speaking,55500.0,Data mining
+311,Data science - mandarin speaking,55500.0,R
+311,Data science - mandarin speaking,55500.0,SQL
+312,Machine Learning Engineer - AI Discovery,65000.0,CRM software
+312,Machine Learning Engineer - AI Discovery,65000.0,Power BI
+312,Machine Learning Engineer - AI Discovery,65000.0,Social media management
+312,Machine Learning Engineer - AI Discovery,65000.0,R
+312,Machine Learning Engineer - AI Discovery,65000.0,Tableau
+313,"Applied Scientist, Contextual Ads",38500.0,Azure
+313,"Applied Scientist, Contextual Ads",38500.0,R
+313,"Applied Scientist, Contextual Ads",38500.0,Google Cloud Platform
+313,"Applied Scientist, Contextual Ads",38500.0,AWS
+313,"Applied Scientist, Contextual Ads",38500.0,APIs
+314,Faculty Fellowship - AI Product (October 2024),69500.0,Data modelling
+314,Faculty Fellowship - AI Product (October 2024),69500.0,R
+314,Faculty Fellowship - AI Product (October 2024),69500.0,Data analysis skills
+314,Faculty Fellowship - AI Product (October 2024),69500.0,Tableau
+314,Faculty Fellowship - AI Product (October 2024),69500.0,SQL
+315,Data Science Manager,37500.0,Power BI
+315,Data Science Manager,37500.0,Microsoft Excel
+315,Data Science Manager,37500.0,Procurement
+315,Data Science Manager,37500.0,Supply chain
+315,Data Science Manager,37500.0,Data analysis skills
+316,Data & Analytics Lead,104500.0,SQL
+316,Data & Analytics Lead,104500.0,Team management
+316,Data & Analytics Lead,104500.0,Driving
+316,Data & Analytics Lead,104500.0,IT
+316,Data & Analytics Lead,104500.0,Data science
+317,Senior/Lead Health Data Scientist (Statistical Genetics...,69500.0,Machine learning
+317,Senior/Lead Health Data Scientist (Statistical Genetics...,69500.0,Teaching
+318,Data Analytics Manager,138000.0,TensorFlow
+318,Data Analytics Manager,138000.0,SQL
+318,Data Analytics Manager,138000.0,Machine learning
+318,Data Analytics Manager,138000.0,Data science
+318,Data Analytics Manager,138000.0,Communication skills
+319,Associate Analytics & Reporting Specialist,90000.0,Power BI
+319,Associate Analytics & Reporting Specialist,90000.0,R
+319,Associate Analytics & Reporting Specialist,90000.0,Tableau
+319,Associate Analytics & Reporting Specialist,90000.0,SQL
+319,Associate Analytics & Reporting Specialist,90000.0,Presentation skills
+320,Principal Data Scientist - Claims,73000.0,Power BI
+320,Principal Data Scientist - Claims,73000.0,Microsoft Excel
+320,Principal Data Scientist - Claims,73000.0,Business intelligence
+320,Principal Data Scientist - Claims,73000.0,Procurement
+320,Principal Data Scientist - Claims,73000.0,Alteryx
+321,Lecturer in Computer Science (AI/Machine Learning/Data Science),70000.0,TensorFlow
+321,Lecturer in Computer Science (AI/Machine Learning/Data Science),70000.0,Data mining
+321,Lecturer in Computer Science (AI/Machine Learning/Data Science),70000.0,Big data
+321,Lecturer in Computer Science (AI/Machine Learning/Data Science),70000.0,Spark
+321,Lecturer in Computer Science (AI/Machine Learning/Data Science),70000.0,R
+322,"Associate, Data Science Analyst - EU Energy Markets (Hybrid - 3/2 Work Schedule)",43000.0,Data analysis skills
+322,"Associate, Data Science Analyst - EU Energy Markets (Hybrid - 3/2 Work Schedule)",43000.0,Laboratory information management systems
+322,"Associate, Data Science Analyst - EU Energy Markets (Hybrid - 3/2 Work Schedule)",43000.0,English
+322,"Associate, Data Science Analyst - EU Energy Markets (Hybrid - 3/2 Work Schedule)",43000.0,Project management
+322,"Associate, Data Science Analyst - EU Energy Markets (Hybrid - 3/2 Work Schedule)",43000.0,Data management
+323,Lead Data Scientist,69500.0,SAS
+323,Lead Data Scientist,69500.0,R
+324,Analytics & Reporting Specialist,46000.0,Big data
+324,Analytics & Reporting Specialist,46000.0,Statistical analysis
+324,Analytics & Reporting Specialist,46000.0,Machine learning
+324,Analytics & Reporting Specialist,46000.0,Systems engineering
+324,Analytics & Reporting Specialist,46000.0,Python
+325,Sr. Data Scientist,65500.0,TensorFlow
+325,Sr. Data Scientist,65500.0,MATLAB
+325,Sr. Data Scientist,65500.0,Machine learning
+325,Sr. Data Scientist,65500.0,Natural language processing
+325,Sr. Data Scientist,65500.0,Python
+326,Head of Data Insights,76000.0,Azure
+326,Head of Data Insights,76000.0,Big data
+326,Head of Data Insights,76000.0,Spark
+326,Head of Data Insights,76000.0,R
+326,Head of Data Insights,76000.0,SQL
+327,Principal Biostatistician (FSP - Permanent Homebased),60000.0,TensorFlow
+327,Principal Biostatistician (FSP - Permanent Homebased),60000.0,Spark
+327,Principal Biostatistician (FSP - Permanent Homebased),60000.0,R
+327,Principal Biostatistician (FSP - Permanent Homebased),60000.0,Git
+327,Principal Biostatistician (FSP - Permanent Homebased),60000.0,Google Cloud Platform
+328,Research Associate in CASU Data Science,62500.0,Data mining
+328,Research Associate in CASU Data Science,62500.0,Software deployment
+328,Research Associate in CASU Data Science,62500.0,Change management
+328,Research Associate in CASU Data Science,62500.0,Machine learning
+328,Research Associate in CASU Data Science,62500.0,Data science
+329,Machine Learning Algorithm Developer,42500.0,Product development
+329,Machine Learning Algorithm Developer,42500.0,Data science
+329,Machine Learning Algorithm Developer,42500.0,Communication skills
+330,Data Science Manager,55500.0,TensorFlow
+330,Data Science Manager,55500.0,Data mining
+330,Data Science Manager,55500.0,Data structures
+330,Data Science Manager,55500.0,Machine learning
+330,Data Science Manager,55500.0,Deep learning
+331,"Educator, Data Scientist",75000.0,TensorFlow
+331,"Educator, Data Scientist",75000.0,Elasticsearch
+331,"Educator, Data Scientist",75000.0,Data mining
+331,"Educator, Data Scientist",75000.0,Data structures
+331,"Educator, Data Scientist",75000.0,Spark
+332,"Global COE Lead, AI and Data Science",51500.0,TensorFlow
+332,"Global COE Lead, AI and Data Science",51500.0,Analysis skills
+332,"Global COE Lead, AI and Data Science",51500.0,Machine learning
+332,"Global COE Lead, AI and Data Science",51500.0,Deep learning
+332,"Global COE Lead, AI and Data Science",51500.0,Natural language processing
+333,"Data Science Manager, Product Analytics/ Core DS",58000.0,TensorFlow
+333,"Data Science Manager, Product Analytics/ Core DS",58000.0,Analysis skills
+333,"Data Science Manager, Product Analytics/ Core DS",58000.0,Machine learning
+333,"Data Science Manager, Product Analytics/ Core DS",58000.0,Google Search Console
+333,"Data Science Manager, Product Analytics/ Core DS",58000.0,AI
+334,"Research Engineer, AI/Machine Learning",75000.0,Data analysis skills
+334,"Research Engineer, AI/Machine Learning",75000.0,Tableau
+334,"Research Engineer, AI/Machine Learning",75000.0,SQL
+334,"Research Engineer, AI/Machine Learning",75000.0,Warehouse experience
+334,"Research Engineer, AI/Machine Learning",75000.0,IT
+335,"Applied Scientist, Amazon Ads",31500.0,Azure
+335,"Applied Scientist, Amazon Ads",31500.0,C#
+335,"Applied Scientist, Amazon Ads",31500.0,Java
+335,"Applied Scientist, Amazon Ads",31500.0,C++
+335,"Applied Scientist, Amazon Ads",31500.0,C
+336,Machine Learning Research Engineer,143000.0,TensorFlow
+336,Machine Learning Research Engineer,143000.0,R
+336,Machine Learning Research Engineer,143000.0,Machine learning
+336,Machine Learning Research Engineer,143000.0,Team management
+336,Machine Learning Research Engineer,143000.0,Mentoring
+337,Machine Learning Specialist,52500.0,Sales
+337,Machine Learning Specialist,52500.0,Supply chain
+337,Machine Learning Specialist,52500.0,Machine learning
+337,Machine Learning Specialist,52500.0,Data science
+337,Machine Learning Specialist,52500.0,Communication skills
+338,Transportation Policy & Analytics Internship,116500.0,Azure
+338,Transportation Policy & Analytics Internship,116500.0,Internet of things
+338,Transportation Policy & Analytics Internship,116500.0,Kanban
+338,Transportation Policy & Analytics Internship,116500.0,SQL
+338,Transportation Policy & Analytics Internship,116500.0,AWS
+339,Principal Applied Scientist - Search & Recommendation,67000.0,Power BI
+339,Principal Applied Scientist - Search & Recommendation,67000.0,Microsoft Excel
+339,Principal Applied Scientist - Search & Recommendation,67000.0,Sales
+339,Principal Applied Scientist - Search & Recommendation,67000.0,English
+339,Principal Applied Scientist - Search & Recommendation,67000.0,SQL
+340,Data Analytics Manager,55500.0,Azure
+340,Data Analytics Manager,55500.0,Kubernetes
+340,Data Analytics Manager,55500.0,DevOps
+340,Data Analytics Manager,55500.0,NoSQL
+340,Data Analytics Manager,55500.0,Git
+341,Applied Data Scientist - Causal AI,26000.0,Software deployment
+341,Applied Data Scientist - Causal AI,26000.0,AWS
+341,Applied Data Scientist - Causal AI,26000.0,Machine learning
+341,Applied Data Scientist - Causal AI,26000.0,Neo4j
+341,Applied Data Scientist - Causal AI,26000.0,Data visualisation
+342,Management Consultant -Digital Engineering Industrial Data & AI/Digital Twins,57000.0,Statistical analysis
+342,Management Consultant -Digital Engineering Industrial Data & AI/Digital Twins,57000.0,Machine learning
+342,Management Consultant -Digital Engineering Industrial Data & AI/Digital Twins,57000.0,Data science
+342,Management Consultant -Digital Engineering Industrial Data & AI/Digital Twins,57000.0,Data visualisation
+342,Management Consultant -Digital Engineering Industrial Data & AI/Digital Twins,57000.0,Leadership
+343,Data & Analytics Manager,65500.0,Machine learning
+343,Data & Analytics Manager,65500.0,APIs
+343,Data & Analytics Manager,65500.0,Communication skills
+343,Data & Analytics Manager,65500.0,Python
+344,Machine Learning Engineer II,72500.0,Jira
+344,Machine Learning Engineer II,72500.0,Software deployment
+344,Machine Learning Engineer II,72500.0,R
+344,Machine Learning Engineer II,72500.0,SQL
+344,Machine Learning Engineer II,72500.0,Analysis skills
+345,Machine Learning Engineer,43000.0,AWS
+345,Machine Learning Engineer,43000.0,Machine learning
+345,Machine Learning Engineer,43000.0,Python
+346,Director of Data Science,80000.0,Statistics
+346,Director of Data Science,80000.0,R
+346,Director of Data Science,80000.0,Data analysis skills
+346,Director of Data Science,80000.0,SQL
+346,Director of Data Science,80000.0,Analysis skills
+347,Senior Data Science Manager (US Products),38000.0,TensorFlow
+347,Senior Data Science Manager (US Products),38000.0,Data modelling
+347,Senior Data Science Manager (US Products),38000.0,Azure
+347,Senior Data Science Manager (US Products),38000.0,DevOps
+347,Senior Data Science Manager (US Products),38000.0,Data structures
+348,Data Science Manager,105500.0,TensorFlow
+348,Data Science Manager,105500.0,Software deployment
+348,Data Science Manager,105500.0,Machine learning
+348,Data Science Manager,105500.0,APIs
+348,Data Science Manager,105500.0,Cloud computing
+349,Machine Learning Engineer,45000.0,TensorFlow
+349,Machine Learning Engineer,45000.0,Git
+349,Machine Learning Engineer,45000.0,Google Cloud Platform
+349,Machine Learning Engineer,45000.0,SQL
+349,Machine Learning Engineer,45000.0,AWS
+350,Lead Operations Research Data Scientist,61000.0,TensorFlow
+350,Lead Operations Research Data Scientist,61000.0,Software deployment
+350,Lead Operations Research Data Scientist,61000.0,DevOps
+350,Lead Operations Research Data Scientist,61000.0,System design
+350,Lead Operations Research Data Scientist,61000.0,Test-driven development
+351,Machine Learning Engineer,56000.0,Management
+351,Machine Learning Engineer,56000.0,Machine learning
+351,Machine Learning Engineer,56000.0,Distributed systems
+351,Machine Learning Engineer,56000.0,Quantitative analysis
+351,Machine Learning Engineer,56000.0,Leadership
+352,AI / ML Engineers,55000.0,Data modelling
+352,AI / ML Engineers,55000.0,Data mining
+352,AI / ML Engineers,55000.0,R
+352,AI / ML Engineers,55000.0,SQL
+352,AI / ML Engineers,55000.0,Machine learning
+353,Data Scientist (Fincrime),119500.0,TensorFlow
+353,Data Scientist (Fincrime),119500.0,Maths
+353,Data Scientist (Fincrime),119500.0,Machine learning
+353,Data Scientist (Fincrime),119500.0,APIs
+353,Data Scientist (Fincrime),119500.0,Mac OS
+354,Data Scientist,45000.0,TensorFlow
+354,Data Scientist,45000.0,R
+354,Data Scientist,45000.0,Machine learning
+354,Data Scientist,45000.0,Team management
+354,Data Scientist,45000.0,Mentoring
+355,"Data Science Manager, Privacy Areas",40000.0,TensorFlow
+355,"Data Science Manager, Privacy Areas",40000.0,C++
+355,"Data Science Manager, Privacy Areas",40000.0,Maths
+355,"Data Science Manager, Privacy Areas",40000.0,Machine learning
+355,"Data Science Manager, Privacy Areas",40000.0,Deep learning
+356,DE&S Data Science Specialist,69000.0,Azure
+356,DE&S Data Science Specialist,69000.0,Pentaho
+356,DE&S Data Science Specialist,69000.0,Big data
+356,DE&S Data Science Specialist,69000.0,Spark
+356,DE&S Data Science Specialist,69000.0,NoSQL
+357,"SWE - GPU ML Engineer, GGD",62000.0,Data analysis skills
+357,"SWE - GPU ML Engineer, GGD",62000.0,Java
+357,"SWE - GPU ML Engineer, GGD",62000.0,Scala
+357,"SWE - GPU ML Engineer, GGD",62000.0,Natural language processing
+357,"SWE - GPU ML Engineer, GGD",62000.0,Communication skills
+358,Data Analytics Manager,61000.0,Machine learning
+359,Machine Learning Engineer for Game Technology,75000.0,TensorFlow
+359,Machine Learning Engineer for Game Technology,75000.0,Azure
+359,Machine Learning Engineer for Game Technology,75000.0,Kubernetes
+359,Machine Learning Engineer for Game Technology,75000.0,Software deployment
+359,Machine Learning Engineer for Game Technology,75000.0,Google Cloud Platform
+360,BIG DATA ARCHITECT,42500.0,R
+360,BIG DATA ARCHITECT,42500.0,Git
+360,BIG DATA ARCHITECT,42500.0,SQL
+360,BIG DATA ARCHITECT,42500.0,Telecommunication
+360,BIG DATA ARCHITECT,42500.0,Agile
+361,"Applied Scientist, NLP",51500.0,SAS
+361,"Applied Scientist, NLP",51500.0,Data structures
+361,"Applied Scientist, NLP",51500.0,R
+361,"Applied Scientist, NLP",51500.0,Communication skills
+361,"Applied Scientist, NLP",51500.0,Python
+362,Research Fellow in AI and Machine Learning for Materials Discovery (AlChemy) Grade 7,72500.0,Alteryx
+362,Research Fellow in AI and Machine Learning for Materials Discovery (AlChemy) Grade 7,72500.0,SQL
+362,Research Fellow in AI and Machine Learning for Materials Discovery (AlChemy) Grade 7,72500.0,Machine learning
+362,Research Fellow in AI and Machine Learning for Materials Discovery (AlChemy) Grade 7,72500.0,Cloud computing
+362,Research Fellow in AI and Machine Learning for Materials Discovery (AlChemy) Grade 7,72500.0,Communication skills
+363,Senior Data Scientist/AI Engineer,71500.0,Azure
+363,Senior Data Scientist/AI Engineer,71500.0,Bootstrap
+363,Senior Data Scientist/AI Engineer,71500.0,Software deployment
+363,Senior Data Scientist/AI Engineer,71500.0,Spark
+363,Senior Data Scientist/AI Engineer,71500.0,Google Cloud Platform
+364,"Advisor, Data Science Management Consultant",70500.0,Azure
+364,"Advisor, Data Science Management Consultant",70500.0,Software deployment
+364,"Advisor, Data Science Management Consultant",70500.0,Google Cloud Platform
+364,"Advisor, Data Science Management Consultant",70500.0,Business development
+364,"Advisor, Data Science Management Consultant",70500.0,AWS
+365,Research Associate in Data Science - Smart Manufacturing Data Hub (2 posts),50000.0,OOP
+365,Research Associate in Data Science - Smart Manufacturing Data Hub (2 posts),50000.0,Machine learning
+365,Research Associate in Data Science - Smart Manufacturing Data Hub (2 posts),50000.0,Deep learning
+365,Research Associate in Data Science - Smart Manufacturing Data Hub (2 posts),50000.0,Natural language processing
+365,Research Associate in Data Science - Smart Manufacturing Data Hub (2 posts),50000.0,Data science
+366,Experienced Statistical Programmer,44000.0,Statistics
+366,Experienced Statistical Programmer,44000.0,Azure
+366,Experienced Statistical Programmer,44000.0,SAS
+366,Experienced Statistical Programmer,44000.0,Big data
+366,Experienced Statistical Programmer,44000.0,Software deployment
+367,Operations Lead Data Scientist,63500.0,Azure
+367,Operations Lead Data Scientist,63500.0,Big data
+367,Operations Lead Data Scientist,63500.0,Spark
+367,Operations Lead Data Scientist,63500.0,R
+367,Operations Lead Data Scientist,63500.0,Data analysis skills
+368,Big Data Solutions Architect,76000.0,Machine learning
+368,Big Data Solutions Architect,76000.0,Mentoring
+368,Big Data Solutions Architect,76000.0,IT
+368,Big Data Solutions Architect,76000.0,Leadership
+369,Director - Data Science,35000.0,Azure
+369,Director - Data Science,35000.0,DevOps
+369,Director - Data Science,35000.0,Google Cloud Platform
+369,Director - Data Science,35000.0,Java
+369,Director - Data Science,35000.0,AWS
+370,Machine Learning Researcher,28000.0,Machine learning
+370,Machine Learning Researcher,28000.0,Deep learning
+370,Machine Learning Researcher,28000.0,Natural language processing
+370,Machine Learning Researcher,28000.0,Communication skills
+370,Machine Learning Researcher,28000.0,Graph databases
+371,Sr. Applied Scientist - Global Operational Excellence,97500.0,TensorFlow
+371,Sr. Applied Scientist - Global Operational Excellence,97500.0,Software deployment
+371,Sr. Applied Scientist - Global Operational Excellence,97500.0,Git
+371,Sr. Applied Scientist - Global Operational Excellence,97500.0,Machine learning
+371,Sr. Applied Scientist - Global Operational Excellence,97500.0,Legal drafting
+372,Data Engineer (AI/ML),78500.0,Machine learning
+372,Data Engineer (AI/ML),78500.0,Organisational skills
+373,Machine Learning Engineering Manager,38000.0,Data mining
+373,Machine Learning Engineering Manager,38000.0,R
+373,Machine Learning Engineering Manager,38000.0,SQL
+373,Machine Learning Engineering Manager,38000.0,Statistical analysis
+373,Machine Learning Engineering Manager,38000.0,Machine learning
+374,Data Science Lead,99500.0,TensorFlow
+374,Data Science Lead,99500.0,Machine learning
+374,Data Science Lead,99500.0,Deep learning
+374,Data Science Lead,99500.0,Natural language processing
+374,Data Science Lead,99500.0,Software development
+375,Natural Language Processing Researcher,57500.0,C#
+375,Natural Language Processing Researcher,57500.0,Microsoft SQL Server
+375,Natural Language Processing Researcher,57500.0,Java
+375,Natural Language Processing Researcher,57500.0,SQL
+375,Natural Language Processing Researcher,57500.0,C++
+376,Senior Machine Learning Research Scientist,50000.0,Business development
+376,Senior Machine Learning Research Scientist,50000.0,Machine learning
+376,Senior Machine Learning Research Scientist,50000.0,Systems engineering
+376,Senior Machine Learning Research Scientist,50000.0,Agile
+376,Senior Machine Learning Research Scientist,50000.0,Data science
+377,Research Associate or Research Fellow in Machine Learning,67500.0,Business analysis
+377,Research Associate or Research Fellow in Machine Learning,67500.0,Analysis skills
+377,Research Associate or Research Fellow in Machine Learning,67500.0,Machine learning
+377,Research Associate or Research Fellow in Machine Learning,67500.0,Quantitative analysis
+377,Research Associate or Research Fellow in Machine Learning,67500.0,Python
+378,AI Engineer,67000.0,Statistical software
+378,AI Engineer,67000.0,Power BI
+378,AI Engineer,67000.0,Microsoft Excel
+378,AI Engineer,67000.0,Azure
+378,AI Engineer,67000.0,SAS
+379,"Machine Learning Engineer II - Content, NLP, LLM",58500.0,Machine learning
+379,"Machine Learning Engineer II - Content, NLP, LLM",58500.0,Deep learning
+379,"Machine Learning Engineer II - Content, NLP, LLM",58500.0,Natural language processing
+379,"Machine Learning Engineer II - Content, NLP, LLM",58500.0,AI
+380,Cross Asset Data Scientist / NY / London/ Asia,94500.0,Big data
+380,Cross Asset Data Scientist / NY / London/ Asia,94500.0,Spark
+380,Cross Asset Data Scientist / NY / London/ Asia,94500.0,R
+380,Cross Asset Data Scientist / NY / London/ Asia,94500.0,Apache Hive
+380,Cross Asset Data Scientist / NY / London/ Asia,94500.0,Tableau
+381,"Head of Profession – Artificial Intelligence, Machine Learning and Data Science",53500.0,Power BI
+381,"Head of Profession – Artificial Intelligence, Machine Learning and Data Science",53500.0,Azure
+381,"Head of Profession – Artificial Intelligence, Machine Learning and Data Science",53500.0,Relational databases
+381,"Head of Profession – Artificial Intelligence, Machine Learning and Data Science",53500.0,QlikView
+381,"Head of Profession – Artificial Intelligence, Machine Learning and Data Science",53500.0,Tableau
+382,Senior Data Scientist,115000.0,Clinical research
+382,Senior Data Scientist,115000.0,XML
+382,Senior Data Scientist,115000.0,SAS
+382,Senior Data Scientist,115000.0,Data structures
+382,Senior Data Scientist,115000.0,Project management
+383,HR Data and Analytics - Insights and Product Delivery - Senior Associate,43500.0,Azure
+383,HR Data and Analytics - Insights and Product Delivery - Senior Associate,43500.0,Sales
+383,HR Data and Analytics - Insights and Product Delivery - Senior Associate,43500.0,Google Cloud Platform
+383,HR Data and Analytics - Insights and Product Delivery - Senior Associate,43500.0,Business development
+383,HR Data and Analytics - Insights and Product Delivery - Senior Associate,43500.0,AWS
+384,Director of Data Science,62500.0,Data analysis skills
+384,Director of Data Science,62500.0,Project management
+384,Director of Data Science,62500.0,Machine learning
+384,Director of Data Science,62500.0,Agile
+384,Director of Data Science,62500.0,Business requirements
+385,Data Science Platform Engineer,77000.0,Programme management
+385,Data Science Platform Engineer,77000.0,Waterfall
+385,Data Science Platform Engineer,77000.0,Big data
+385,Data Science Platform Engineer,77000.0,Software development
+385,Data Science Platform Engineer,77000.0,Project management methodology
+386,"Senior Consultant, Data Engineering, Data & Analytics, Assurance, Belfast",43000.0,R
+386,"Senior Consultant, Data Engineering, Data & Analytics, Assurance, Belfast",43000.0,Presentation skills
+386,"Senior Consultant, Data Engineering, Data & Analytics, Assurance, Belfast",43000.0,Machine learning
+386,"Senior Consultant, Data Engineering, Data & Analytics, Assurance, Belfast",43000.0,Python
+387,Statistical Programmer II (Home based in EMEA),85000.0,Data modelling
+387,Statistical Programmer II (Home based in EMEA),85000.0,Kubernetes
+387,Statistical Programmer II (Home based in EMEA),85000.0,Big data
+387,Statistical Programmer II (Home based in EMEA),85000.0,Spark
+387,Statistical Programmer II (Home based in EMEA),85000.0,Machine learning
+388,Managing Consultant - Data & AI Strategy - Data Management,79500.0,TensorFlow
+388,Managing Consultant - Data & AI Strategy - Data Management,79500.0,Azure
+388,Managing Consultant - Data & AI Strategy - Data Management,79500.0,Big data
+388,Managing Consultant - Data & AI Strategy - Data Management,79500.0,DevOps
+388,Managing Consultant - Data & AI Strategy - Data Management,79500.0,Spark
+389,AI Applications Specialist (18-month FTC),58000.0,Machine learning
+389,AI Applications Specialist (18-month FTC),58000.0,Deep learning
+389,AI Applications Specialist (18-month FTC),58000.0,Natural language processing
+389,AI Applications Specialist (18-month FTC),58000.0,AI
+389,AI Applications Specialist (18-month FTC),58000.0,Python
+390,Engineering Programme Manager - Marketing Analytics,74500.0,Azure
+390,Engineering Programme Manager - Marketing Analytics,74500.0,Google Cloud Platform
+390,Engineering Programme Manager - Marketing Analytics,74500.0,AWS
+390,Engineering Programme Manager - Marketing Analytics,74500.0,Business requirements
+390,Engineering Programme Manager - Marketing Analytics,74500.0,Communication skills
+391,Senior Data Scientist,55000.0,Data mining
+391,Senior Data Scientist,55000.0,Java
+391,Senior Data Scientist,55000.0,PHP
+391,Senior Data Scientist,55000.0,C++
+391,Senior Data Scientist,55000.0,C
+392,Machine Learning Engineer,52000.0,English
+392,Machine Learning Engineer,52000.0,Machine learning
+392,Machine Learning Engineer,52000.0,Deep learning
+392,Machine Learning Engineer,52000.0,IT
+392,Machine Learning Engineer,52000.0,Communication skills
+393,AI Engineer,65000.0,TensorFlow
+393,AI Engineer,65000.0,Azure
+393,AI Engineer,65000.0,Go
+393,AI Engineer,65000.0,Kubernetes
+393,AI Engineer,65000.0,Software deployment
+394,"Research Engineer, Language - Generative AI",39500.0,SQL
+394,"Research Engineer, Language - Generative AI",39500.0,APIs
+394,"Research Engineer, Language - Generative AI",39500.0,Python
+395,"SVP, Product (Advanced Analytics)",65500.0,Data mining
+395,"SVP, Product (Advanced Analytics)",65500.0,Teaching
+396,"Software Engineer, Machine Learning",68000.0,TensorFlow
+396,"Software Engineer, Machine Learning",68000.0,Image processing
+396,"Software Engineer, Machine Learning",68000.0,Signal processing
+396,"Software Engineer, Machine Learning",68000.0,Kubernetes
+396,"Software Engineer, Machine Learning",68000.0,Git
+397,"Senior Applied Research Scientist, Deep Learning for RNA",55000.0,Machine learning
+398,Principal Data Scientist/Artificial Intelligence Engineer,62500.0,Kubernetes
+398,Principal Data Scientist/Artificial Intelligence Engineer,62500.0,AWS
+398,Principal Data Scientist/Artificial Intelligence Engineer,62500.0,Maths
+398,Principal Data Scientist/Artificial Intelligence Engineer,62500.0,Docker
+398,Principal Data Scientist/Artificial Intelligence Engineer,62500.0,Machine learning
+399,"Senior Pricing Data Scientist, Retail pricing team",75500.0,TensorFlow
+399,"Senior Pricing Data Scientist, Retail pricing team",75500.0,Performance tuning
+399,"Senior Pricing Data Scientist, Retail pricing team",75500.0,Azure
+399,"Senior Pricing Data Scientist, Retail pricing team",75500.0,Kubernetes
+399,"Senior Pricing Data Scientist, Retail pricing team",75500.0,Big data
+400,Lecturer / Senior Lecturer in Data Science,85000.0,Azure
+400,Lecturer / Senior Lecturer in Data Science,85000.0,Machine learning
+400,Lecturer / Senior Lecturer in Data Science,85000.0,Deep learning
+401,Senior Applied Scientist (Computer Vision / Machine Learning),97500.0,Machine learning
+401,Senior Applied Scientist (Computer Vision / Machine Learning),97500.0,Python
+401,Senior Applied Scientist (Computer Vision / Machine Learning),97500.0,Arduino
+401,Senior Applied Scientist (Computer Vision / Machine Learning),97500.0,Raspberry Pi
+402,ML Engineer,98000.0,Kubernetes
+402,ML Engineer,98000.0,Google Cloud Platform
+402,ML Engineer,98000.0,Statistical analysis
+402,ML Engineer,98000.0,Machine learning
+402,ML Engineer,98000.0,Natural language processing
+403,Machine Learning Engineer - NLP,80000.0,Kubernetes
+403,Machine Learning Engineer - NLP,80000.0,DevOps
+403,Machine Learning Engineer - NLP,80000.0,OOP
+403,Machine Learning Engineer - NLP,80000.0,AWS
+403,Machine Learning Engineer - NLP,80000.0,Machine learning
+404,AI Operations Specialist,95000.0,Microsoft Excel
+404,AI Operations Specialist,95000.0,Financial report writing
+404,AI Operations Specialist,95000.0,Tableau
+404,AI Operations Specialist,95000.0,Analysis skills
+404,AI Operations Specialist,95000.0,Data visualisation
+405,Machine Learning Engineer / Researcher,41000.0,Cloud infrastructure
+405,Machine Learning Engineer / Researcher,41000.0,Azure
+405,Machine Learning Engineer / Researcher,41000.0,Kubernetes
+405,Machine Learning Engineer / Researcher,41000.0,English
+405,Machine Learning Engineer / Researcher,41000.0,Google Cloud Platform
+406,Research Associate/Fellow in (a) Experimental High Throughput Materials Discovery OR (b) Computational Materials with Machine Learning (Fixed term),85000.0,Software deployment
+406,Research Associate/Fellow in (a) Experimental High Throughput Materials Discovery OR (b) Computational Materials with Machine Learning (Fixed term),85000.0,AWS
+406,Research Associate/Fellow in (a) Experimental High Throughput Materials Discovery OR (b) Computational Materials with Machine Learning (Fixed term),85000.0,Presentation skills
+406,Research Associate/Fellow in (a) Experimental High Throughput Materials Discovery OR (b) Computational Materials with Machine Learning (Fixed term),85000.0,AI
+407,Machine Learning Engineer (NLP) - Trust & Safety,40000.0,TensorFlow
+407,Machine Learning Engineer (NLP) - Trust & Safety,40000.0,Big data
+407,Machine Learning Engineer (NLP) - Trust & Safety,40000.0,Analysis skills
+407,Machine Learning Engineer (NLP) - Trust & Safety,40000.0,Maths
+407,Machine Learning Engineer (NLP) - Trust & Safety,40000.0,Machine learning
+408,"Manager, Data Science Engineering",80000.0,Management
+408,"Manager, Data Science Engineering",80000.0,Machine learning
+408,"Manager, Data Science Engineering",80000.0,Data science
+408,"Manager, Data Science Engineering",80000.0,Python
+408,"Manager, Data Science Engineering",80000.0,Time management
+409,Marketing Analytics Lead,74500.0,Jira
+409,Marketing Analytics Lead,74500.0,Kubernetes
+409,Marketing Analytics Lead,74500.0,Spark
+409,Marketing Analytics Lead,74500.0,Trello
+409,Marketing Analytics Lead,74500.0,Docker
+410,"Python and Kubernetes Software Engineer - Data, AI/ML & Analytics",103500.0,C++
+410,"Python and Kubernetes Software Engineer - Data, AI/ML & Analytics",103500.0,Machine learning
+410,"Python and Kubernetes Software Engineer - Data, AI/ML & Analytics",103500.0,Python
+411,Senior Consultant Data & AI Strategy - Operating Model,97500.0,TensorFlow
+411,Senior Consultant Data & AI Strategy - Operating Model,97500.0,Azure
+411,Senior Consultant Data & AI Strategy - Operating Model,97500.0,English
+411,Senior Consultant Data & AI Strategy - Operating Model,97500.0,Google Cloud Platform
+411,Senior Consultant Data & AI Strategy - Operating Model,97500.0,AWS
+412,NLP / LLM Scientist - Applied AI ML Lead - Machine Learning Centre of Excellence,51500.0,TensorFlow
+412,NLP / LLM Scientist - Applied AI ML Lead - Machine Learning Centre of Excellence,51500.0,Data modelling
+412,NLP / LLM Scientist - Applied AI ML Lead - Machine Learning Centre of Excellence,51500.0,Data structures
+412,NLP / LLM Scientist - Applied AI ML Lead - Machine Learning Centre of Excellence,51500.0,Machine learning
+413,Mid-Level Analytics Consultant - ID&F,44000.0,Jira
+413,Mid-Level Analytics Consultant - ID&F,44000.0,Power BI
+413,Mid-Level Analytics Consultant - ID&F,44000.0,Data structures
+413,Mid-Level Analytics Consultant - ID&F,44000.0,Tableau
+413,Mid-Level Analytics Consultant - ID&F,44000.0,SQL
+414,Data & AI Platform Product Manager,47000.0,Google Cloud Platform
+414,Data & AI Platform Product Manager,47000.0,AWS
+414,Data & AI Platform Product Manager,47000.0,C++
+414,Data & AI Platform Product Manager,47000.0,Maths
+414,Data & AI Platform Product Manager,47000.0,C
+415,Machine Learning Engineer,53500.0,Data analysis skills
+415,Machine Learning Engineer,53500.0,Statistical analysis
+415,Machine Learning Engineer,53500.0,Machine learning
+415,Machine Learning Engineer,53500.0,Data science
+415,Machine Learning Engineer,53500.0,Communication skills
+416,AI / ML Engineer,70000.0,Software deployment
+416,AI / ML Engineer,70000.0,AWS
+416,AI / ML Engineer,70000.0,Docker
+416,AI / ML Engineer,70000.0,Machine learning
+416,AI / ML Engineer,70000.0,Deep learning
+417,Machine Learning Engineer,75500.0,Big data
+417,Machine Learning Engineer,75500.0,Machine learning
+417,Machine Learning Engineer,75500.0,Deep learning
+417,Machine Learning Engineer,75500.0,Cloud computing
+417,Machine Learning Engineer,75500.0,Data science
+418,Analytics Consultant,63000.0,R
+418,Analytics Consultant,63000.0,Data analysis skills
+418,Analytics Consultant,63000.0,Machine learning
+418,Analytics Consultant,63000.0,Predictive analytics
+418,Analytics Consultant,63000.0,Data science
+419,Machine Learning Engineer,85500.0,TensorFlow
+419,Machine Learning Engineer,85500.0,TCP
+419,Machine Learning Engineer,85500.0,Fortran
+419,Machine Learning Engineer,85500.0,C++
+419,Machine Learning Engineer,85500.0,C
+420,Machine Learning Engineer,40000.0,TensorFlow
+420,Machine Learning Engineer,40000.0,Machine learning
+420,Machine Learning Engineer,40000.0,Communication skills
+420,Machine Learning Engineer,40000.0,Python
+421,Head of Data Science - Global Solutions,110000.0,Elasticsearch
+421,Head of Data Science - Global Solutions,110000.0,Spark
+421,Head of Data Science - Global Solutions,110000.0,R
+421,Head of Data Science - Global Solutions,110000.0,NoSQL
+421,Head of Data Science - Global Solutions,110000.0,Google Cloud Platform
+422,Senior Principal Data Scientist,77000.0,Statistical software
+422,Senior Principal Data Scientist,77000.0,R
+422,Senior Principal Data Scientist,77000.0,English
+422,Senior Principal Data Scientist,77000.0,Machine learning
+422,Senior Principal Data Scientist,77000.0,Public health
+423,Research Engineer AI for Isambard - AI Advanced Collaboration Center,80000.0,ASP.NET
+423,Research Engineer AI for Isambard - AI Advanced Collaboration Center,80000.0,Power BI
+423,Research Engineer AI for Isambard - AI Advanced Collaboration Center,80000.0,ERP systems
+423,Research Engineer AI for Isambard - AI Advanced Collaboration Center,80000.0,Quality management
+423,Research Engineer AI for Isambard - AI Advanced Collaboration Center,80000.0,SQL
+424,"Senior Manager, Fundraising Data & Analytics",70000.0,R
+424,"Senior Manager, Fundraising Data & Analytics",70000.0,Business analysis
+424,"Senior Manager, Fundraising Data & Analytics",70000.0,Data analysis skills
+424,"Senior Manager, Fundraising Data & Analytics",70000.0,SQL
+424,"Senior Manager, Fundraising Data & Analytics",70000.0,Analysis skills
+425,Machine Learning Engineer - Spacetime (UK),116500.0,TensorFlow
+425,Machine Learning Engineer - Spacetime (UK),116500.0,Elasticsearch
+425,Machine Learning Engineer - Spacetime (UK),116500.0,React
+425,Machine Learning Engineer - Spacetime (UK),116500.0,Kubernetes
+425,Machine Learning Engineer - Spacetime (UK),116500.0,DevOps
+426,Principal Data Scientist,64000.0,Machine learning
+426,Principal Data Scientist,64000.0,Deep learning
+426,Principal Data Scientist,64000.0,Natural language processing
+426,Principal Data Scientist,64000.0,AI
+427,Principal Biostatistician,47500.0,TensorFlow
+427,Principal Biostatistician,47500.0,Cloud infrastructure
+427,Principal Biostatistician,47500.0,Azure
+427,Principal Biostatistician,47500.0,Adobe Flash
+427,Principal Biostatistician,47500.0,Microsoft Office
+428,BI and Data Manager (hybrid working),136000.0,Software deployment
+428,BI and Data Manager (hybrid working),136000.0,R
+428,BI and Data Manager (hybrid working),136000.0,English
+428,BI and Data Manager (hybrid working),136000.0,Statistical analysis
+428,BI and Data Manager (hybrid working),136000.0,Django
+429,AI Business Analyst,66500.0,Data modelling
+429,AI Business Analyst,66500.0,Data mining
+429,AI Business Analyst,66500.0,Big data
+429,AI Business Analyst,66500.0,R
+429,AI Business Analyst,66500.0,SQL
+430,"Senior Full Stack Engineer, Deep Learning Algorithms",69000.0,Big data
+430,"Senior Full Stack Engineer, Deep Learning Algorithms",69000.0,Data structures
+430,"Senior Full Stack Engineer, Deep Learning Algorithms",69000.0,R
+430,"Senior Full Stack Engineer, Deep Learning Algorithms",69000.0,Project management
+430,"Senior Full Stack Engineer, Deep Learning Algorithms",69000.0,C
+431,Director of Data Science,54000.0,Product development
+431,Director of Data Science,54000.0,Machine learning
+431,Director of Data Science,54000.0,Natural language processing
+431,Director of Data Science,54000.0,Agile
+432,Machine Learning Research Engineer,87500.0,Public health
+432,Machine Learning Research Engineer,87500.0,Data science
+432,Machine Learning Research Engineer,87500.0,Teaching
+433,Statistician / Senior Statistician,65000.0,TensorFlow
+433,Statistician / Senior Statistician,65000.0,Spark
+433,Statistician / Senior Statistician,65000.0,Data analysis skills
+433,Statistician / Senior Statistician,65000.0,Apache Hive
+433,Statistician / Senior Statistician,65000.0,SQL
+434,Director of Data Analytics,87500.0,Statistics
+434,Director of Data Analytics,87500.0,Go
+434,Director of Data Analytics,87500.0,Software deployment
+434,Director of Data Analytics,87500.0,Git
+434,Director of Data Analytics,87500.0,Google Cloud Platform
+435,"Vice President, Applied AI",46500.0,Supply chain
+435,"Vice President, Applied AI",46500.0,Google Cloud Platform
+435,"Vice President, Applied AI",46500.0,AWS
+435,"Vice President, Applied AI",46500.0,Machine learning
+435,"Vice President, Applied AI",46500.0,Data science
+436,"Engineering Manager, Data & Machine Learning",56500.0,TensorFlow
+436,"Engineering Manager, Data & Machine Learning",56500.0,AWS
+436,"Engineering Manager, Data & Machine Learning",56500.0,Docker
+436,"Engineering Manager, Data & Machine Learning",56500.0,Machine learning
+436,"Engineering Manager, Data & Machine Learning",56500.0,Natural language processing
+437,Professor of Public Health and Health Data Science,89000.0,Java
+437,Professor of Public Health and Health Data Science,89000.0,C++
+437,Professor of Public Health and Health Data Science,89000.0,Project management
+437,Professor of Public Health and Health Data Science,89000.0,C
+437,Professor of Public Health and Health Data Science,89000.0,Machine learning
+438,Applied AI/ML Senior Associate - HR Data & Analytics,41000.0,Data mining
+438,Applied AI/ML Senior Associate - HR Data & Analytics,41000.0,R
+438,Applied AI/ML Senior Associate - HR Data & Analytics,41000.0,Python
+439,Machine Learning Engineer - Flex,33000.0,SAS
+439,Machine Learning Engineer - Flex,33000.0,R
+439,Machine Learning Engineer - Flex,33000.0,English
+439,Machine Learning Engineer - Flex,33000.0,Statistical analysis
+439,Machine Learning Engineer - Flex,33000.0,Machine learning
+440,Lead Engineer (Senior Supply Chain Data Scientist),57000.0,Rust
+440,Lead Engineer (Senior Supply Chain Data Scientist),57000.0,Go
+440,Lead Engineer (Senior Supply Chain Data Scientist),57000.0,Data structures
+440,Lead Engineer (Senior Supply Chain Data Scientist),57000.0,Logistics
+440,Lead Engineer (Senior Supply Chain Data Scientist),57000.0,Machine learning
+441,"Machine Learning Engineer: LLM, NLP, GenAI",79500.0,Git
+441,"Machine Learning Engineer: LLM, NLP, GenAI",79500.0,English
+441,"Machine Learning Engineer: LLM, NLP, GenAI",79500.0,Google Cloud Platform
+441,"Machine Learning Engineer: LLM, NLP, GenAI",79500.0,SQL
+441,"Machine Learning Engineer: LLM, NLP, GenAI",79500.0,AWS
+442,Machine Learning Engineering Manager,66500.0,Business development
+442,Machine Learning Engineering Manager,66500.0,AWS
+442,Machine Learning Engineering Manager,66500.0,Product management
+442,Machine Learning Engineering Manager,66500.0,Deep learning
+442,Machine Learning Engineering Manager,66500.0,Data science
+443,Senior Strategic Analytics Lead,71000.0,Sales
+443,Senior Strategic Analytics Lead,71000.0,Business analysis
+443,Senior Strategic Analytics Lead,71000.0,Change management
+443,Senior Strategic Analytics Lead,71000.0,Machine learning
+443,Senior Strategic Analytics Lead,71000.0,Data management
+444,"Principal Statistician, Research Statistics",56000.0,TensorFlow
+444,"Principal Statistician, Research Statistics",56000.0,Azure
+444,"Principal Statistician, Research Statistics",56000.0,Software deployment
+444,"Principal Statistician, Research Statistics",56000.0,Git
+444,"Principal Statistician, Research Statistics",56000.0,Google Cloud Platform
+445,Machine Learning Engineer - Operational Research,42000.0,Git
+445,Machine Learning Engineer - Operational Research,42000.0,SQL
+445,Machine Learning Engineer - Operational Research,42000.0,AWS
+445,Machine Learning Engineer - Operational Research,42000.0,Docker
+445,Machine Learning Engineer - Operational Research,42000.0,Machine learning
+446,Machine Learning Engineer,40500.0,Sales
+446,Machine Learning Engineer,40500.0,AI
+446,Machine Learning Engineer,40500.0,Communication skills
+447,Generative AI Specialist SA,65000.0,Machine learning
+447,Generative AI Specialist SA,65000.0,Natural language processing
+447,Generative AI Specialist SA,65000.0,Data science
+447,Generative AI Specialist SA,65000.0,Python
+448,Data Analytics - Principal Consultant,68000.0,System design
+448,Data Analytics - Principal Consultant,68000.0,Application development
+448,Data Analytics - Principal Consultant,68000.0,Machine learning
+448,Data Analytics - Principal Consultant,68000.0,Natural language processing
+448,Data Analytics - Principal Consultant,68000.0,Agile
+449,AI / ML Engineer,52500.0,SAS
+449,AI / ML Engineer,52500.0,R
+449,AI / ML Engineer,52500.0,Tableau
+449,AI / ML Engineer,52500.0,SQL
+449,AI / ML Engineer,52500.0,Product management
+450,AI Engineer,60000.0,Data modelling
+450,AI Engineer,60000.0,Big data
+450,AI Engineer,60000.0,Spark
+450,AI Engineer,60000.0,SQL
+450,AI Engineer,60000.0,AWS
+451,Expert Sales - Intelligent Bioengineering and AI,47500.0,Data analysis skills
+451,Expert Sales - Intelligent Bioengineering and AI,47500.0,Customer relationship management
+451,Expert Sales - Intelligent Bioengineering and AI,47500.0,Organisational skills
+451,Expert Sales - Intelligent Bioengineering and AI,47500.0,Leadership
+451,Expert Sales - Intelligent Bioengineering and AI,47500.0,Communication skills
+452,Principal Data Scientist,56500.0,Power BI
+452,Principal Data Scientist,56500.0,R
+452,Principal Data Scientist,56500.0,Data analysis skills
+452,Principal Data Scientist,56500.0,SQL
+452,Principal Data Scientist,56500.0,Analysis skills
+453,"Applied AI ML Director (Python, NLP, LLMs) - International Private Bank",54000.0,TensorFlow
+453,"Applied AI ML Director (Python, NLP, LLMs) - International Private Bank",54000.0,Kubernetes
+453,"Applied AI ML Director (Python, NLP, LLMs) - International Private Bank",54000.0,Google Cloud Platform
+453,"Applied AI ML Director (Python, NLP, LLMs) - International Private Bank",54000.0,Natural language processing
+453,"Applied AI ML Director (Python, NLP, LLMs) - International Private Bank",54000.0,APIs
+454,Senior Data Scientist - Search,59000.0,Statistical software
+454,Senior Data Scientist - Search,59000.0,Big data
+454,Senior Data Scientist - Search,59000.0,R
+454,Senior Data Scientist - Search,59000.0,Computer skills
+454,Senior Data Scientist - Search,59000.0,Data science
+455,"Team Lead, Data Science",104500.0,Azure
+455,"Team Lead, Data Science",104500.0,Software deployment
+455,"Team Lead, Data Science",104500.0,Google Cloud Platform
+455,"Team Lead, Data Science",104500.0,AWS
+455,"Team Lead, Data Science",104500.0,Presentation skills
+456,"Manager, Data & AI Strategy, Data & Analytics, Belfast",87500.0,TensorFlow
+456,"Manager, Data & AI Strategy, Data & Analytics, Belfast",87500.0,OS Kernels
+456,"Manager, Data & AI Strategy, Data & Analytics, Belfast",87500.0,C++
+456,"Manager, Data & AI Strategy, Data & Analytics, Belfast",87500.0,C
+456,"Manager, Data & AI Strategy, Data & Analytics, Belfast",87500.0,Machine learning
+457,Analytics Lead,71000.0,Statistical analysis
+457,Analytics Lead,71000.0,Machine learning
+457,Analytics Lead,71000.0,Linux
+457,Analytics Lead,71000.0,Data visualisation
+457,Analytics Lead,71000.0,Communication skills
+458,AI/ML Software Engineer,65000.0,Machine learning
+458,AI/ML Software Engineer,65000.0,Mentoring
+458,AI/ML Software Engineer,65000.0,Software development
+458,AI/ML Software Engineer,65000.0,Agile
+458,AI/ML Software Engineer,65000.0,Data science
+459,Senior Research Statistician,70000.0,TensorFlow
+459,Senior Research Statistician,70000.0,Kubernetes
+459,Senior Research Statistician,70000.0,Data analysis skills
+459,Senior Research Statistician,70000.0,AWS
+459,Senior Research Statistician,70000.0,Docker
+460,Data Science Consultant,72500.0,TensorFlow
+460,Data Science Consultant,72500.0,Data mining
+460,Data Science Consultant,72500.0,Data structures
+460,Data Science Consultant,72500.0,Spark
+460,Data Science Consultant,72500.0,R
+461,"Machine Learning Engineer, Scaling and Performance",76000.0,Machine learning
+461,"Machine Learning Engineer, Scaling and Performance",76000.0,AI
+462,"Senior Principal Scientist, Research Analytics",72500.0,Kanban
+462,"Senior Principal Scientist, Research Analytics",72500.0,Project management
+462,"Senior Principal Scientist, Research Analytics",72500.0,Machine learning
+462,"Senior Principal Scientist, Research Analytics",72500.0,Scrum
+462,"Senior Principal Scientist, Research Analytics",72500.0,Agile
+463,Applied AI ML Lead - CIB Securities Services,100500.0,Statistical analysis
+463,Applied AI ML Lead - CIB Securities Services,100500.0,Machine learning
+463,Applied AI ML Lead - CIB Securities Services,100500.0,Deep learning
+463,Applied AI ML Lead - CIB Securities Services,100500.0,Python
+464,Senior Principal Cheminformatics Data Scientist,115000.0,MATLAB
+464,Senior Principal Cheminformatics Data Scientist,115000.0,Business intelligence
+464,Senior Principal Cheminformatics Data Scientist,115000.0,SAS
+464,Senior Principal Cheminformatics Data Scientist,115000.0,Supply chain
+464,Senior Principal Cheminformatics Data Scientist,115000.0,R
+465,Senior Applied Scientist,45000.0,Microsoft Powerpoint
+465,Senior Applied Scientist,45000.0,Microsoft Word
+465,Senior Applied Scientist,45000.0,Microsoft Excel
+465,Senior Applied Scientist,45000.0,R
+465,Senior Applied Scientist,45000.0,Microsoft Office
+466,Value Consultant - Causal AI,50000.0,OOP
+466,Value Consultant - Causal AI,50000.0,C++
+466,Value Consultant - Causal AI,50000.0,Machine learning
+466,Value Consultant - Causal AI,50000.0,AI
+466,Value Consultant - Causal AI,50000.0,Communication skills
+467,AI Solutions Consultant,72500.0,Go
+467,AI Solutions Consultant,72500.0,Salesforce
+467,AI Solutions Consultant,72500.0,Google Cloud Platform
+467,AI Solutions Consultant,72500.0,SQL
+467,AI Solutions Consultant,72500.0,AWS
+468,ML Engineer,66000.0,Statistics
+468,ML Engineer,66000.0,Power BI
+468,ML Engineer,66000.0,R
+468,ML Engineer,66000.0,SQL
+468,ML Engineer,66000.0,Data visualisation
+469,"Sr. Data Scientist, EU S/C, Supply Chain Science",65000.0,Software development
+469,"Sr. Data Scientist, EU S/C, Supply Chain Science",65000.0,Data science
+469,"Sr. Data Scientist, EU S/C, Supply Chain Science",65000.0,AI
+469,"Sr. Data Scientist, EU S/C, Supply Chain Science",65000.0,Communication skills
+469,"Sr. Data Scientist, EU S/C, Supply Chain Science",65000.0,Python
+470,"Manager, Marketing Mix Modelling (MMM) & Data Science",40000.0,TensorFlow
+470,"Manager, Marketing Mix Modelling (MMM) & Data Science",40000.0,Machine learning
+470,"Manager, Marketing Mix Modelling (MMM) & Data Science",40000.0,Distributed systems
+470,"Manager, Marketing Mix Modelling (MMM) & Data Science",40000.0,Deep learning
+470,"Manager, Marketing Mix Modelling (MMM) & Data Science",40000.0,Natural language processing
+471,Software Engineer - Machine Learning (PyTorch),68500.0,TensorFlow
+471,Software Engineer - Machine Learning (PyTorch),68500.0,C++
+471,Software Engineer - Machine Learning (PyTorch),68500.0,C
+471,Software Engineer - Machine Learning (PyTorch),68500.0,Deep learning
+471,Software Engineer - Machine Learning (PyTorch),68500.0,Python
+472,Data Scientist - Go-to-Market (GTM) Applied AI team,90000.0,Jira
+472,Data Scientist - Go-to-Market (GTM) Applied AI team,90000.0,Power BI
+472,Data Scientist - Go-to-Market (GTM) Applied AI team,90000.0,Data structures
+472,Data Scientist - Go-to-Market (GTM) Applied AI team,90000.0,Tableau
+472,Data Scientist - Go-to-Market (GTM) Applied AI team,90000.0,SQL
+473,Senior Analyst - Product Analytics,61000.0,Software deployment
+473,Senior Analyst - Product Analytics,61000.0,SQL
+473,Senior Analyst - Product Analytics,61000.0,Machine learning
+473,Senior Analyst - Product Analytics,61000.0,Data science
+473,Senior Analyst - Product Analytics,61000.0,Communication skills
+474,"Vice President, AI Engineering Lead - Markets Operations",103000.0,Data analysis skills
+474,"Vice President, AI Engineering Lead - Markets Operations",103000.0,Statistical analysis
+474,"Vice President, AI Engineering Lead - Markets Operations",103000.0,Project management
+474,"Vice President, AI Engineering Lead - Markets Operations",103000.0,Machine learning
+474,"Vice President, AI Engineering Lead - Markets Operations",103000.0,AI
+475,"Staff ML Engineer, Large Language Models",88000.0,TensorFlow
+475,"Staff ML Engineer, Large Language Models",88000.0,System design
+475,"Staff ML Engineer, Large Language Models",88000.0,Analysis skills
+475,"Staff ML Engineer, Large Language Models",88000.0,Machine learning
+475,"Staff ML Engineer, Large Language Models",88000.0,Deep learning
+476,Research Associate in Generative Deep Learning for Synthetising Virtual Patient Populations for In-Silico Trials,82000.0,Cloud infrastructure
+476,Research Associate in Generative Deep Learning for Synthetising Virtual Patient Populations for In-Silico Trials,82000.0,Configuration management
+476,Research Associate in Generative Deep Learning for Synthetising Virtual Patient Populations for In-Silico Trials,82000.0,Google Cloud Platform
+476,Research Associate in Generative Deep Learning for Synthetising Virtual Patient Populations for In-Silico Trials,82000.0,SQL
+476,Research Associate in Generative Deep Learning for Synthetising Virtual Patient Populations for In-Silico Trials,82000.0,Machine learning
+477,Analytics Manager,74500.0,TensorFlow
+477,Analytics Manager,74500.0,Image processing
+477,Analytics Manager,74500.0,Unreal Engine
+477,Analytics Manager,74500.0,Docker
+477,Analytics Manager,74500.0,Machine learning
+478,Machine Learning Engineer,74000.0,Data analysis skills
+478,Machine Learning Engineer,74000.0,Business development
+478,Machine Learning Engineer,74000.0,Maths
+478,Machine Learning Engineer,74000.0,Machine learning
+478,Machine Learning Engineer,74000.0,IT
+479,Applied Artificial Intelligence & Machine Learning Lead - Vice President,55000.0,Jira
+479,Applied Artificial Intelligence & Machine Learning Lead - Vice President,55000.0,Power BI
+479,Applied Artificial Intelligence & Machine Learning Lead - Vice President,55000.0,Azure
+479,Applied Artificial Intelligence & Machine Learning Lead - Vice President,55000.0,Software deployment
+479,Applied Artificial Intelligence & Machine Learning Lead - Vice President,55000.0,Git
+480,Machine Learning Engineer (PAI),86000.0,R
+480,Machine Learning Engineer (PAI),86000.0,Microsoft SQL Server
+480,Machine Learning Engineer (PAI),86000.0,Mentoring
+480,Machine Learning Engineer (PAI),86000.0,Data science
+480,Machine Learning Engineer (PAI),86000.0,Leadership
+481,Senior Machine Learning Engineer (AI),119000.0,ATS
+482,Senior Machine Learning Engineer,69500.0,TensorFlow
+482,Senior Machine Learning Engineer,69500.0,Spark
+482,Senior Machine Learning Engineer,69500.0,R
+482,Senior Machine Learning Engineer,69500.0,Java
+482,Senior Machine Learning Engineer,69500.0,C++
+483,"Consultant, Data Science and Business Analyst, AI & Data, Defence & Security",77000.0,Machine learning
+483,"Consultant, Data Science and Business Analyst, AI & Data, Defence & Security",77000.0,APIs
+483,"Consultant, Data Science and Business Analyst, AI & Data, Defence & Security",77000.0,Communication skills
+483,"Consultant, Data Science and Business Analyst, AI & Data, Defence & Security",77000.0,Python
+484,Research Fellow – Applied Researcher for Artificial Intelligence Collaboration Centre (AICC) - 2 posts,90000.0,Cloud computing
+484,Research Fellow – Applied Researcher for Artificial Intelligence Collaboration Centre (AICC) - 2 posts,90000.0,Python
+485,Senior Manager - Data Science,56500.0,TensorFlow
+485,Senior Manager - Data Science,56500.0,Java
+485,Senior Manager - Data Science,56500.0,C++
+485,Senior Manager - Data Science,56500.0,Machine learning
+485,Senior Manager - Data Science,56500.0,Natural language processing
+486,Marketing Data Science Manager,87500.0,TensorFlow
+486,Marketing Data Science Manager,87500.0,Cloud infrastructure
+486,Marketing Data Science Manager,87500.0,Kubernetes
+486,Marketing Data Science Manager,87500.0,Configuration management
+486,Marketing Data Science Manager,87500.0,AWS
+487,Head of AI,115000.0,Machine learning
+487,Head of AI,115000.0,Product management
+487,Head of AI,115000.0,Organisational skills
+487,Head of AI,115000.0,AI
+487,Head of AI,115000.0,Requirements gathering
+488,"Senior Applied Scientist, AGI - Intelligent Decisions",102500.0,TensorFlow
+488,"Senior Applied Scientist, AGI - Intelligent Decisions",102500.0,Data analysis skills
+488,"Senior Applied Scientist, AGI - Intelligent Decisions",102500.0,Machine learning
+488,"Senior Applied Scientist, AGI - Intelligent Decisions",102500.0,Biochemistry
+488,"Senior Applied Scientist, AGI - Intelligent Decisions",102500.0,Deep learning
+489,Data Science Manager (US Products),90000.0,Elasticsearch
+489,Data Science Manager (US Products),90000.0,Power BI
+489,Data Science Manager (US Products),90000.0,TCP
+489,Data Science Manager (US Products),90000.0,System administration
+489,Data Science Manager (US Products),90000.0,Business intelligence
+490,Senior Data Scientist - Cricket,48000.0,TensorFlow
+490,Senior Data Scientist - Cricket,48000.0,Cloud infrastructure
+490,Senior Data Scientist - Cricket,48000.0,Azure
+490,Senior Data Scientist - Cricket,48000.0,Data structures
+490,Senior Data Scientist - Cricket,48000.0,English
+491,Machine Learning Engineer (Medical),47000.0,Data mining
+491,Machine Learning Engineer (Medical),47000.0,Spark
+491,Machine Learning Engineer (Medical),47000.0,R
+491,Machine Learning Engineer (Medical),47000.0,Apache Hive
+491,Machine Learning Engineer (Medical),47000.0,Java
+492,Machine Learning Engineer,52000.0,XML
+492,Machine Learning Engineer,52000.0,SAS
+492,Machine Learning Engineer,52000.0,Maths
+492,Machine Learning Engineer,52000.0,FDA regulations
+493,"Product Manager, Machine Learning",136000.0,TensorFlow
+493,"Product Manager, Machine Learning",136000.0,Azure
+493,"Product Manager, Machine Learning",136000.0,Google Cloud Platform
+493,"Product Manager, Machine Learning",136000.0,AWS
+493,"Product Manager, Machine Learning",136000.0,Maths
+494,AI/ML Engineer - Sequence Learning,72500.0,CRM software
+494,AI/ML Engineer - Sequence Learning,72500.0,Power BI
+494,AI/ML Engineer - Sequence Learning,72500.0,Data modelling
+494,AI/ML Engineer - Sequence Learning,72500.0,Microsoft Excel
+494,AI/ML Engineer - Sequence Learning,72500.0,Google Tag Manager
+495,Lead Big Data Engineer,37500.0,TensorFlow
+495,Lead Big Data Engineer,37500.0,Image processing
+495,Lead Big Data Engineer,37500.0,Signal processing
+495,Lead Big Data Engineer,37500.0,Kubernetes
+495,Lead Big Data Engineer,37500.0,Git
+496,Machine Learning Engineer,75500.0,SQL
+496,Machine Learning Engineer,75500.0,Maths
+496,Machine Learning Engineer,75500.0,Portuguese
+496,Machine Learning Engineer,75500.0,Python
+497,Software Engineer (Leadership) - Machine Learning,79500.0,Azure
+497,Software Engineer (Leadership) - Machine Learning,79500.0,Management
+497,Software Engineer (Leadership) - Machine Learning,79500.0,Relational databases
+497,Software Engineer (Leadership) - Machine Learning,79500.0,SQL
+497,Software Engineer (Leadership) - Machine Learning,79500.0,Maths
+498,Senior Statistical Programmer I,50000.0,Power BI
+498,Senior Statistical Programmer I,50000.0,Tableau
+498,Senior Statistical Programmer I,50000.0,SQL
+498,Senior Statistical Programmer I,50000.0,Data science
+498,Senior Statistical Programmer I,50000.0,Data visualisation
+499,Senior AI/Machine Learning Scientist,44000.0,R
+499,Senior AI/Machine Learning Scientist,44000.0,English
+499,Senior AI/Machine Learning Scientist,44000.0,SQL
+499,Senior AI/Machine Learning Scientist,44000.0,Data science
+499,Senior AI/Machine Learning Scientist,44000.0,Communication skills
+500,BHP Clinician Scientist - Institute of Applied Health Research - 104092 - Clinical,50500.0,Machine learning
+500,BHP Clinician Scientist - Institute of Applied Health Research - 104092 - Clinical,50500.0,Natural language processing
+501,Marketing & Performance Analyst,51500.0,Sales
+501,Marketing & Performance Analyst,51500.0,Lead generation
+501,Marketing & Performance Analyst,51500.0,Business development
+501,Marketing & Performance Analyst,51500.0,Machine learning
+501,Marketing & Performance Analyst,51500.0,Sales pipeline
+502,Staff Applied Scientist (Computer Vision / Machine Learning),81500.0,R
+502,Staff Applied Scientist (Computer Vision / Machine Learning),81500.0,Presentation skills
+502,Staff Applied Scientist (Computer Vision / Machine Learning),81500.0,Machine learning
+502,Staff Applied Scientist (Computer Vision / Machine Learning),81500.0,Python
+503,Analytics Lead,81500.0,Image processing
+503,Analytics Lead,81500.0,SQL
+503,Analytics Lead,81500.0,Machine learning
+503,Analytics Lead,81500.0,Data science
+503,Analytics Lead,81500.0,AI
+504,Director of Data Science,55000.0,Machine learning
+504,Director of Data Science,55000.0,Software development
+504,Director of Data Science,55000.0,IT
+504,Director of Data Science,55000.0,Communication skills
+505,Analytics Manager,55500.0,TensorFlow
+505,Analytics Manager,55500.0,Spark
+505,Analytics Manager,55500.0,Java
+505,Analytics Manager,55500.0,AWS
+505,Analytics Manager,55500.0,C++
+506,Data Science Senior Manager,26000.0,Data modelling
+506,Data Science Senior Manager,26000.0,Sales
+506,Data Science Senior Manager,26000.0,Data structures
+506,Data Science Senior Manager,26000.0,Machine learning
+506,Data Science Senior Manager,26000.0,AI
+507,NLP Quant Specialists,39500.0,Business development
+507,NLP Quant Specialists,39500.0,AI
+508,Industry AI & HPC Business Development Representative,76500.0,Cloud infrastructure
+508,Industry AI & HPC Business Development Representative,76500.0,Confluence
+508,Industry AI & HPC Business Development Representative,76500.0,Data science
+508,Industry AI & HPC Business Development Representative,76500.0,AI
+509,Senior Research Statistician,137500.0,Statistical software
+509,Senior Research Statistician,137500.0,SAS
+509,Senior Research Statistician,137500.0,R
+509,Senior Research Statistician,137500.0,Git
+509,Senior Research Statistician,137500.0,SQL
+510,Senior Machine Learning Scientist (Viator),51000.0,R
+510,Senior Machine Learning Scientist (Viator),51000.0,SQL
+510,Senior Machine Learning Scientist (Viator),51000.0,Communication skills
+510,Senior Machine Learning Scientist (Viator),51000.0,Python
+511,Staff Machine Learning Engineer,64500.0,Teaching
+512,"Principal Applied Scientist, Personalization Team",74500.0,TensorFlow
+512,"Principal Applied Scientist, Personalization Team",74500.0,Azure
+512,"Principal Applied Scientist, Personalization Team",74500.0,Software deployment
+512,"Principal Applied Scientist, Personalization Team",74500.0,Data structures
+512,"Principal Applied Scientist, Personalization Team",74500.0,Git
+513,Qlik Sense Developer - Sales Performance Analytics,34000.0,Big data
+513,Qlik Sense Developer - Sales Performance Analytics,34000.0,Scientific research
+513,Qlik Sense Developer - Sales Performance Analytics,34000.0,Spark
+513,Qlik Sense Developer - Sales Performance Analytics,34000.0,Microservices
+513,Qlik Sense Developer - Sales Performance Analytics,34000.0,Machine learning
+514,"AI Senior Manager, R&D - Life Sciences",48500.0,Business intelligence
+514,"AI Senior Manager, R&D - Life Sciences",48500.0,Procurement
+514,"AI Senior Manager, R&D - Life Sciences",48500.0,SAP
+514,"AI Senior Manager, R&D - Life Sciences",48500.0,Supply chain
+514,"AI Senior Manager, R&D - Life Sciences",48500.0,ERP systems
+515,Solution Lead,69000.0,Machine learning
+515,Solution Lead,69000.0,Data science
+515,Solution Lead,69000.0,AI
+515,Solution Lead,69000.0,Leadership
+515,Solution Lead,69000.0,Communication skills
+516,"Predictive Modeller - Pricing Analytics, Global Pricing",78500.0,Project management
+516,"Predictive Modeller - Pricing Analytics, Global Pricing",78500.0,Product management
+516,"Predictive Modeller - Pricing Analytics, Global Pricing",78500.0,UX
+516,"Predictive Modeller - Pricing Analytics, Global Pricing",78500.0,Software development
+516,"Predictive Modeller - Pricing Analytics, Global Pricing",78500.0,IT
+517,Senior Analyst - Customer Analytics,65500.0,Azure
+517,Senior Analyst - Customer Analytics,65500.0,Google Cloud Platform
+517,Senior Analyst - Customer Analytics,65500.0,AWS
+517,Senior Analyst - Customer Analytics,65500.0,Machine learning
+517,Senior Analyst - Customer Analytics,65500.0,Data management
+518,"Lecturer / Senior Lecturer in Data, AI and Society",78500.0,R
+518,"Lecturer / Senior Lecturer in Data, AI and Society",78500.0,Data analysis skills
+518,"Lecturer / Senior Lecturer in Data, AI and Society",78500.0,Git
+518,"Lecturer / Senior Lecturer in Data, AI and Society",78500.0,Tableau
+518,"Lecturer / Senior Lecturer in Data, AI and Society",78500.0,SQL
+519,"Applied AI/ML Lead - Python, NLP, LLMs",65000.0,TensorFlow
+519,"Applied AI/ML Lead - Python, NLP, LLMs",65000.0,Azure
+519,"Applied AI/ML Lead - Python, NLP, LLMs",65000.0,Data mining
+519,"Applied AI/ML Lead - Python, NLP, LLMs",65000.0,Go
+519,"Applied AI/ML Lead - Python, NLP, LLMs",65000.0,Laboratory experience
+520,Applied AI ML - Sr. Associate - Machine Learning Engineer,60000.0,Data mining
+520,Applied AI ML - Sr. Associate - Machine Learning Engineer,60000.0,German
+521,Analytics and Insights Manager - Global Operations,51500.0,Clinical research
+521,Analytics and Insights Manager - Global Operations,51500.0,SAS
+521,Analytics and Insights Manager - Global Operations,51500.0,Application development
+521,Analytics and Insights Manager - Global Operations,51500.0,Leadership
+522,AI Director,79500.0,Machine learning
+522,AI Director,79500.0,Natural language processing
+522,AI Director,79500.0,Data science
+522,AI Director,79500.0,Python
+523,Head of AI Labs,90000.0,TensorFlow
+523,Head of AI Labs,90000.0,SQL
+523,Head of AI Labs,90000.0,OOP
+523,Head of AI Labs,90000.0,Database management
+523,Head of AI Labs,90000.0,Docker
+524,Senior Consultant - Data & AI Strategy - Data Strategy,94500.0,Git
+524,Senior Consultant - Data & AI Strategy - Data Strategy,94500.0,AWS
+524,Senior Consultant - Data & AI Strategy - Data Strategy,94500.0,AI
+524,Senior Consultant - Data & AI Strategy - Data Strategy,94500.0,Python
+525,Senior Data Analysis Manager - Flex IC's,80000.0,C++
+525,Senior Data Analysis Manager - Flex IC's,80000.0,Machine learning
+525,Senior Data Analysis Manager - Flex IC's,80000.0,Python
+526,Natural Language Processing Engineers,67500.0,Data mining
+526,Natural Language Processing Engineers,67500.0,Git
+526,Natural Language Processing Engineers,67500.0,Presentation skills
+526,Natural Language Processing Engineers,67500.0,Machine learning
+526,Natural Language Processing Engineers,67500.0,Mentoring
+527,Assistant Professor (Lecturer) in Data Science,77000.0,Power BI
+527,Assistant Professor (Lecturer) in Data Science,77000.0,SQL
+527,Assistant Professor (Lecturer) in Data Science,77000.0,Machine learning
+527,Assistant Professor (Lecturer) in Data Science,77000.0,IT
+527,Assistant Professor (Lecturer) in Data Science,77000.0,Data science
+528,Senior Statistical Programmer,67000.0,Power BI
+528,Senior Statistical Programmer,67000.0,Waterfall
+528,Senior Statistical Programmer,67000.0,Kanban
+528,Senior Statistical Programmer,67000.0,Qualtrics
+528,Senior Statistical Programmer,67000.0,Project management
+529,Lead Data Scientist,77500.0,Google Cloud Platform
+529,Lead Data Scientist,77500.0,SQL
+529,Lead Data Scientist,77500.0,Machine learning
+529,Lead Data Scientist,77500.0,Scrum
+529,Lead Data Scientist,77500.0,Business requirements
+530,Machine Learning Engineer - Computational Biology,43000.0,Kubernetes
+530,Machine Learning Engineer - Computational Biology,43000.0,Relational databases
+530,Machine Learning Engineer - Computational Biology,43000.0,DevOps
+530,Machine Learning Engineer - Computational Biology,43000.0,OOP
+530,Machine Learning Engineer - Computational Biology,43000.0,AWS
+531,Senior ML Engineer – Chemistry42 (Canada),77500.0,TensorFlow
+531,Senior ML Engineer – Chemistry42 (Canada),77500.0,Machine learning
+531,Senior ML Engineer – Chemistry42 (Canada),77500.0,Deep learning
+531,Senior ML Engineer – Chemistry42 (Canada),77500.0,Leadership
+531,Senior ML Engineer – Chemistry42 (Canada),77500.0,Communication skills
+532,Machine Learning Engineer - Security Cleared,40000.0,Machine learning
+532,Machine Learning Engineer - Security Cleared,40000.0,Deep learning
+532,Machine Learning Engineer - Security Cleared,40000.0,Mentoring
+532,Machine Learning Engineer - Security Cleared,40000.0,Data science
+533,"Associate Director, Data Science and Machine Learning",65500.0,TensorFlow
+533,"Associate Director, Data Science and Machine Learning",65500.0,Kubernetes
+533,"Associate Director, Data Science and Machine Learning",65500.0,Spark
+533,"Associate Director, Data Science and Machine Learning",65500.0,Apache Hive
+533,"Associate Director, Data Science and Machine Learning",65500.0,Java
+534,Assurance - Financial Services - Forensics - Forensic Data Analytics - Senior - London,44000.0,R
+534,Assurance - Financial Services - Forensics - Forensic Data Analytics - Senior - London,44000.0,Git
+534,Assurance - Financial Services - Forensics - Forensic Data Analytics - Senior - London,44000.0,SQL
+534,Assurance - Financial Services - Forensics - Forensic Data Analytics - Senior - London,44000.0,Telecommunication
+534,Assurance - Financial Services - Forensics - Forensic Data Analytics - Senior - London,44000.0,Agile
+535,People Analytics Project Manager,70000.0,Performance tuning
+535,People Analytics Project Manager,70000.0,Data modelling
+535,People Analytics Project Manager,70000.0,Oracle
+535,People Analytics Project Manager,70000.0,Relational databases
+535,People Analytics Project Manager,70000.0,C#
+536,Senior Analytics Engineer (dbt & Looker),90000.0,Machine learning
+536,Senior Analytics Engineer (dbt & Looker),90000.0,Mentoring
+536,Senior Analytics Engineer (dbt & Looker),90000.0,IT
+536,Senior Analytics Engineer (dbt & Looker),90000.0,Leadership
+537,Lead Data Science Engineer,75000.0,TensorFlow
+537,Lead Data Science Engineer,75000.0,Azure
+537,Lead Data Science Engineer,75000.0,Kubernetes
+537,Lead Data Science Engineer,75000.0,Git
+537,Lead Data Science Engineer,75000.0,Google Cloud Platform
+538,Senior Machine Learning Researcher,44000.0,Machine learning
+538,Senior Machine Learning Researcher,44000.0,Project implementation
+538,Senior Machine Learning Researcher,44000.0,AI
+539,"Principal Applied Scientist, ADSP: Contextual Targeting",48000.0,Image processing
+539,"Principal Applied Scientist, ADSP: Contextual Targeting",48000.0,Software deployment
+539,"Principal Applied Scientist, ADSP: Contextual Targeting",48000.0,Google Cloud Platform
+539,"Principal Applied Scientist, ADSP: Contextual Targeting",48000.0,SQL
+539,"Principal Applied Scientist, ADSP: Contextual Targeting",48000.0,Machine learning
+540,Machine Learning Engineer III,46500.0,C#
+540,Machine Learning Engineer III,46500.0,Java
+540,Machine Learning Engineer III,46500.0,OOP
+540,Machine Learning Engineer III,46500.0,C++
+540,Machine Learning Engineer III,46500.0,Machine learning
+541,"Senior Advisor, Data Science Management Consultant",87000.0,Cloud infrastructure
+541,"Senior Advisor, Data Science Management Consultant",87000.0,Confluence
+541,"Senior Advisor, Data Science Management Consultant",87000.0,Data science
+541,"Senior Advisor, Data Science Management Consultant",87000.0,AI
+542,Integration Engineer (Mumbai) (Remote),53000.0,Software deployment
+542,Integration Engineer (Mumbai) (Remote),53000.0,AWS
+542,Integration Engineer (Mumbai) (Remote),53000.0,Distributed systems
+542,Integration Engineer (Mumbai) (Remote),53000.0,Cloud computing
+542,Integration Engineer (Mumbai) (Remote),53000.0,IT
+543,"Senior Machine Learning Engineering Manager, Personalization",87500.0,AI
+544,Senior AI Consultant,41000.0,English
+544,Senior AI Consultant,41000.0,Analysis skills
+544,Senior AI Consultant,41000.0,Machine learning
+544,Senior AI Consultant,41000.0,Product management
+544,Senior AI Consultant,41000.0,Deep learning
+545,AI Skills Hub Program Lead,69500.0,Azure
+545,AI Skills Hub Program Lead,69500.0,System architecture
+545,AI Skills Hub Program Lead,69500.0,English
+545,AI Skills Hub Program Lead,69500.0,AWS
+545,AI Skills Hub Program Lead,69500.0,Machine learning
+546,Lead AI Developer,65000.0,Analysis skills
+546,Lead AI Developer,65000.0,AI
+547,"Machine Learning Engineer, Sponsored Display",67500.0,Machine learning
+547,"Machine Learning Engineer, Sponsored Display",67500.0,Natural language processing
+547,"Machine Learning Engineer, Sponsored Display",67500.0,Data science
+547,"Machine Learning Engineer, Sponsored Display",67500.0,Python
+548,Solution Lead,64500.0,Analysis skills
+548,Solution Lead,64500.0,Project management
+548,Solution Lead,64500.0,Product management
+548,Solution Lead,64500.0,Agile
+548,Solution Lead,64500.0,Data science
+549,"Deep Learning Architect, Generative AI Innovation Center",79500.0,Project management
+549,"Deep Learning Architect, Generative AI Innovation Center",79500.0,Communication skills
+550,Responsible AI Strategy & Training Manager,105000.0,Java
+550,Responsible AI Strategy & Training Manager,105000.0,AWS
+550,Responsible AI Strategy & Training Manager,105000.0,C++
+550,Responsible AI Strategy & Training Manager,105000.0,Machine learning
+550,Responsible AI Strategy & Training Manager,105000.0,Deep learning
+551,AI Product Manager,95000.0,Cloud infrastructure
+551,AI Product Manager,95000.0,Azure
+551,AI Product Manager,95000.0,Rust
+551,AI Product Manager,95000.0,Kubernetes
+551,AI Product Manager,95000.0,Big data
+552,Senior Machine Learning Engineer (UK),43500.0,Software deployment
+552,Senior Machine Learning Engineer (UK),43500.0,SQL
+552,Senior Machine Learning Engineer (UK),43500.0,Machine learning
+552,Senior Machine Learning Engineer (UK),43500.0,Natural language processing
+552,Senior Machine Learning Engineer (UK),43500.0,Software development
+553,AI Product Development Manager,74000.0,Java
+553,AI Product Development Manager,74000.0,Scala
+553,AI Product Development Manager,74000.0,Natural language processing
+553,AI Product Development Manager,74000.0,Agile
+553,AI Product Development Manager,74000.0,Python
+554,Senior Data Scientist,94000.0,Statistics
+554,Senior Data Scientist,94000.0,Tableau
+554,Senior Data Scientist,94000.0,SQL
+554,Senior Data Scientist,94000.0,Regression analysis
+554,Senior Data Scientist,94000.0,Data visualisation
+555,AI Lead,54500.0,Programme management
+555,AI Lead,54500.0,Analysis skills
+555,AI Lead,54500.0,Communication skills
+556,"HR Business Partner - Global E-Commerce - Product, Design & Data Science - London",63000.0,Data structures
+556,"HR Business Partner - Global E-Commerce - Product, Design & Data Science - London",63000.0,C++
+556,"HR Business Partner - Global E-Commerce - Product, Design & Data Science - London",63000.0,Machine learning
+556,"HR Business Partner - Global E-Commerce - Product, Design & Data Science - London",63000.0,Distributed systems
+556,"HR Business Partner - Global E-Commerce - Product, Design & Data Science - London",63000.0,Natural language processing
+557,"Sr. Applied Scientist, AWS Prototyping",77500.0,Data modelling
+557,"Sr. Applied Scientist, AWS Prototyping",77500.0,Business intelligence
+557,"Sr. Applied Scientist, AWS Prototyping",77500.0,SQL
+557,"Sr. Applied Scientist, AWS Prototyping",77500.0,Analysis skills
+557,"Sr. Applied Scientist, AWS Prototyping",77500.0,Data visualisation
+558,AI/ML and MLOps Field Engineer,57000.0,Jira
+558,AI/ML and MLOps Field Engineer,57000.0,Power BI
+558,AI/ML and MLOps Field Engineer,57000.0,Management
+558,AI/ML and MLOps Field Engineer,57000.0,Alteryx
+558,AI/ML and MLOps Field Engineer,57000.0,Tableau
+559,Lead Machine Learning Engineer (Remote),72000.0,Power BI
+559,Lead Machine Learning Engineer (Remote),72000.0,Data analysis skills
+559,Lead Machine Learning Engineer (Remote),72000.0,Tableau
+559,Lead Machine Learning Engineer (Remote),72000.0,SQL
+559,Lead Machine Learning Engineer (Remote),72000.0,Statistical analysis
+560,"Senior Applied Scientist, NLP",68500.0,Azure
+560,"Senior Applied Scientist, NLP",68500.0,Kubernetes
+560,"Senior Applied Scientist, NLP",68500.0,DevOps
+560,"Senior Applied Scientist, NLP",68500.0,Deep learning
+560,"Senior Applied Scientist, NLP",68500.0,Natural language processing
+561,Lead Product Analyst - AI Chat,76000.0,Azure
+561,Lead Product Analyst - AI Chat,76000.0,Google Cloud Platform
+561,Lead Product Analyst - AI Chat,76000.0,Java
+561,Lead Product Analyst - AI Chat,76000.0,AWS
+561,Lead Product Analyst - AI Chat,76000.0,C++
+562,"Leader, Strategic Workforce Planning",66500.0,Azure
+562,"Leader, Strategic Workforce Planning",66500.0,Big data
+562,"Leader, Strategic Workforce Planning",66500.0,Presentation skills
+562,"Leader, Strategic Workforce Planning",66500.0,AI
+562,"Leader, Strategic Workforce Planning",66500.0,Communication skills
+563,"Machine Learning Compiler Software Engineer, TPU Horizontal Scaling",78500.0,Software deployment
+563,"Machine Learning Compiler Software Engineer, TPU Horizontal Scaling",78500.0,Machine learning
+563,"Machine Learning Compiler Software Engineer, TPU Horizontal Scaling",78500.0,Deep learning
+563,"Machine Learning Compiler Software Engineer, TPU Horizontal Scaling",78500.0,Organisational skills
+563,"Machine Learning Compiler Software Engineer, TPU Horizontal Scaling",78500.0,Software development
+564,Senior Analytics Engineer (Viator),85000.0,TensorFlow
+564,Senior Analytics Engineer (Viator),85000.0,Cloud infrastructure
+564,Senior Analytics Engineer (Viator),85000.0,Machine learning
+564,Senior Analytics Engineer (Viator),85000.0,Terraform
+564,Senior Analytics Engineer (Viator),85000.0,Communication skills
+565,"Vice President, EIA Data Analytics",67500.0,TensorFlow
+565,"Vice President, EIA Data Analytics",67500.0,Azure
+565,"Vice President, EIA Data Analytics",67500.0,Kubernetes
+565,"Vice President, EIA Data Analytics",67500.0,Google Cloud Platform
+565,"Vice President, EIA Data Analytics",67500.0,AWS
+566,Group Marketing Analytics & Insights Manager,66500.0,R
+566,Group Marketing Analytics & Insights Manager,66500.0,Data analysis skills
+566,Group Marketing Analytics & Insights Manager,66500.0,Machine learning
+566,Group Marketing Analytics & Insights Manager,66500.0,Predictive analytics
+566,Group Marketing Analytics & Insights Manager,66500.0,Data science
+567,Artificial Intelligence Engineer,70000.0,TensorFlow
+567,Artificial Intelligence Engineer,70000.0,Machine learning
+567,Artificial Intelligence Engineer,70000.0,Mentoring
+567,Artificial Intelligence Engineer,70000.0,Natural language processing
+567,Artificial Intelligence Engineer,70000.0,Communication skills
+568,"Senior Software Engineer - Machine Learning, LLM - London/Remote",63000.0,Statistics
+568,"Senior Software Engineer - Machine Learning, LLM - London/Remote",63000.0,C#
+568,"Senior Software Engineer - Machine Learning, LLM - London/Remote",63000.0,Java
+568,"Senior Software Engineer - Machine Learning, LLM - London/Remote",63000.0,OOP
+568,"Senior Software Engineer - Machine Learning, LLM - London/Remote",63000.0,AWS
+569,Senior Consultant - Analytics & Artificial Intelligence - Data & AI Architect,78000.0,Cloud infrastructure
+569,Senior Consultant - Analytics & Artificial Intelligence - Data & AI Architect,78000.0,Google Cloud Platform
+569,Senior Consultant - Analytics & Artificial Intelligence - Data & AI Architect,78000.0,OOP
+569,Senior Consultant - Analytics & Artificial Intelligence - Data & AI Architect,78000.0,AWS
+569,Senior Consultant - Analytics & Artificial Intelligence - Data & AI Architect,78000.0,Machine learning
+570,"Lead of Machine Learning Engineering, RNA Therapeutics",69500.0,TensorFlow
+570,"Lead of Machine Learning Engineering, RNA Therapeutics",69500.0,Data mining
+570,"Lead of Machine Learning Engineering, RNA Therapeutics",69500.0,Big data
+570,"Lead of Machine Learning Engineering, RNA Therapeutics",69500.0,Spark
+570,"Lead of Machine Learning Engineering, RNA Therapeutics",69500.0,R
+571,Machine Learning Engineering Manager,78500.0,TensorFlow
+571,Machine Learning Engineering Manager,78500.0,R
+571,Machine Learning Engineering Manager,78500.0,SQL
+571,Machine Learning Engineering Manager,78500.0,Analysis skills
+571,Machine Learning Engineering Manager,78500.0,Machine learning
+572,"Post-Sales Machine Learning Engineer, Customer Success - EMEA (Remote)",76500.0,TensorFlow
+572,"Post-Sales Machine Learning Engineer, Customer Success - EMEA (Remote)",76500.0,Azure
+572,"Post-Sales Machine Learning Engineer, Customer Success - EMEA (Remote)",76500.0,Kubernetes
+572,"Post-Sales Machine Learning Engineer, Customer Success - EMEA (Remote)",76500.0,Software deployment
+572,"Post-Sales Machine Learning Engineer, Customer Success - EMEA (Remote)",76500.0,DevOps
+573,Associate Director Data Science,67500.0,R
+573,Associate Director Data Science,67500.0,Java
+573,Associate Director Data Science,67500.0,Supervising experience
+573,Associate Director Data Science,67500.0,Machine learning
+573,Associate Director Data Science,67500.0,Perl
+574,Sr. Machine Learning Engineer II,81000.0,Data modelling
+574,Sr. Machine Learning Engineer II,81000.0,Azure
+574,Sr. Machine Learning Engineer II,81000.0,AWS
+574,Sr. Machine Learning Engineer II,81000.0,Machine learning
+574,Sr. Machine Learning Engineer II,81000.0,Distributed systems
+575,"Machine Learning Engineer, Video Quality Analysis",48000.0,Azure
+575,"Machine Learning Engineer, Video Quality Analysis",48000.0,Management
+575,"Machine Learning Engineer, Video Quality Analysis",48000.0,Relational databases
+575,"Machine Learning Engineer, Video Quality Analysis",48000.0,SQL
+575,"Machine Learning Engineer, Video Quality Analysis",48000.0,Maths
+576,Machine Learning Engineer OPS - (LLM - Open AI GPT Models),39000.0,Machine learning
+576,Machine Learning Engineer OPS - (LLM - Open AI GPT Models),39000.0,Google Search Console
+576,Machine Learning Engineer OPS - (LLM - Open AI GPT Models),39000.0,AI
+576,Machine Learning Engineer OPS - (LLM - Open AI GPT Models),39000.0,Communication skills
+576,Machine Learning Engineer OPS - (LLM - Open AI GPT Models),39000.0,Python
+577,"Sr. Applied Scientist LLM/LVM, Contextual Ads",65500.0,Data analysis skills
+577,"Sr. Applied Scientist LLM/LVM, Contextual Ads",65500.0,APIs
+577,"Sr. Applied Scientist LLM/LVM, Contextual Ads",65500.0,Data science
+577,"Sr. Applied Scientist LLM/LVM, Contextual Ads",65500.0,Communication skills
+578,"Senior Manager, Data Science, Data & Analytics, Belfast",115000.0,Azure
+578,"Senior Manager, Data Science, Data & Analytics, Belfast",115000.0,Node.js
+578,"Senior Manager, Data Science, Data & Analytics, Belfast",115000.0,CSS
+578,"Senior Manager, Data Science, Data & Analytics, Belfast",115000.0,DevOps
+578,"Senior Manager, Data Science, Data & Analytics, Belfast",115000.0,C#
+579,"Lead Decision Scientist, Machine Learning Engineer, UK 2024",74500.0,SQL
+579,"Lead Decision Scientist, Machine Learning Engineer, UK 2024",74500.0,Team management
+579,"Lead Decision Scientist, Machine Learning Engineer, UK 2024",74500.0,Driving
+579,"Lead Decision Scientist, Machine Learning Engineer, UK 2024",74500.0,Data science
+579,"Lead Decision Scientist, Machine Learning Engineer, UK 2024",74500.0,Python
+580,Research Associate in Machine Learning for Genomics,65000.0,TensorFlow
+580,Research Associate in Machine Learning for Genomics,65000.0,Data analysis skills
+580,Research Associate in Machine Learning for Genomics,65000.0,Git
+580,Research Associate in Machine Learning for Genomics,65000.0,English
+580,Research Associate in Machine Learning for Genomics,65000.0,SQL
+581,Machine Learning Engineer 3D Geometry/ Multi-Modal,33000.0,TensorFlow
+581,Machine Learning Engineer 3D Geometry/ Multi-Modal,33000.0,Software deployment
+581,Machine Learning Engineer 3D Geometry/ Multi-Modal,33000.0,NoSQL
+581,Machine Learning Engineer 3D Geometry/ Multi-Modal,33000.0,English
+581,Machine Learning Engineer 3D Geometry/ Multi-Modal,33000.0,MongoDB
+582,Director of Data Science,80000.0,TensorFlow
+582,Director of Data Science,80000.0,Elasticsearch
+582,Director of Data Science,80000.0,Azure
+582,Director of Data Science,80000.0,Data structures
+582,Director of Data Science,80000.0,Git
+583,Senior ML Engineer,74500.0,TensorFlow
+583,Senior ML Engineer,74500.0,Machine learning
+583,Senior ML Engineer,74500.0,Deep learning
+583,Senior ML Engineer,74500.0,Mentoring
+583,Senior ML Engineer,74500.0,Scrum
+584,Expert Analytics Engineer,56500.0,TensorFlow
+584,Expert Analytics Engineer,56500.0,Image processing
+584,Expert Analytics Engineer,56500.0,Signal processing
+584,Expert Analytics Engineer,56500.0,Kubernetes
+584,Expert Analytics Engineer,56500.0,Git
+585,Engineering Innovation AI Lead,41000.0,Analysis skills
+585,Engineering Innovation AI Lead,41000.0,Machine learning
+585,Engineering Innovation AI Lead,41000.0,Natural language processing
+585,Engineering Innovation AI Lead,41000.0,IT
+585,Engineering Innovation AI Lead,41000.0,Data science
+586,Principal Data Scientist - Retention,105500.0,Data structures
+586,Principal Data Scientist - Retention,105500.0,C++
+586,Principal Data Scientist - Retention,105500.0,Machine learning
+586,Principal Data Scientist - Retention,105500.0,Distributed systems
+586,Principal Data Scientist - Retention,105500.0,Natural language processing
+587,Senior/Middle+ ML engineer (UAE),85000.0,Statistics
+587,Senior/Middle+ ML engineer (UAE),85000.0,SAS
+588,Assistant Professor (Research and Education) of Environmental Health Data Science - College of Life and Environmental Sciences - 101769 - Grade 8,35500.0,Data structures
+588,Assistant Professor (Research and Education) of Environmental Health Data Science - College of Life and Environmental Sciences - 101769 - Grade 8,35500.0,R
+588,Assistant Professor (Research and Education) of Environmental Health Data Science - College of Life and Environmental Sciences - 101769 - Grade 8,35500.0,Git
+588,Assistant Professor (Research and Education) of Environmental Health Data Science - College of Life and Environmental Sciences - 101769 - Grade 8,35500.0,Java
+588,Assistant Professor (Research and Education) of Environmental Health Data Science - College of Life and Environmental Sciences - 101769 - Grade 8,35500.0,Docker
+589,Senior/Staff ML Scientist – Retrosynthesis,56000.0,TensorFlow
+589,Senior/Staff ML Scientist – Retrosynthesis,56000.0,Kubernetes
+589,Senior/Staff ML Scientist – Retrosynthesis,56000.0,Big data
+589,Senior/Staff ML Scientist – Retrosynthesis,56000.0,Spark
+589,Senior/Staff ML Scientist – Retrosynthesis,56000.0,English
+590,Digital Audit - Senior Associate - Gen AI Pod,122500.0,Management
+590,Digital Audit - Senior Associate - Gen AI Pod,122500.0,Data management
+590,Digital Audit - Senior Associate - Gen AI Pod,122500.0,Informatica
+590,Digital Audit - Senior Associate - Gen AI Pod,122500.0,Leadership
+590,Digital Audit - Senior Associate - Gen AI Pod,122500.0,Communication skills
+591,Senior Machine Learning Developer,40000.0,Power BI
+591,Senior Machine Learning Developer,40000.0,Azure
+591,Senior Machine Learning Developer,40000.0,Data mining
+591,Senior Machine Learning Developer,40000.0,Big data
+591,Senior Machine Learning Developer,40000.0,Spark
+592,Senior Applied Scientist,40500.0,SQL
+592,Senior Applied Scientist,40500.0,APIs
+592,Senior Applied Scientist,40500.0,Python
+593,Senior Machine Learning Engineer,124000.0,Node.js
+593,Senior Machine Learning Engineer,124000.0,Machine learning
+593,Senior Machine Learning Engineer,124000.0,AI
+594,"Staff Software Engineer, Applied Machine Learning",65000.0,TensorFlow
+594,"Staff Software Engineer, Applied Machine Learning",65000.0,Sourcing
+594,"Staff Software Engineer, Applied Machine Learning",65000.0,Data structures
+594,"Staff Software Engineer, Applied Machine Learning",65000.0,Configuration management
+594,"Staff Software Engineer, Applied Machine Learning",65000.0,Machine learning
+595,Principal Statistical Programmer - FSP (Permanent Homebased / Remote),75000.0,Machine learning
+596,Sr. Machine Learning Engineer,115000.0,MATLAB
+596,Sr. Machine Learning Engineer,115000.0,Machine learning
+596,Sr. Machine Learning Engineer,115000.0,Continuous integration
+596,Sr. Machine Learning Engineer,115000.0,Deep learning
+596,Sr. Machine Learning Engineer,115000.0,Software development
+597,Senior Data Scientist,75000.0,Azure
+597,Senior Data Scientist,75000.0,IT
+597,Senior Data Scientist,75000.0,AI
+597,Senior Data Scientist,75000.0,Communication skills
+598,"Senior Manager Data Governance, Data & Analytics, Belfast",46000.0,Software deployment
+598,"Senior Manager Data Governance, Data & Analytics, Belfast",46000.0,SQL
+598,"Senior Manager Data Governance, Data & Analytics, Belfast",46000.0,Machine learning
+598,"Senior Manager Data Governance, Data & Analytics, Belfast",46000.0,Data science
+598,"Senior Manager Data Governance, Data & Analytics, Belfast",46000.0,Communication skills
+599,Tech Lead (Gen AI),106500.0,TensorFlow
+599,Tech Lead (Gen AI),106500.0,Statistics
+599,Tech Lead (Gen AI),106500.0,Big data
+599,Tech Lead (Gen AI),106500.0,Spark
+599,Tech Lead (Gen AI),106500.0,R
+600,"Senior/Lead Pricing Data Scientist, Net pricing Team",57500.0,Underwriting
+600,"Senior/Lead Pricing Data Scientist, Net pricing Team",57500.0,Maths
+600,"Senior/Lead Pricing Data Scientist, Net pricing Team",57500.0,Project management
+600,"Senior/Lead Pricing Data Scientist, Net pricing Team",57500.0,Agile
+600,"Senior/Lead Pricing Data Scientist, Net pricing Team",57500.0,Financial services
+601,Research Fellow in Mathematical Foundations of AI and Machine Learning,43500.0,Machine learning
+601,Research Fellow in Mathematical Foundations of AI and Machine Learning,43500.0,Natural language processing
+601,Research Fellow in Mathematical Foundations of AI and Machine Learning,43500.0,Agile
+601,Research Fellow in Mathematical Foundations of AI and Machine Learning,43500.0,AI
+602,"Senior Machine Learning Engineer - UK, Hybrid",83500.0,Statistical software
+602,"Senior Machine Learning Engineer - UK, Hybrid",83500.0,Data analysis skills
+602,"Senior Machine Learning Engineer - UK, Hybrid",83500.0,Machine learning
+602,"Senior Machine Learning Engineer - UK, Hybrid",83500.0,Data science
+602,"Senior Machine Learning Engineer - UK, Hybrid",83500.0,Python
+603,Machine Learning Equity Quant Researcher/ Flexible Location,95000.0,TensorFlow
+603,Machine Learning Equity Quant Researcher/ Flexible Location,95000.0,Image processing
+603,Machine Learning Equity Quant Researcher/ Flexible Location,95000.0,Operating systems
+603,Machine Learning Equity Quant Researcher/ Flexible Location,95000.0,Test automation
+603,Machine Learning Equity Quant Researcher/ Flexible Location,95000.0,Git
+604,Research Fellow in Scientific Machine Learning,52000.0,Data structures
+604,Research Fellow in Scientific Machine Learning,52000.0,System design
+604,Research Fellow in Scientific Machine Learning,52000.0,Product development
+604,Research Fellow in Scientific Machine Learning,52000.0,Machine learning
+604,Research Fellow in Scientific Machine Learning,52000.0,Natural language processing
+605,AI Strategy Lead,50500.0,Machine learning
+606,Machine Learning Engineer / Remote/ $High,52000.0,Kubernetes
+606,Machine Learning Engineer / Remote/ $High,52000.0,Software deployment
+606,Machine Learning Engineer / Remote/ $High,52000.0,Spark
+606,Machine Learning Engineer / Remote/ $High,52000.0,NoSQL
+606,Machine Learning Engineer / Remote/ $High,52000.0,Docker
+607,MACHINE LEARNING SPECIALIST,77500.0,Machine learning
+607,MACHINE LEARNING SPECIALIST,77500.0,Natural language processing
+607,MACHINE LEARNING SPECIALIST,77500.0,Data science
+607,MACHINE LEARNING SPECIALIST,77500.0,Python
+608,Head of Document AI Ingestion,100000.0,TensorFlow
+608,Head of Document AI Ingestion,100000.0,Azure
+608,Head of Document AI Ingestion,100000.0,Kubernetes
+608,Head of Document AI Ingestion,100000.0,AWS
+608,Head of Document AI Ingestion,100000.0,Docker
+609,Senior AI | Machine Learning Engineer,48000.0,TensorFlow
+609,Senior AI | Machine Learning Engineer,48000.0,Image processing
+609,Senior AI | Machine Learning Engineer,48000.0,Unreal Engine
+609,Senior AI | Machine Learning Engineer,48000.0,Docker
+609,Senior AI | Machine Learning Engineer,48000.0,Machine learning
+610,Director of Analytics Consulting - Credit Risk,65000.0,Machine learning
+610,Director of Analytics Consulting - Credit Risk,65000.0,AI
+610,Director of Analytics Consulting - Credit Risk,65000.0,Leadership
+610,Director of Analytics Consulting - Credit Risk,65000.0,Communication skills
+611,Senior Machine Learning Engineer,67500.0,TensorFlow
+611,Senior Machine Learning Engineer,67500.0,Software deployment
+611,Senior Machine Learning Engineer,67500.0,AWS
+611,Senior Machine Learning Engineer,67500.0,Docker
+611,Senior Machine Learning Engineer,67500.0,Machine learning
+612,"Backend Engineer, Data & Machine Learning",64500.0,French
+612,"Backend Engineer, Data & Machine Learning",64500.0,Sales
+612,"Backend Engineer, Data & Machine Learning",64500.0,R
+612,"Backend Engineer, Data & Machine Learning",64500.0,Lead generation
+612,"Backend Engineer, Data & Machine Learning",64500.0,English
+613,Deep Learning Researcher (PhD) - HFT (Amsterdam),144000.0,Azure
+613,Deep Learning Researcher (PhD) - HFT (Amsterdam),144000.0,Go
+613,Deep Learning Researcher (PhD) - HFT (Amsterdam),144000.0,Google Cloud Platform
+613,Deep Learning Researcher (PhD) - HFT (Amsterdam),144000.0,Java
+613,Deep Learning Researcher (PhD) - HFT (Amsterdam),144000.0,AWS
+614,Data ML Engineer,42000.0,TensorFlow
+614,Data ML Engineer,42000.0,Operating systems
+614,Data ML Engineer,42000.0,Test automation
+614,Data ML Engineer,42000.0,Git
+614,Data ML Engineer,42000.0,Test-driven development
+615,Data Science Lead,70000.0,TensorFlow
+615,Data Science Lead,70000.0,Google Cloud Platform
+615,Data Science Lead,70000.0,OOP
+615,Data Science Lead,70000.0,AWS
+615,Data Science Lead,70000.0,Analysis skills
+616,Machine Learning Engineer,42500.0,TensorFlow
+616,Machine Learning Engineer,42500.0,Software deployment
+616,Machine Learning Engineer,42500.0,C++
+616,Machine Learning Engineer,42500.0,Maths
+616,Machine Learning Engineer,42500.0,Machine learning
+617,Machine Learning Engineer,68000.0,English
+617,Machine Learning Engineer,68000.0,Biochemistry
+617,Machine Learning Engineer,68000.0,Deep learning
+617,Machine Learning Engineer,68000.0,AI
+617,Machine Learning Engineer,68000.0,Communication skills
+618,AI Regulation & Governance Senior/Managing Consultant,52000.0,TensorFlow
+618,AI Regulation & Governance Senior/Managing Consultant,52000.0,Azure
+618,AI Regulation & Governance Senior/Managing Consultant,52000.0,Relational databases
+618,AI Regulation & Governance Senior/Managing Consultant,52000.0,C#
+618,AI Regulation & Governance Senior/Managing Consultant,52000.0,Spark
+619,Machine Learning Engineer,40000.0,Power BI
+619,Machine Learning Engineer,40000.0,SAFe
+619,Machine Learning Engineer,40000.0,React
+619,Machine Learning Engineer,40000.0,Kanban
+619,Machine Learning Engineer,40000.0,R
+620,"Enterprise Data - Sales Specialist - Research, ESG & Data Science Products, Specialist Sales - Financial Solutions",94000.0,Data modelling
+620,"Enterprise Data - Sales Specialist - Research, ESG & Data Science Products, Specialist Sales - Financial Solutions",94000.0,Software deployment
+620,"Enterprise Data - Sales Specialist - Research, ESG & Data Science Products, Specialist Sales - Financial Solutions",94000.0,MongoDB
+620,"Enterprise Data - Sales Specialist - Research, ESG & Data Science Products, Specialist Sales - Financial Solutions",94000.0,Microservices
+620,"Enterprise Data - Sales Specialist - Research, ESG & Data Science Products, Specialist Sales - Financial Solutions",94000.0,AWS
+621,"Senior Machine Learning Infrastructure Engineer, Music",37500.0,Azure
+621,"Senior Machine Learning Infrastructure Engineer, Music",37500.0,Tableau
+621,"Senior Machine Learning Infrastructure Engineer, Music",37500.0,SQL
+621,"Senior Machine Learning Infrastructure Engineer, Music",37500.0,Analysis skills
+621,"Senior Machine Learning Infrastructure Engineer, Music",37500.0,Swedish
+622,Senior Machine Learning Scientist/Engineer,52500.0,Oracle
+622,Senior Machine Learning Scientist/Engineer,52500.0,Cloud architecture
+622,Senior Machine Learning Scientist/Engineer,52500.0,CSS
+622,Senior Machine Learning Scientist/Engineer,52500.0,DevOps
+622,Senior Machine Learning Scientist/Engineer,52500.0,PaaS
+623,Machine Learning Engineer,90000.0,Data science
+623,Machine Learning Engineer,90000.0,Account management
+623,Machine Learning Engineer,90000.0,Communication skills
+624,Senior AI/ML Engineer - Computer Vision,41000.0,TensorFlow
+624,Senior AI/ML Engineer - Computer Vision,41000.0,Cloud infrastructure
+624,Senior AI/ML Engineer - Computer Vision,41000.0,Software deployment
+624,Senior AI/ML Engineer - Computer Vision,41000.0,C#
+624,Senior AI/ML Engineer - Computer Vision,41000.0,SQL
+625,Azure AI Solutions Architect,73500.0,Machine learning
+625,Azure AI Solutions Architect,73500.0,Natural language processing
+625,Azure AI Solutions Architect,73500.0,Data science
+625,Azure AI Solutions Architect,73500.0,Python
