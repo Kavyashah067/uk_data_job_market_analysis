@@ -22,6 +22,7 @@ The analysis was performed across three layers:
 - Git & GitHub
 
 ## Project Structure
+```
 uk_data_job_market_analysis/
 │
 ├── data/
@@ -34,8 +35,8 @@ uk_data_job_market_analysis/
 │   └── main.py
 │
 ├── output/
-│   └── cleaned_uk_data_jobs.csv
-│   └── job_skills_table.csv
+│   ├── cleaned_uk_data_jobs.csv
+│   ├── job_skills_table.csv
 │   └── job_table.csv
 │
 ├── powerbi/
@@ -52,9 +53,10 @@ uk_data_job_market_analysis/
 │   ├── top_skills_sql.png
 │   └── powerbi_dashboard_overview.png
 │
-└── data_jobs.db
-└── .gitignore
+├── data_jobs.db
+├── .gitignore
 └── README.md
+```
 
 ## Methodology
 ### Python - Data Cleaning & EDA
